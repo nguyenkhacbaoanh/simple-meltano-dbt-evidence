@@ -1,0 +1,10 @@
+# This file was automatically generated
+name: migration
+type: postgres
+options:
+  host: localhost
+  port: 5432
+  database: postgres
+  schema: analytics
+  user: meltano
+  password: password

@@ -1,0 +1,500 @@
+{"id": "1", "date": "2023-02-08", "company": "CDN", "department": "Advertising", "so": "31", "contract_number": "SM0668466261522845347883555", "currency": "46483.56\u20ac"}
+{"id": "2", "date": "2022-10-04", "company": "CDN", "department": "Human Resources", "so": "23", "contract_number": "ME93229205599523378974", "currency": "-31272.12\u20ac"}
+{"id": "3", "date": "2022-10-20", "company": "CDN", "department": "Asset Management", "so": "19", "contract_number": "ES0826356019142482407884", "currency": "83017.78\u20ac"}
+{"id": "4", "date": "2023-10-30", "company": "CDN", "department": "Media Relations", "so": "43", "contract_number": "IS358571838864153245018719", "currency": "16525.61\u20ac"}
+{"id": "5", "date": "2024-01-19", "company": "CDN", "department": "Quality Assurance", "so": "11", "contract_number": "MR7754847435847859557377432", "currency": "57527.85\u20ac"}
+{"id": "6", "date": "2023-08-31", "company": "CDN", "department": "Advertising", "so": "43", "contract_number": "BG96NVMX68616425064212", "currency": "79043.86\u20ac"}
+{"id": "7", "date": "2023-08-13", "company": "CDN", "department": "Finances", "so": "13", "contract_number": "DE98654597136217504234", "currency": "-63751.22\u20ac"}
+{"id": "8", "date": "2023-11-10", "company": "CDN", "department": "Customer Relations", "so": "47", "contract_number": "IE85IHOL68485528033521", "currency": "23815.54\u20ac"}
+{"id": "9", "date": "2023-04-19", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "LI8595887655841713663", "currency": "-65272.34\u20ac"}
+{"id": "10", "date": "2023-04-20", "company": "CDN", "department": "Customer Service", "so": "31", "contract_number": "HR6378742932167841305", "currency": "-26209.19\u20ac"}
+{"id": "11", "date": "2024-01-08", "company": "CDN", "department": "Customer Relations", "so": "29", "contract_number": "GI09ZKKJ181771322369865", "currency": "-31125.04\u20ac"}
+{"id": "12", "date": "2023-06-22", "company": "CDN", "department": "Tech Support", "so": "13", "contract_number": "SK1885636228378233349688", "currency": "85243.10\u20ac"}
+{"id": "13", "date": "2023-04-08", "company": "CDN", "department": "Tech Support", "so": "47", "contract_number": "RS33657598872467770733", "currency": "-20052.01\u20ac"}
+{"id": "14", "date": "2023-11-17", "company": "CDN", "department": "Legal Department", "so": "11", "contract_number": "BA523335314169888367", "currency": "6600.05\u20ac"}
+{"id": "15", "date": "2022-11-20", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "MR5564718633500373739464527", "currency": "-14502.11\u20ac"}
+{"id": "16", "date": "2023-08-26", "company": "CDN", "department": "Research and Development", "so": "41", "contract_number": "GL0609860336897449", "currency": "16686.57\u20ac"}
+{"id": "17", "date": "2023-08-16", "company": "CDN", "department": "Advertising", "so": "13", "contract_number": "NO5454827343891", "currency": "80865.05\u20ac"}
+{"id": "18", "date": "2023-07-19", "company": "CDN", "department": "Customer Service", "so": "47", "contract_number": "AZ48059183189331771132238026", "currency": "-26272.58\u20ac"}
+{"id": "19", "date": "2022-10-16", "company": "CDN", "department": "Accounting", "so": "29", "contract_number": "HR7253066837457644100", "currency": "-50177.94\u20ac"}
+{"id": "20", "date": "2023-02-14", "company": "CDN", "department": "Finances", "so": "43", "contract_number": "ES7319818610813375122508", "currency": "-16108.37\u20ac"}
+{"id": "21", "date": "2023-01-06", "company": "CDN", "department": "Public Relations", "so": "41", "contract_number": "GR9428661861471522668452569", "currency": "-82440.80\u20ac"}
+{"id": "22", "date": "2023-06-15", "company": "CDN", "department": "Payroll", "so": "23", "contract_number": "IS496843564117672462226564", "currency": "36151.21\u20ac"}
+{"id": "23", "date": "2023-10-26", "company": "CDN", "department": "Human Resources", "so": "31", "contract_number": "BE92779566064054", "currency": "18503.38\u20ac"}
+{"id": "24", "date": "2023-09-22", "company": "CDN", "department": "Asset Management", "so": "47", "contract_number": "ME41512169453220742281", "currency": "62110.26\u20ac"}
+{"id": "25", "date": "2023-10-21", "company": "CDN", "department": "Tech Support", "so": "43", "contract_number": "AT753661214876598341", "currency": "-52971.69\u20ac"}
+{"id": "26", "date": "2024-01-31", "company": "CDN", "department": "Payroll", "so": "19", "contract_number": "AL21333524507004840810217558", "currency": "68572.19\u20ac"}
+{"id": "27", "date": "2022-10-10", "company": "CDN", "department": "Asset Management", "so": "47", "contract_number": "BE70336118989149", "currency": "25873.67\u20ac"}
+{"id": "28", "date": "2023-12-26", "company": "CDN", "department": "Human Resources", "so": "23", "contract_number": "GE36147576199253710012", "currency": "13086.48\u20ac"}
+{"id": "29", "date": "2023-03-05", "company": "CDN", "department": "Accounting", "so": "31", "contract_number": "BG66YFNS03354121638357", "currency": "49184.45\u20ac"}
+{"id": "30", "date": "2023-02-26", "company": "CDN", "department": "Asset Management", "so": "37", "contract_number": "RO12HSYU1215141114524405", "currency": "-9066.72\u20ac"}
+{"id": "31", "date": "2023-01-13", "company": "CDN", "department": "Customer Service", "so": "29", "contract_number": "DK9856931534510833", "currency": "92420.18\u20ac"}
+{"id": "32", "date": "2023-07-17", "company": "CDN", "department": "Human Resources", "so": "41", "contract_number": "AZ40549923576666491078384190", "currency": "96620.62\u20ac"}
+{"id": "33", "date": "2023-03-12", "company": "CDN", "department": "Human Resources", "so": "41", "contract_number": "FO2697681896816628", "currency": "-66627.95\u20ac"}
+{"id": "34", "date": "2024-01-22", "company": "CDN", "department": "Public Relations", "so": "29", "contract_number": "MC5968424396128022927276314", "currency": "48476.92\u20ac"}
+{"id": "35", "date": "2023-01-10", "company": "CDN", "department": "Customer Service", "so": "19", "contract_number": "CR8681973723995631533", "currency": "-24284.67\u20ac"}
+{"id": "36", "date": "2023-04-10", "company": "CDN", "department": "Public Relations", "so": "11", "contract_number": "IL468147944847106599981", "currency": "75956.26\u20ac"}
+{"id": "37", "date": "2023-12-12", "company": "CDN", "department": "Human Resources", "so": "13", "contract_number": "MR2916528865913319680416437", "currency": "85045.25\u20ac"}
+{"id": "38", "date": "2023-03-05", "company": "CDN", "department": "Quality Assurance", "so": "23", "contract_number": "LT326464888960968700", "currency": "-84324.79\u20ac"}
+{"id": "39", "date": "2023-01-29", "company": "CDN", "department": "Advertising", "so": "31", "contract_number": "RS55737391445317456446", "currency": "-53494.79\u20ac"}
+{"id": "40", "date": "2023-06-06", "company": "CDN", "department": "Human Resources", "so": "23", "contract_number": "MD6417157713201123701861", "currency": "23876.28\u20ac"}
+{"id": "41", "date": "2023-09-20", "company": "CDN", "department": "Tech Support", "so": "23", "contract_number": "HR1434743587887880639", "currency": "-91204.41\u20ac"}
+{"id": "42", "date": "2023-11-18", "company": "CDN", "department": "Asset Management", "so": "23", "contract_number": "LT675003767381241411", "currency": "23267.53\u20ac"}
+{"id": "43", "date": "2023-07-14", "company": "CDN", "department": "Customer Relations", "so": "29", "contract_number": "CH5705136794178614672", "currency": "-31450.25\u20ac"}
+{"id": "44", "date": "2023-06-02", "company": "CDN", "department": "Research and Development", "so": "23", "contract_number": "SM9154610892928814491383834", "currency": "32944.66\u20ac"}
+{"id": "45", "date": "2023-01-13", "company": "CDN", "department": "Finances", "so": "29", "contract_number": "LI9796598835248794003", "currency": "-7258.38\u20ac"}
+{"id": "46", "date": "2023-02-27", "company": "CDN", "department": "Sales and Marketing", "so": "11", "contract_number": "SK7340287617024601612764", "currency": "58035.73\u20ac"}
+{"id": "47", "date": "2022-12-06", "company": "CDN", "department": "Legal Department", "so": "37", "contract_number": "AL71423781662883151157246354", "currency": "-92182.86\u20ac"}
+{"id": "48", "date": "2023-03-16", "company": "CDN", "department": "Customer Relations", "so": "43", "contract_number": "PK6654327375780544165936", "currency": "-66503.69\u20ac"}
+{"id": "49", "date": "2022-12-13", "company": "CDN", "department": "Public Relations", "so": "11", "contract_number": "AL31890995172371434353266338", "currency": "-35581.84\u20ac"}
+{"id": "50", "date": "2023-10-26", "company": "CDN", "department": "Accounting", "so": "13", "contract_number": "LV83YESG8724183725241", "currency": "97822.39\u20ac"}
+{"id": "51", "date": "2023-03-23", "company": "CDN", "department": "Payroll", "so": "31", "contract_number": "LB88366247881542129448715626", "currency": "31480.86\u20ac"}
+{"id": "52", "date": "2023-10-03", "company": "CDN", "department": "Sales and Marketing", "so": "47", "contract_number": "IT583XVVKI44717776879346586", "currency": "56229.99\u20ac"}
+{"id": "53", "date": "2023-02-24", "company": "CDN", "department": "Sales and Marketing", "so": "11", "contract_number": "GI53BKVU062510150657445", "currency": "-90708.25\u20ac"}
+{"id": "54", "date": "2023-05-09", "company": "CDN", "department": "Quality Assurance", "so": "41", "contract_number": "LB65855818266037582754875086", "currency": "74199.15\u20ac"}
+{"id": "55", "date": "2022-11-01", "company": "CDN", "department": "Asset Management", "so": "47", "contract_number": "RO07ZVDR5231328574667337", "currency": "67142.51\u20ac"}
+{"id": "56", "date": "2023-07-18", "company": "CDN", "department": "Media Relations", "so": "17", "contract_number": "FO6459593919522716", "currency": "7697.69\u20ac"}
+{"id": "57", "date": "2022-10-11", "company": "CDN", "department": "Human Resources", "so": "17", "contract_number": "BE62430630762268", "currency": "55160.47\u20ac"}
+{"id": "58", "date": "2023-04-28", "company": "CDN", "department": "Accounting", "so": "41", "contract_number": "PK5106663333717278344971", "currency": "-49651.93\u20ac"}
+{"id": "59", "date": "2023-07-11", "company": "CDN", "department": "Tech Support", "so": "23", "contract_number": "AL30932462584265490543244138", "currency": "-9127.40\u20ac"}
+{"id": "60", "date": "2023-08-23", "company": "CDN", "department": "Customer Service", "so": "19", "contract_number": "PT93312587205322876561346", "currency": "-68689.63\u20ac"}
+{"id": "61", "date": "2023-05-07", "company": "CDN", "department": "Advertising", "so": "11", "contract_number": "EE069773432437439721", "currency": "69238.77\u20ac"}
+{"id": "62", "date": "2022-10-16", "company": "CDN", "department": "Customer Relations", "so": "11", "contract_number": "VG6955438631243131238731", "currency": "24399.86\u20ac"}
+{"id": "63", "date": "2023-05-27", "company": "CDN", "department": "Public Relations", "so": "31", "contract_number": "CZ0537652632014611934843", "currency": "97808.38\u20ac"}
+{"id": "64", "date": "2023-05-03", "company": "CDN", "department": "Customer Service", "so": "47", "contract_number": "IL628227221388515799475", "currency": "65018.15\u20ac"}
+{"id": "65", "date": "2022-11-30", "company": "CDN", "department": "Human Resources", "so": "11", "contract_number": "MR2164771308752320002736057", "currency": "-6204.09\u20ac"}
+{"id": "66", "date": "2023-02-15", "company": "CDN", "department": "Customer Relations", "so": "17", "contract_number": "IS826762737791812710531184", "currency": "26149.39\u20ac"}
+{"id": "67", "date": "2023-12-01", "company": "CDN", "department": "Legal Department", "so": "31", "contract_number": "HU37473655462895389314554562", "currency": "-44992.03\u20ac"}
+{"id": "68", "date": "2023-05-14", "company": "CDN", "department": "Asset Management", "so": "17", "contract_number": "CH1977136624595357056", "currency": "-34991.75\u20ac"}
+{"id": "69", "date": "2023-11-03", "company": "CDN", "department": "Advertising", "so": "31", "contract_number": "BG75CJCV48764207680141", "currency": "59878.11\u20ac"}
+{"id": "70", "date": "2022-12-23", "company": "CDN", "department": "Payroll", "so": "43", "contract_number": "PT48253992167642253178044", "currency": "-84480.63\u20ac"}
+{"id": "71", "date": "2023-10-05", "company": "CDN", "department": "Media Relations", "so": "13", "contract_number": "GT26193347489270735887267243", "currency": "45406.66\u20ac"}
+{"id": "72", "date": "2023-08-20", "company": "CDN", "department": "Tech Support", "so": "11", "contract_number": "DK4643807565653732", "currency": "74688.49\u20ac"}
+{"id": "73", "date": "2023-03-28", "company": "CDN", "department": "Customer Relations", "so": "13", "contract_number": "RO10TCLD7379344944980558", "currency": "16866.32\u20ac"}
+{"id": "74", "date": "2022-11-10", "company": "CDN", "department": "Finances", "so": "47", "contract_number": "GB44APQW87441812426525", "currency": "84486.76\u20ac"}
+{"id": "75", "date": "2023-11-13", "company": "CDN", "department": "Human Resources", "so": "37", "contract_number": "ME70454545384437459477", "currency": "-40784.64\u20ac"}
+{"id": "76", "date": "2023-11-16", "company": "CDN", "department": "Public Relations", "so": "43", "contract_number": "VG3154656626001789216914", "currency": "73521.39\u20ac"}
+{"id": "77", "date": "2023-12-05", "company": "CDN", "department": "Customer Relations", "so": "31", "contract_number": "AZ58488886166474273889238256", "currency": "-13215.90\u20ac"}
+{"id": "78", "date": "2023-01-31", "company": "CDN", "department": "Media Relations", "so": "13", "contract_number": "HR3836745145134874248", "currency": "-10384.64\u20ac"}
+{"id": "79", "date": "2023-09-13", "company": "CDN", "department": "Asset Management", "so": "17", "contract_number": "AZ43122764858460094284569461", "currency": "53409.76\u20ac"}
+{"id": "80", "date": "2023-07-29", "company": "CDN", "department": "Human Resources", "so": "23", "contract_number": "AZ50815581164891958954855970", "currency": "-39413.67\u20ac"}
+{"id": "81", "date": "2024-01-03", "company": "CDN", "department": "Customer Relations", "so": "47", "contract_number": "DO54718476086785451880536922", "currency": "-80503.78\u20ac"}
+{"id": "82", "date": "2022-11-03", "company": "CDN", "department": "Research and Development", "so": "37", "contract_number": "BE16006605837260", "currency": "-13916.84\u20ac"}
+{"id": "83", "date": "2023-06-18", "company": "CDN", "department": "Asset Management", "so": "29", "contract_number": "BG83UEPT77715106445079", "currency": "-25627.51\u20ac"}
+{"id": "84", "date": "2023-12-31", "company": "CDN", "department": "Finances", "so": "37", "contract_number": "KW5173727660936001641741873541", "currency": "66065.19\u20ac"}
+{"id": "85", "date": "2023-03-11", "company": "CDN", "department": "Human Resources", "so": "13", "contract_number": "MC7189765367267345068293730", "currency": "-7442.14\u20ac"}
+{"id": "86", "date": "2023-10-29", "company": "CDN", "department": "Advertising", "so": "17", "contract_number": "SE9182467573076037524921", "currency": "97339.52\u20ac"}
+{"id": "87", "date": "2023-11-08", "company": "CDN", "department": "Public Relations", "so": "23", "contract_number": "IT205QPMKI72815174594379354", "currency": "56651.10\u20ac"}
+{"id": "88", "date": "2022-11-18", "company": "CDN", "department": "Accounting", "so": "41", "contract_number": "SI77753964391617622", "currency": "24884.53\u20ac"}
+{"id": "89", "date": "2022-11-02", "company": "CDN", "department": "Human Resources", "so": "19", "contract_number": "PS433622229748791914556156221", "currency": "-99223.87\u20ac"}
+{"id": "90", "date": "2023-12-17", "company": "CDN", "department": "Asset Management", "so": "43", "contract_number": "GL0424137026543239", "currency": "-88904.75\u20ac"}
+{"id": "91", "date": "2023-08-28", "company": "CDN", "department": "Customer Relations", "so": "17", "contract_number": "IE36YJLQ32730429422747", "currency": "41291.28\u20ac"}
+{"id": "92", "date": "2023-04-06", "company": "CDN", "department": "Media Relations", "so": "41", "contract_number": "SK0464630159738245393405", "currency": "22687.58\u20ac"}
+{"id": "93", "date": "2023-09-20", "company": "CDN", "department": "Customer Service", "so": "17", "contract_number": "IL831711411272733192646", "currency": "-15597.60\u20ac"}
+{"id": "94", "date": "2023-10-13", "company": "CDN", "department": "Finances", "so": "37", "contract_number": "FR8005966174367577625161232", "currency": "34211.88\u20ac"}
+{"id": "95", "date": "2023-09-19", "company": "CDN", "department": "Payroll", "so": "47", "contract_number": "FR3403885170029888383373307", "currency": "5561.95\u20ac"}
+{"id": "96", "date": "2023-11-12", "company": "CDN", "department": "Asset Management", "so": "23", "contract_number": "NL98XBBH1955030105", "currency": "6279.13\u20ac"}
+{"id": "97", "date": "2022-11-02", "company": "CDN", "department": "Accounting", "so": "23", "contract_number": "KW7172723694232608786551840730", "currency": "20486.20\u20ac"}
+{"id": "98", "date": "2023-10-05", "company": "CDN", "department": "Payroll", "so": "23", "contract_number": "ES3677738257084251712633", "currency": "8948.77\u20ac"}
+{"id": "99", "date": "2023-06-16", "company": "CDN", "department": "Payroll", "so": "43", "contract_number": "IS165093495595117158488616", "currency": "-84013.25\u20ac"}
+{"id": "100", "date": "2023-05-28", "company": "CDN", "department": "Quality Assurance", "so": "11", "contract_number": "BH28720723570834202392", "currency": "6416.11\u20ac"}
+{"id": "101", "date": "2023-05-13", "company": "CDN", "department": "Sales and Marketing", "so": "19", "contract_number": "MU2621343191166216643261788873", "currency": "30737.07\u20ac"}
+{"id": "102", "date": "2023-05-17", "company": "CDN", "department": "Research and Development", "so": "17", "contract_number": "GE61398451807151628981", "currency": "-47684.09\u20ac"}
+{"id": "103", "date": "2022-10-19", "company": "CDN", "department": "Finances", "so": "23", "contract_number": "HR7548684275283631551", "currency": "71683.63\u20ac"}
+{"id": "104", "date": "2023-03-24", "company": "CDN", "department": "Finances", "so": "47", "contract_number": "HU23166242238905411339074707", "currency": "78068.70\u20ac"}
+{"id": "105", "date": "2024-01-18", "company": "CDN", "department": "Quality Assurance", "so": "31", "contract_number": "PL13983584717126295124863704", "currency": "-62809.42\u20ac"}
+{"id": "106", "date": "2023-11-24", "company": "CDN", "department": "Sales and Marketing", "so": "13", "contract_number": "LU111588871796370438", "currency": "-87030.94\u20ac"}
+{"id": "107", "date": "2023-04-09", "company": "CDN", "department": "Legal Department", "so": "31", "contract_number": "LU147437043753416968", "currency": "872.82\u20ac"}
+{"id": "108", "date": "2023-03-02", "company": "CDN", "department": "Tech Support", "so": "37", "contract_number": "BG71ZCQA76772673116710", "currency": "-49258.33\u20ac"}
+{"id": "109", "date": "2023-03-02", "company": "CDN", "department": "Quality Assurance", "so": "17", "contract_number": "GR2761330160321637428634134", "currency": "70036.37\u20ac"}
+{"id": "110", "date": "2023-04-28", "company": "CDN", "department": "Tech Support", "so": "37", "contract_number": "EE523935783162488634", "currency": "-8584.17\u20ac"}
+{"id": "111", "date": "2023-09-12", "company": "CDN", "department": "Human Resources", "so": "41", "contract_number": "TR635356892334157884890333", "currency": "85857.99\u20ac"}
+{"id": "112", "date": "2023-06-10", "company": "CDN", "department": "Public Relations", "so": "41", "contract_number": "RS02506223814694878233", "currency": "2472.02\u20ac"}
+{"id": "113", "date": "2024-01-12", "company": "CDN", "department": "Sales and Marketing", "so": "11", "contract_number": "SI87596140800266099", "currency": "-35721.89\u20ac"}
+{"id": "114", "date": "2023-12-07", "company": "CDN", "department": "Legal Department", "so": "37", "contract_number": "MK80066642217292553", "currency": "-80699.64\u20ac"}
+{"id": "115", "date": "2023-11-15", "company": "CDN", "department": "Media Relations", "so": "17", "contract_number": "HR3577117515635466761", "currency": "49884.06\u20ac"}
+{"id": "116", "date": "2023-05-02", "company": "CDN", "department": "Accounting", "so": "17", "contract_number": "CZ0859441604685454291644", "currency": "-15719.68\u20ac"}
+{"id": "117", "date": "2023-01-08", "company": "CDN", "department": "Media Relations", "so": "13", "contract_number": "GR2811724728654311501089905", "currency": "-15914.23\u20ac"}
+{"id": "118", "date": "2022-10-25", "company": "CDN", "department": "Customer Relations", "so": "29", "contract_number": "KZ653932331940590319", "currency": "53184.60\u20ac"}
+{"id": "119", "date": "2023-01-15", "company": "CDN", "department": "Legal Department", "so": "41", "contract_number": "SK4568164882478257215024", "currency": "8672.17\u20ac"}
+{"id": "120", "date": "2023-12-06", "company": "CDN", "department": "Human Resources", "so": "43", "contract_number": "DK4881607211864191", "currency": "23598.12\u20ac"}
+{"id": "121", "date": "2023-12-15", "company": "CDN", "department": "Public Relations", "so": "13", "contract_number": "IS947772218242734517692485", "currency": "36083.83\u20ac"}
+{"id": "122", "date": "2023-05-14", "company": "CDN", "department": "Accounting", "so": "23", "contract_number": "CY37587351227626834612293716", "currency": "50491.55\u20ac"}
+{"id": "123", "date": "2023-11-27", "company": "CDN", "department": "Customer Relations", "so": "23", "contract_number": "CH8465581516306116246", "currency": "-80089.58\u20ac"}
+{"id": "124", "date": "2023-01-17", "company": "CDN", "department": "Advertising", "so": "29", "contract_number": "RO26TQLA4831197667236320", "currency": "-94051.96\u20ac"}
+{"id": "125", "date": "2024-01-17", "company": "CDN", "department": "Tech Support", "so": "13", "contract_number": "BE84026486372775", "currency": "-52170.75\u20ac"}
+{"id": "126", "date": "2022-11-10", "company": "CDN", "department": "Finances", "so": "29", "contract_number": "CZ8095449542755589058916", "currency": "30929.91\u20ac"}
+{"id": "127", "date": "2023-09-10", "company": "CDN", "department": "Research and Development", "so": "17", "contract_number": "ME87437823836444492850", "currency": "59519.04\u20ac"}
+{"id": "128", "date": "2022-10-04", "company": "CDN", "department": "Research and Development", "so": "29", "contract_number": "KZ961334655782699428", "currency": "81327.98\u20ac"}
+{"id": "129", "date": "2023-12-29", "company": "CDN", "department": "Payroll", "so": "41", "contract_number": "IE72EUNX37625146115565", "currency": "-22911.56\u20ac"}
+{"id": "130", "date": "2022-12-21", "company": "CDN", "department": "Customer Service", "so": "23", "contract_number": "IT983WDGDI55059856781914436", "currency": "-17326.89\u20ac"}
+{"id": "131", "date": "2023-07-22", "company": "CDN", "department": "Public Relations", "so": "37", "contract_number": "FR0728237856415143182256256", "currency": "-61305.47\u20ac"}
+{"id": "132", "date": "2023-06-28", "company": "CDN", "department": "Tech Support", "so": "37", "contract_number": "FI4541242051536372", "currency": "47282.65\u20ac"}
+{"id": "133", "date": "2023-09-27", "company": "CDN", "department": "Legal Department", "so": "13", "contract_number": "RO34ZFER7518632779204611", "currency": "-92410.62\u20ac"}
+{"id": "134", "date": "2023-09-02", "company": "CDN", "department": "Human Resources", "so": "31", "contract_number": "AL97244157552417423226735575", "currency": "44199.30\u20ac"}
+{"id": "135", "date": "2023-04-01", "company": "CDN", "department": "Advertising", "so": "19", "contract_number": "HR1268159896025988043", "currency": "-59382.55\u20ac"}
+{"id": "136", "date": "2023-12-09", "company": "CDN", "department": "Payroll", "so": "31", "contract_number": "RS21581216840111186182", "currency": "-10615.64\u20ac"}
+{"id": "137", "date": "2022-10-20", "company": "CDN", "department": "Customer Relations", "so": "37", "contract_number": "VG5321848417141628063518", "currency": "95096.58\u20ac"}
+{"id": "138", "date": "2023-07-18", "company": "CDN", "department": "Accounting", "so": "19", "contract_number": "GR4478196438160744642392585", "currency": "-35564.04\u20ac"}
+{"id": "139", "date": "2023-08-18", "company": "CDN", "department": "Legal Department", "so": "11", "contract_number": "BG33MROV21617822537310", "currency": "63775.81\u20ac"}
+{"id": "140", "date": "2023-03-02", "company": "CDN", "department": "Human Resources", "so": "43", "contract_number": "IL645226815874234103551", "currency": "-37902.46\u20ac"}
+{"id": "141", "date": "2023-01-08", "company": "CDN", "department": "Customer Service", "so": "17", "contract_number": "MD1072075349111514114714", "currency": "-73044.81\u20ac"}
+{"id": "142", "date": "2023-04-06", "company": "CDN", "department": "Tech Support", "so": "17", "contract_number": "PL88835257974962593289918838", "currency": "-21303.08\u20ac"}
+{"id": "143", "date": "2022-11-14", "company": "CDN", "department": "Customer Relations", "so": "19", "contract_number": "DE17163594046528273213", "currency": "21634.86\u20ac"}
+{"id": "144", "date": "2023-08-08", "company": "CDN", "department": "Research and Development", "so": "47", "contract_number": "IL871215804746833766479", "currency": "27333.72\u20ac"}
+{"id": "145", "date": "2023-12-19", "company": "CDN", "department": "Advertising", "so": "17", "contract_number": "MC1066411017058782338761851", "currency": "88390.63\u20ac"}
+{"id": "146", "date": "2022-12-12", "company": "CDN", "department": "Finances", "so": "31", "contract_number": "KZ547562095315517530", "currency": "-78939.62\u20ac"}
+{"id": "147", "date": "2023-08-24", "company": "CDN", "department": "Asset Management", "so": "17", "contract_number": "VG6437275302636367136610", "currency": "-47921.74\u20ac"}
+{"id": "148", "date": "2023-03-15", "company": "CDN", "department": "Sales and Marketing", "so": "11", "contract_number": "FI1216525158723779", "currency": "20398.83\u20ac"}
+{"id": "149", "date": "2023-12-31", "company": "CDN", "department": "Asset Management", "so": "17", "contract_number": "EE065778938156221581", "currency": "46164.71\u20ac"}
+{"id": "150", "date": "2023-05-15", "company": "CDN", "department": "Advertising", "so": "47", "contract_number": "IL290842228967252362180", "currency": "52543.97\u20ac"}
+{"id": "151", "date": "2023-11-22", "company": "CDN", "department": "Public Relations", "so": "47", "contract_number": "IE29XUEC60542592511034", "currency": "-19551.23\u20ac"}
+{"id": "152", "date": "2023-05-13", "company": "CDN", "department": "Customer Service", "so": "13", "contract_number": "KZ402666676243833430", "currency": "-4887.23\u20ac"}
+{"id": "153", "date": "2023-11-20", "company": "CDN", "department": "Research and Development", "so": "29", "contract_number": "IT643LCCMI84837551836822633", "currency": "-86822.39\u20ac"}
+{"id": "154", "date": "2024-01-23", "company": "CDN", "department": "Public Relations", "so": "41", "contract_number": "MC1744633567715732547233309", "currency": "-4002.45\u20ac"}
+{"id": "155", "date": "2024-01-26", "company": "CDN", "department": "Research and Development", "so": "29", "contract_number": "PS054652257696410813819782116", "currency": "81509.98\u20ac"}
+{"id": "156", "date": "2023-02-28", "company": "CDN", "department": "Payroll", "so": "17", "contract_number": "TR615353498351726391914188", "currency": "-37756.23\u20ac"}
+{"id": "157", "date": "2023-02-24", "company": "CDN", "department": "Sales and Marketing", "so": "41", "contract_number": "NO3474115927044", "currency": "-48601.51\u20ac"}
+{"id": "158", "date": "2023-07-31", "company": "CDN", "department": "Asset Management", "so": "13", "contract_number": "IE73HPSQ26238245154126", "currency": "33084.72\u20ac"}
+{"id": "159", "date": "2022-11-30", "company": "CDN", "department": "Customer Service", "so": "17", "contract_number": "CZ5220194832118636773032", "currency": "60479.53\u20ac"}
+{"id": "160", "date": "2023-07-08", "company": "CDN", "department": "Research and Development", "so": "23", "contract_number": "TN5283503562244575756263", "currency": "21679.47\u20ac"}
+{"id": "161", "date": "2023-10-24", "company": "CDN", "department": "Customer Service", "so": "37", "contract_number": "TN6317688167964264697820", "currency": "82341.78\u20ac"}
+{"id": "162", "date": "2023-05-09", "company": "CDN", "department": "Sales and Marketing", "so": "11", "contract_number": "MR1600655141311741582970777", "currency": "50070.80\u20ac"}
+{"id": "163", "date": "2024-01-08", "company": "CDN", "department": "Advertising", "so": "11", "contract_number": "MT38RQBJ18783342683167536791901", "currency": "49165.10\u20ac"}
+{"id": "164", "date": "2023-02-12", "company": "CDN", "department": "Human Resources", "so": "17", "contract_number": "LV54CWSN8768576681328", "currency": "88837.52\u20ac"}
+{"id": "165", "date": "2023-09-30", "company": "CDN", "department": "Legal Department", "so": "31", "contract_number": "SK8781232142858784001458", "currency": "-91825.79\u20ac"}
+{"id": "166", "date": "2023-03-07", "company": "CDN", "department": "Human Resources", "so": "13", "contract_number": "PT51758862314243625415397", "currency": "98579.74\u20ac"}
+{"id": "167", "date": "2023-12-08", "company": "CDN", "department": "Tech Support", "so": "31", "contract_number": "SM7154389122572778792751468", "currency": "13700.04\u20ac"}
+{"id": "168", "date": "2023-03-19", "company": "CDN", "department": "Sales and Marketing", "so": "17", "contract_number": "HU56732227209864222683292776", "currency": "37749.50\u20ac"}
+{"id": "169", "date": "2022-11-08", "company": "CDN", "department": "Asset Management", "so": "29", "contract_number": "EE794072549845514657", "currency": "-89775.22\u20ac"}
+{"id": "170", "date": "2023-03-26", "company": "CDN", "department": "Quality Assurance", "so": "17", "contract_number": "LI4293779984242666617", "currency": "-61474.67\u20ac"}
+{"id": "171", "date": "2024-01-05", "company": "CDN", "department": "Advertising", "so": "29", "contract_number": "SI64980870487917122", "currency": "54810.26\u20ac"}
+{"id": "172", "date": "2023-12-09", "company": "CDN", "department": "Human Resources", "so": "37", "contract_number": "LV69HOSF2193206779816", "currency": "-13818.01\u20ac"}
+{"id": "173", "date": "2022-12-07", "company": "CDN", "department": "Finances", "so": "37", "contract_number": "IT456MTPBI21687584815485297", "currency": "-41123.87\u20ac"}
+{"id": "174", "date": "2022-11-13", "company": "CDN", "department": "Research and Development", "so": "37", "contract_number": "GR3626288846726396761116352", "currency": "51823.66\u20ac"}
+{"id": "175", "date": "2023-03-04", "company": "CDN", "department": "Research and Development", "so": "11", "contract_number": "CH5465126771937876637", "currency": "-56315.98\u20ac"}
+{"id": "176", "date": "2023-10-10", "company": "CDN", "department": "Customer Service", "so": "31", "contract_number": "MD3591772046832953110819", "currency": "59456.52\u20ac"}
+{"id": "177", "date": "2022-12-07", "company": "CDN", "department": "Research and Development", "so": "37", "contract_number": "HR8049455421254275614", "currency": "34624.51\u20ac"}
+{"id": "178", "date": "2023-06-17", "company": "CDN", "department": "Legal Department", "so": "13", "contract_number": "GI85IDOI418524256289233", "currency": "-43382.66\u20ac"}
+{"id": "179", "date": "2023-08-23", "company": "CDN", "department": "Accounting", "so": "23", "contract_number": "SE2625297274253221826891", "currency": "-62224.08\u20ac"}
+{"id": "180", "date": "2022-12-28", "company": "CDN", "department": "Legal Department", "so": "37", "contract_number": "BA080465757545576377", "currency": "-40752.76\u20ac"}
+{"id": "181", "date": "2023-08-03", "company": "CDN", "department": "Tech Support", "so": "43", "contract_number": "FI4415643453216188", "currency": "-48823.99\u20ac"}
+{"id": "182", "date": "2023-12-19", "company": "CDN", "department": "Payroll", "so": "11", "contract_number": "GT89975640171972488343372584", "currency": "58036.35\u20ac"}
+{"id": "183", "date": "2023-10-15", "company": "CDN", "department": "Customer Relations", "so": "29", "contract_number": "LV92CSHG4387840505644", "currency": "-59718.54\u20ac"}
+{"id": "184", "date": "2022-10-08", "company": "CDN", "department": "Customer Service", "so": "37", "contract_number": "GT19739446541335764333571998", "currency": "-60321.26\u20ac"}
+{"id": "185", "date": "2023-08-29", "company": "CDN", "department": "Sales and Marketing", "so": "11", "contract_number": "ES6668582229303352553516", "currency": "47874.09\u20ac"}
+{"id": "186", "date": "2023-01-21", "company": "CDN", "department": "Customer Service", "so": "37", "contract_number": "CR4036246744574285823", "currency": "1580.45\u20ac"}
+{"id": "187", "date": "2023-09-13", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "AT183034197309227564", "currency": "-72746.08\u20ac"}
+{"id": "188", "date": "2022-11-10", "company": "CDN", "department": "Media Relations", "so": "43", "contract_number": "MD0535211449199648588859", "currency": "-97441.06\u20ac"}
+{"id": "189", "date": "2023-01-25", "company": "CDN", "department": "Media Relations", "so": "13", "contract_number": "PS521369458951846609884636843", "currency": "95358.54\u20ac"}
+{"id": "190", "date": "2023-12-27", "company": "CDN", "department": "Quality Assurance", "so": "43", "contract_number": "GE41553831812834157373", "currency": "-29973.16\u20ac"}
+{"id": "191", "date": "2023-09-16", "company": "CDN", "department": "Sales and Marketing", "so": "23", "contract_number": "MU9324272418788688963593718923", "currency": "-54143.61\u20ac"}
+{"id": "192", "date": "2023-03-17", "company": "CDN", "department": "Sales and Marketing", "so": "23", "contract_number": "DK8296222418051165", "currency": "-60081.47\u20ac"}
+{"id": "193", "date": "2023-06-13", "company": "CDN", "department": "Payroll", "so": "23", "contract_number": "GI64OSQG279521132475810", "currency": "70756.69\u20ac"}
+{"id": "194", "date": "2023-06-02", "company": "CDN", "department": "Customer Service", "so": "17", "contract_number": "FR1545712251875861589751863", "currency": "14401.33\u20ac"}
+{"id": "195", "date": "2023-12-18", "company": "CDN", "department": "Customer Service", "so": "37", "contract_number": "PK4324222847924858388486", "currency": "-60832.61\u20ac"}
+{"id": "196", "date": "2023-02-19", "company": "CDN", "department": "Customer Service", "so": "11", "contract_number": "NL96HJHG1253280078", "currency": "-71003.09\u20ac"}
+{"id": "197", "date": "2023-11-04", "company": "CDN", "department": "Finances", "so": "29", "contract_number": "IS417153128260944934413763", "currency": "-28683.46\u20ac"}
+{"id": "198", "date": "2023-03-26", "company": "CDN", "department": "Customer Relations", "so": "29", "contract_number": "RS34021606588844151422", "currency": "62678.88\u20ac"}
+{"id": "199", "date": "2023-09-23", "company": "CDN", "department": "Public Relations", "so": "37", "contract_number": "PS573485087826045542264075492", "currency": "51247.96\u20ac"}
+{"id": "200", "date": "2023-04-08", "company": "CDN", "department": "Legal Department", "so": "31", "contract_number": "AZ34264433825442657764220004", "currency": "88998.58\u20ac"}
+{"id": "201", "date": "2023-06-03", "company": "CDN", "department": "Tech Support", "so": "11", "contract_number": "MD5946683443355516027042", "currency": "-45296.30\u20ac"}
+{"id": "202", "date": "2023-04-20", "company": "CDN", "department": "Quality Assurance", "so": "31", "contract_number": "SK6532354921745766029056", "currency": "56620.04\u20ac"}
+{"id": "203", "date": "2023-12-12", "company": "CDN", "department": "Sales and Marketing", "so": "31", "contract_number": "LI4964281311135973771", "currency": "-58069.47\u20ac"}
+{"id": "204", "date": "2023-12-29", "company": "CDN", "department": "Accounting", "so": "37", "contract_number": "DE19867572103433713965", "currency": "-49915.15\u20ac"}
+{"id": "205", "date": "2023-11-04", "company": "CDN", "department": "Asset Management", "so": "23", "contract_number": "LV54MXPH3774822607916", "currency": "-3864.88\u20ac"}
+{"id": "206", "date": "2023-11-19", "company": "CDN", "department": "Asset Management", "so": "37", "contract_number": "DO79557176120653483130311696", "currency": "28747.86\u20ac"}
+{"id": "207", "date": "2022-10-26", "company": "CDN", "department": "Media Relations", "so": "13", "contract_number": "VG6711822247420669426595", "currency": "65132.00\u20ac"}
+{"id": "208", "date": "2023-10-03", "company": "CDN", "department": "Finances", "so": "13", "contract_number": "AL77730616258611454138112550", "currency": "32867.12\u20ac"}
+{"id": "209", "date": "2023-07-25", "company": "CDN", "department": "Research and Development", "so": "31", "contract_number": "RS39693872415421650447", "currency": "13474.72\u20ac"}
+{"id": "210", "date": "2023-06-15", "company": "CDN", "department": "Human Resources", "so": "29", "contract_number": "MU4586577680160425607565723647", "currency": "-30204.05\u20ac"}
+{"id": "211", "date": "2023-01-07", "company": "CDN", "department": "Accounting", "so": "29", "contract_number": "BH61232656126437915821", "currency": "48417.08\u20ac"}
+{"id": "212", "date": "2023-11-17", "company": "CDN", "department": "Quality Assurance", "so": "13", "contract_number": "LT654438462422538144", "currency": "34789.07\u20ac"}
+{"id": "213", "date": "2023-08-07", "company": "CDN", "department": "Asset Management", "so": "41", "contract_number": "AL15927431837171483190788662", "currency": "79832.41\u20ac"}
+{"id": "214", "date": "2024-01-29", "company": "CDN", "department": "Tech Support", "so": "41", "contract_number": "AL50734122281668872746177187", "currency": "-1137.08\u20ac"}
+{"id": "215", "date": "2023-11-15", "company": "CDN", "department": "Accounting", "so": "13", "contract_number": "GE36283432657785355333", "currency": "58744.94\u20ac"}
+{"id": "216", "date": "2023-02-15", "company": "CDN", "department": "Advertising", "so": "29", "contract_number": "DE37338016875164992641", "currency": "21318.85\u20ac"}
+{"id": "217", "date": "2023-12-17", "company": "CDN", "department": "Finances", "so": "43", "contract_number": "TN0323514413021372811797", "currency": "7000.92\u20ac"}
+{"id": "218", "date": "2023-04-09", "company": "CDN", "department": "Public Relations", "so": "29", "contract_number": "FO5325352378896712", "currency": "-35461.11\u20ac"}
+{"id": "219", "date": "2024-01-19", "company": "CDN", "department": "Payroll", "so": "29", "contract_number": "AZ68173746272235340526922862", "currency": "51597.00\u20ac"}
+{"id": "220", "date": "2023-02-10", "company": "CDN", "department": "Accounting", "so": "19", "contract_number": "HU40168746787521522711225072", "currency": "-966.07\u20ac"}
+{"id": "221", "date": "2023-10-22", "company": "CDN", "department": "Tech Support", "so": "11", "contract_number": "ME60875587662326262698", "currency": "85799.25\u20ac"}
+{"id": "222", "date": "2023-05-07", "company": "CDN", "department": "Advertising", "so": "17", "contract_number": "AL82797034085450625820279324", "currency": "-15878.11\u20ac"}
+{"id": "223", "date": "2023-04-09", "company": "CDN", "department": "Advertising", "so": "13", "contract_number": "MT70CABF37665998730430392232302", "currency": "10631.80\u20ac"}
+{"id": "224", "date": "2023-05-30", "company": "CDN", "department": "Research and Development", "so": "11", "contract_number": "GT68391413691416552117487923", "currency": "42632.54\u20ac"}
+{"id": "225", "date": "2022-12-14", "company": "CDN", "department": "Media Relations", "so": "29", "contract_number": "CR2061016572616747763", "currency": "-58847.16\u20ac"}
+{"id": "226", "date": "2023-05-19", "company": "CDN", "department": "Asset Management", "so": "41", "contract_number": "LV39UYHR1254823394630", "currency": "-55140.67\u20ac"}
+{"id": "227", "date": "2023-12-28", "company": "CDN", "department": "Accounting", "so": "17", "contract_number": "AL11235918863754418253644366", "currency": "41993.44\u20ac"}
+{"id": "228", "date": "2023-02-18", "company": "CDN", "department": "Accounting", "so": "13", "contract_number": "CH5751788824829728827", "currency": "90377.89\u20ac"}
+{"id": "229", "date": "2022-12-18", "company": "CDN", "department": "Legal Department", "so": "31", "contract_number": "NL11IIXV2257529212", "currency": "94110.84\u20ac"}
+{"id": "230", "date": "2023-04-09", "company": "CDN", "department": "Research and Development", "so": "31", "contract_number": "AZ95428154638606706296931766", "currency": "-25100.84\u20ac"}
+{"id": "231", "date": "2022-10-05", "company": "CDN", "department": "Payroll", "so": "23", "contract_number": "FI5182406474772521", "currency": "17935.11\u20ac"}
+{"id": "232", "date": "2023-05-28", "company": "CDN", "department": "Research and Development", "so": "43", "contract_number": "GL9310385635649479", "currency": "-35008.99\u20ac"}
+{"id": "233", "date": "2023-01-09", "company": "CDN", "department": "Public Relations", "so": "23", "contract_number": "CZ9256053217865062252715", "currency": "23832.54\u20ac"}
+{"id": "234", "date": "2024-01-10", "company": "CDN", "department": "Finances", "so": "29", "contract_number": "AT307632413244719456", "currency": "52274.75\u20ac"}
+{"id": "235", "date": "2023-01-24", "company": "CDN", "department": "Payroll", "so": "13", "contract_number": "IL283205258243051257537", "currency": "77135.15\u20ac"}
+{"id": "236", "date": "2023-08-19", "company": "CDN", "department": "Media Relations", "so": "17", "contract_number": "AL56359141329979310861724657", "currency": "60836.29\u20ac"}
+{"id": "237", "date": "2024-01-16", "company": "CDN", "department": "Media Relations", "so": "17", "contract_number": "MU3511790557425062572828673008", "currency": "39411.70\u20ac"}
+{"id": "238", "date": "2023-07-25", "company": "CDN", "department": "Quality Assurance", "so": "23", "contract_number": "AT663166852165621728", "currency": "-94856.23\u20ac"}
+{"id": "239", "date": "2023-07-05", "company": "CDN", "department": "Sales and Marketing", "so": "17", "contract_number": "EE162334435686498728", "currency": "94342.48\u20ac"}
+{"id": "240", "date": "2023-09-14", "company": "CDN", "department": "Customer Service", "so": "13", "contract_number": "GR7636482183857522227547405", "currency": "13659.18\u20ac"}
+{"id": "241", "date": "2023-02-26", "company": "CDN", "department": "Legal Department", "so": "19", "contract_number": "MT95FAJP47282575721333561981526", "currency": "61874.55\u20ac"}
+{"id": "242", "date": "2023-01-17", "company": "CDN", "department": "Payroll", "so": "29", "contract_number": "PS741140605342699287963485874", "currency": "-1152.99\u20ac"}
+{"id": "243", "date": "2024-01-20", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "AE367818745869813255710", "currency": "94827.63\u20ac"}
+{"id": "244", "date": "2023-09-05", "company": "CDN", "department": "Asset Management", "so": "41", "contract_number": "VG2175822701544832347342", "currency": "17030.22\u20ac"}
+{"id": "245", "date": "2023-11-20", "company": "CDN", "department": "Legal Department", "so": "29", "contract_number": "CR1648767514323153691", "currency": "19877.65\u20ac"}
+{"id": "246", "date": "2023-11-25", "company": "CDN", "department": "Public Relations", "so": "19", "contract_number": "NO6880679357518", "currency": "-66556.07\u20ac"}
+{"id": "247", "date": "2022-10-18", "company": "CDN", "department": "Payroll", "so": "11", "contract_number": "LU221762773138522803", "currency": "-65766.25\u20ac"}
+{"id": "248", "date": "2023-07-09", "company": "CDN", "department": "Asset Management", "so": "43", "contract_number": "KZ786220954401138383", "currency": "98600.13\u20ac"}
+{"id": "249", "date": "2022-10-29", "company": "CDN", "department": "Public Relations", "so": "17", "contract_number": "CZ7047851200361001376151", "currency": "507.12\u20ac"}
+{"id": "250", "date": "2022-10-13", "company": "CDN", "department": "Accounting", "so": "13", "contract_number": "IL834427451511435205795", "currency": "-31765.00\u20ac"}
+{"id": "251", "date": "2023-04-02", "company": "CDN", "department": "Advertising", "so": "11", "contract_number": "PS878152450888427698868541685", "currency": "-31301.80\u20ac"}
+{"id": "252", "date": "2023-11-01", "company": "CDN", "department": "Media Relations", "so": "11", "contract_number": "CR7161586331082974436", "currency": "8397.74\u20ac"}
+{"id": "253", "date": "2023-02-17", "company": "CDN", "department": "Advertising", "so": "11", "contract_number": "VG5082480648286280488017", "currency": "-81933.00\u20ac"}
+{"id": "254", "date": "2022-10-01", "company": "CDN", "department": "Legal Department", "so": "13", "contract_number": "MD4148258406677631368954", "currency": "-2409.17\u20ac"}
+{"id": "255", "date": "2023-07-19", "company": "CDN", "department": "Tech Support", "so": "31", "contract_number": "MD4125644984857325568403", "currency": "11156.01\u20ac"}
+{"id": "256", "date": "2023-02-22", "company": "CDN", "department": "Research and Development", "so": "13", "contract_number": "CY98634289572028005025872226", "currency": "47689.49\u20ac"}
+{"id": "257", "date": "2022-12-20", "company": "CDN", "department": "Advertising", "so": "13", "contract_number": "GL6694486326820618", "currency": "95289.06\u20ac"}
+{"id": "258", "date": "2023-05-10", "company": "CDN", "department": "Payroll", "so": "29", "contract_number": "AL67573362766532757331284975", "currency": "99703.23\u20ac"}
+{"id": "259", "date": "2023-10-16", "company": "CDN", "department": "Advertising", "so": "31", "contract_number": "NO0563294735218", "currency": "-4482.40\u20ac"}
+{"id": "260", "date": "2023-01-12", "company": "CDN", "department": "Customer Relations", "so": "29", "contract_number": "SM5454766267780278535846679", "currency": "60106.83\u20ac"}
+{"id": "261", "date": "2023-10-30", "company": "CDN", "department": "Public Relations", "so": "43", "contract_number": "SK2024920766361276684776", "currency": "-74971.71\u20ac"}
+{"id": "262", "date": "2022-10-07", "company": "CDN", "department": "Payroll", "so": "31", "contract_number": "CY71333679233524161926602814", "currency": "-50896.53\u20ac"}
+{"id": "263", "date": "2023-03-05", "company": "CDN", "department": "Media Relations", "so": "31", "contract_number": "CH3137637743586686262", "currency": "41991.99\u20ac"}
+{"id": "264", "date": "2022-12-02", "company": "CDN", "department": "Customer Service", "so": "23", "contract_number": "SK3882182326448702656990", "currency": "-96325.91\u20ac"}
+{"id": "265", "date": "2023-04-02", "company": "CDN", "department": "Quality Assurance", "so": "19", "contract_number": "GL0758322235755271", "currency": "35060.77\u20ac"}
+{"id": "266", "date": "2023-07-29", "company": "CDN", "department": "Advertising", "so": "31", "contract_number": "SK4650698325841277581384", "currency": "51841.01\u20ac"}
+{"id": "267", "date": "2023-02-19", "company": "CDN", "department": "Legal Department", "so": "41", "contract_number": "AE546147143159635832917", "currency": "-32164.26\u20ac"}
+{"id": "268", "date": "2023-05-09", "company": "CDN", "department": "Payroll", "so": "41", "contract_number": "BA896827227257861123", "currency": "13915.90\u20ac"}
+{"id": "269", "date": "2023-04-12", "company": "CDN", "department": "Human Resources", "so": "17", "contract_number": "IS161226817174442815330885", "currency": "39852.25\u20ac"}
+{"id": "270", "date": "2023-07-27", "company": "CDN", "department": "Media Relations", "so": "17", "contract_number": "MK56838511854628670", "currency": "5802.91\u20ac"}
+{"id": "271", "date": "2023-01-16", "company": "CDN", "department": "Customer Relations", "so": "11", "contract_number": "RO72VEOP7257048145626711", "currency": "-29934.59\u20ac"}
+{"id": "272", "date": "2023-11-14", "company": "CDN", "department": "Customer Relations", "so": "37", "contract_number": "PK5627717873251286664248", "currency": "-85305.15\u20ac"}
+{"id": "273", "date": "2023-09-07", "company": "CDN", "department": "Quality Assurance", "so": "31", "contract_number": "MK33531316073141852", "currency": "4120.01\u20ac"}
+{"id": "274", "date": "2023-05-05", "company": "CDN", "department": "Public Relations", "so": "23", "contract_number": "MC4923832649514783034441180", "currency": "77614.44\u20ac"}
+{"id": "275", "date": "2023-03-08", "company": "CDN", "department": "Legal Department", "so": "23", "contract_number": "DO27613848674885105134316586", "currency": "-81575.48\u20ac"}
+{"id": "276", "date": "2024-01-05", "company": "CDN", "department": "Customer Service", "so": "11", "contract_number": "PL36086540379680633051086424", "currency": "32530.84\u20ac"}
+{"id": "277", "date": "2023-12-18", "company": "CDN", "department": "Research and Development", "so": "41", "contract_number": "MU9126277254652132375401755871", "currency": "-19019.58\u20ac"}
+{"id": "278", "date": "2023-01-22", "company": "CDN", "department": "Legal Department", "so": "23", "contract_number": "GB24KDUH12543880539124", "currency": "-77153.90\u20ac"}
+{"id": "279", "date": "2023-02-28", "company": "CDN", "department": "Finances", "so": "41", "contract_number": "PK7161844023462274228876", "currency": "76099.84\u20ac"}
+{"id": "280", "date": "2022-10-31", "company": "CDN", "department": "Legal Department", "so": "19", "contract_number": "LT526164900078280216", "currency": "-28348.43\u20ac"}
+{"id": "281", "date": "2023-04-04", "company": "CDN", "department": "Legal Department", "so": "29", "contract_number": "BH70642096452348481774", "currency": "-42141.58\u20ac"}
+{"id": "282", "date": "2023-06-02", "company": "CDN", "department": "Customer Service", "so": "37", "contract_number": "RO36UETY4582826257166794", "currency": "-92385.31\u20ac"}
+{"id": "283", "date": "2023-05-13", "company": "CDN", "department": "Tech Support", "so": "23", "contract_number": "PS454411549725166738632566003", "currency": "4009.22\u20ac"}
+{"id": "284", "date": "2023-02-02", "company": "CDN", "department": "Media Relations", "so": "11", "contract_number": "AZ27236667188832756180786742", "currency": "-56855.64\u20ac"}
+{"id": "285", "date": "2023-12-31", "company": "CDN", "department": "Advertising", "so": "41", "contract_number": "VG1625546751933240223134", "currency": "-78523.17\u20ac"}
+{"id": "286", "date": "2023-01-30", "company": "CDN", "department": "Tech Support", "so": "19", "contract_number": "MU5658667196293483098574992306", "currency": "-8068.51\u20ac"}
+{"id": "287", "date": "2022-11-17", "company": "CDN", "department": "Media Relations", "so": "31", "contract_number": "KW9167972253472517833237867246", "currency": "-7416.87\u20ac"}
+{"id": "288", "date": "2024-01-14", "company": "CDN", "department": "Asset Management", "so": "11", "contract_number": "PS548487924071754217376604744", "currency": "61715.72\u20ac"}
+{"id": "289", "date": "2023-12-15", "company": "CDN", "department": "Payroll", "so": "43", "contract_number": "LU582453357948896688", "currency": "13471.23\u20ac"}
+{"id": "290", "date": "2022-12-15", "company": "CDN", "department": "Asset Management", "so": "37", "contract_number": "VG4533442524644652826489", "currency": "-33682.58\u20ac"}
+{"id": "291", "date": "2023-07-07", "company": "CDN", "department": "Public Relations", "so": "43", "contract_number": "DK0989371445785107", "currency": "74731.52\u20ac"}
+{"id": "292", "date": "2024-01-17", "company": "CDN", "department": "Research and Development", "so": "11", "contract_number": "BA274686924881822043", "currency": "-4242.68\u20ac"}
+{"id": "293", "date": "2023-10-24", "company": "CDN", "department": "Finances", "so": "43", "contract_number": "CR1071371213314875718", "currency": "71686.16\u20ac"}
+{"id": "294", "date": "2023-07-23", "company": "CDN", "department": "Tech Support", "so": "41", "contract_number": "CR5958727077117351233", "currency": "-27076.70\u20ac"}
+{"id": "295", "date": "2024-01-20", "company": "CDN", "department": "Quality Assurance", "so": "37", "contract_number": "HR0520365223819274731", "currency": "-33239.75\u20ac"}
+{"id": "296", "date": "2023-03-12", "company": "CDN", "department": "Sales and Marketing", "so": "19", "contract_number": "IE26RBVU16454078810124", "currency": "-92381.31\u20ac"}
+{"id": "297", "date": "2023-08-26", "company": "CDN", "department": "Asset Management", "so": "43", "contract_number": "NO7754027382149", "currency": "-20819.94\u20ac"}
+{"id": "298", "date": "2023-09-21", "company": "CDN", "department": "Asset Management", "so": "11", "contract_number": "TR715613109975215732772141", "currency": "28698.32\u20ac"}
+{"id": "299", "date": "2023-07-10", "company": "CDN", "department": "Accounting", "so": "13", "contract_number": "LU485577202565288157", "currency": "86313.75\u20ac"}
+{"id": "300", "date": "2023-11-25", "company": "CDN", "department": "Finances", "so": "11", "contract_number": "LV87HFVS8593247671571", "currency": "-28134.58\u20ac"}
+{"id": "301", "date": "2023-05-28", "company": "CDN", "department": "Payroll", "so": "31", "contract_number": "NO2826457443183", "currency": "50629.77\u20ac"}
+{"id": "302", "date": "2023-12-31", "company": "CDN", "department": "Media Relations", "so": "17", "contract_number": "IS501426181654237686114146", "currency": "31723.41\u20ac"}
+{"id": "303", "date": "2022-11-16", "company": "CDN", "department": "Payroll", "so": "17", "contract_number": "KW7853831246822767331629331845", "currency": "-72773.90\u20ac"}
+{"id": "304", "date": "2023-11-14", "company": "CDN", "department": "Public Relations", "so": "41", "contract_number": "AE178201617323306704464", "currency": "49563.13\u20ac"}
+{"id": "305", "date": "2023-11-04", "company": "CDN", "department": "Media Relations", "so": "17", "contract_number": "BA334134330393384327", "currency": "-43965.77\u20ac"}
+{"id": "306", "date": "2023-07-03", "company": "CDN", "department": "Sales and Marketing", "so": "37", "contract_number": "MT88ZWKE91317647333018684545354", "currency": "98037.86\u20ac"}
+{"id": "307", "date": "2023-09-18", "company": "CDN", "department": "Media Relations", "so": "19", "contract_number": "AL50539246773675879337525251", "currency": "-49970.82\u20ac"}
+{"id": "308", "date": "2023-11-03", "company": "CDN", "department": "Media Relations", "so": "29", "contract_number": "AL68483021460135805912257239", "currency": "-74620.64\u20ac"}
+{"id": "309", "date": "2023-09-18", "company": "CDN", "department": "Legal Department", "so": "37", "contract_number": "SM3997938555593499248555734", "currency": "97098.56\u20ac"}
+{"id": "310", "date": "2023-04-21", "company": "CDN", "department": "Human Resources", "so": "47", "contract_number": "SK7235282631750672890343", "currency": "88167.98\u20ac"}
+{"id": "311", "date": "2022-11-16", "company": "CDN", "department": "Research and Development", "so": "47", "contract_number": "AL06613392481016427257212926", "currency": "92887.31\u20ac"}
+{"id": "312", "date": "2024-01-08", "company": "CDN", "department": "Customer Relations", "so": "43", "contract_number": "IS557032264311631967777568", "currency": "-79605.72\u20ac"}
+{"id": "313", "date": "2023-05-11", "company": "CDN", "department": "Media Relations", "so": "23", "contract_number": "MK44883887828718247", "currency": "-20980.73\u20ac"}
+{"id": "314", "date": "2023-05-09", "company": "CDN", "department": "Legal Department", "so": "29", "contract_number": "SE3275567803044770187614", "currency": "-80101.22\u20ac"}
+{"id": "315", "date": "2023-09-06", "company": "CDN", "department": "Customer Relations", "so": "17", "contract_number": "NO8823478932167", "currency": "88777.94\u20ac"}
+{"id": "316", "date": "2024-01-04", "company": "CDN", "department": "Quality Assurance", "so": "31", "contract_number": "IE21TNLB48425332635830", "currency": "39097.39\u20ac"}
+{"id": "317", "date": "2022-10-02", "company": "CDN", "department": "Customer Service", "so": "13", "contract_number": "GT53755128856218361413535741", "currency": "36897.61\u20ac"}
+{"id": "318", "date": "2023-02-15", "company": "CDN", "department": "Asset Management", "so": "13", "contract_number": "SE5945362619288764150134", "currency": "81095.89\u20ac"}
+{"id": "319", "date": "2023-12-29", "company": "CDN", "department": "Legal Department", "so": "47", "contract_number": "IE11IPTW29532762226423", "currency": "9373.16\u20ac"}
+{"id": "320", "date": "2024-01-28", "company": "CDN", "department": "Finances", "so": "29", "contract_number": "GR8042611566577425276183825", "currency": "88419.19\u20ac"}
+{"id": "321", "date": "2023-08-19", "company": "CDN", "department": "Accounting", "so": "17", "contract_number": "KZ175179645467712221", "currency": "-41835.87\u20ac"}
+{"id": "322", "date": "2023-07-25", "company": "CDN", "department": "Accounting", "so": "23", "contract_number": "AZ65461866125323185718387301", "currency": "56137.76\u20ac"}
+{"id": "323", "date": "2023-03-09", "company": "CDN", "department": "Advertising", "so": "13", "contract_number": "PS965651621611816250084744962", "currency": "-10027.41\u20ac"}
+{"id": "324", "date": "2023-05-03", "company": "CDN", "department": "Asset Management", "so": "47", "contract_number": "AT656874571772364812", "currency": "-6282.93\u20ac"}
+{"id": "325", "date": "2022-12-30", "company": "CDN", "department": "Quality Assurance", "so": "29", "contract_number": "GT80285686146838469428616143", "currency": "-15842.57\u20ac"}
+{"id": "326", "date": "2022-11-01", "company": "CDN", "department": "Public Relations", "so": "41", "contract_number": "VG5485358816237542071766", "currency": "-8356.23\u20ac"}
+{"id": "327", "date": "2023-02-10", "company": "CDN", "department": "Payroll", "so": "47", "contract_number": "LT844749916578263305", "currency": "-59730.91\u20ac"}
+{"id": "328", "date": "2023-12-11", "company": "CDN", "department": "Quality Assurance", "so": "47", "contract_number": "PS315336565914376686966621769", "currency": "-79739.11\u20ac"}
+{"id": "329", "date": "2023-10-25", "company": "CDN", "department": "Accounting", "so": "11", "contract_number": "LT903526873866016848", "currency": "968.11\u20ac"}
+{"id": "330", "date": "2023-12-31", "company": "CDN", "department": "Payroll", "so": "41", "contract_number": "CH0401814808719954435", "currency": "-74134.93\u20ac"}
+{"id": "331", "date": "2023-08-16", "company": "CDN", "department": "Customer Relations", "so": "17", "contract_number": "KZ936653587306532116", "currency": "-63240.97\u20ac"}
+{"id": "332", "date": "2022-11-04", "company": "CDN", "department": "Public Relations", "so": "13", "contract_number": "AL82841888554878457342343736", "currency": "66138.55\u20ac"}
+{"id": "333", "date": "2023-03-06", "company": "CDN", "department": "Payroll", "so": "29", "contract_number": "DO12748479588281689046238346", "currency": "-42092.97\u20ac"}
+{"id": "334", "date": "2024-01-01", "company": "CDN", "department": "Customer Service", "so": "31", "contract_number": "AD7534308236413372418971", "currency": "-48253.66\u20ac"}
+{"id": "335", "date": "2023-02-13", "company": "CDN", "department": "Human Resources", "so": "23", "contract_number": "ES7132688626064579739162", "currency": "58884.59\u20ac"}
+{"id": "336", "date": "2023-05-10", "company": "CDN", "department": "Asset Management", "so": "13", "contract_number": "ES5453802567973498375057", "currency": "-69557.34\u20ac"}
+{"id": "337", "date": "2023-07-21", "company": "CDN", "department": "Payroll", "so": "37", "contract_number": "RO67VWRS6117985454541244", "currency": "-90403.96\u20ac"}
+{"id": "338", "date": "2023-11-22", "company": "CDN", "department": "Asset Management", "so": "19", "contract_number": "LB92771780001260022280737757", "currency": "-91126.77\u20ac"}
+{"id": "339", "date": "2023-02-02", "company": "CDN", "department": "Payroll", "so": "41", "contract_number": "NL63JRIH8082635156", "currency": "-99259.38\u20ac"}
+{"id": "340", "date": "2023-03-04", "company": "CDN", "department": "Sales and Marketing", "so": "47", "contract_number": "PT53735968692659602814387", "currency": "-87242.08\u20ac"}
+{"id": "341", "date": "2023-08-17", "company": "CDN", "department": "Human Resources", "so": "13", "contract_number": "VG5813298654843377561827", "currency": "-31422.13\u20ac"}
+{"id": "342", "date": "2022-10-09", "company": "CDN", "department": "Accounting", "so": "11", "contract_number": "GE19583834835866323597", "currency": "-12279.27\u20ac"}
+{"id": "343", "date": "2023-04-20", "company": "CDN", "department": "Research and Development", "so": "23", "contract_number": "PS317383424175641455563291435", "currency": "-30679.83\u20ac"}
+{"id": "344", "date": "2022-10-17", "company": "CDN", "department": "Finances", "so": "43", "contract_number": "EE593855154536572957", "currency": "31469.93\u20ac"}
+{"id": "345", "date": "2024-01-03", "company": "CDN", "department": "Human Resources", "so": "19", "contract_number": "PT41799881645180933484864", "currency": "25886.09\u20ac"}
+{"id": "346", "date": "2023-05-19", "company": "CDN", "department": "Public Relations", "so": "47", "contract_number": "LV25EJLU0835446877376", "currency": "40562.93\u20ac"}
+{"id": "347", "date": "2023-07-21", "company": "CDN", "department": "Quality Assurance", "so": "17", "contract_number": "PK9385693417584677365541", "currency": "47543.07\u20ac"}
+{"id": "348", "date": "2023-11-12", "company": "CDN", "department": "Quality Assurance", "so": "13", "contract_number": "IL667621283374143338423", "currency": "-44026.84\u20ac"}
+{"id": "349", "date": "2022-10-13", "company": "CDN", "department": "Advertising", "so": "19", "contract_number": "MU0567577348891143473146942825", "currency": "-46633.32\u20ac"}
+{"id": "350", "date": "2023-01-05", "company": "CDN", "department": "Customer Relations", "so": "41", "contract_number": "IE42CPWC05942794362177", "currency": "-9353.65\u20ac"}
+{"id": "351", "date": "2022-10-26", "company": "CDN", "department": "Human Resources", "so": "29", "contract_number": "HR2924742128000737482", "currency": "96976.59\u20ac"}
+{"id": "352", "date": "2023-06-27", "company": "CDN", "department": "Public Relations", "so": "47", "contract_number": "IE98DGUK45475552617137", "currency": "32377.87\u20ac"}
+{"id": "353", "date": "2023-07-28", "company": "CDN", "department": "Customer Service", "so": "43", "contract_number": "DE79316447632918339593", "currency": "-72671.00\u20ac"}
+{"id": "354", "date": "2023-08-13", "company": "CDN", "department": "Quality Assurance", "so": "17", "contract_number": "CZ8514779259565844355037", "currency": "54145.01\u20ac"}
+{"id": "355", "date": "2023-12-15", "company": "CDN", "department": "Tech Support", "so": "43", "contract_number": "PS174943553904175615543746813", "currency": "75203.30\u20ac"}
+{"id": "356", "date": "2024-01-06", "company": "CDN", "department": "Public Relations", "so": "29", "contract_number": "GI31LASS520369077875534", "currency": "-22227.23\u20ac"}
+{"id": "357", "date": "2023-12-21", "company": "CDN", "department": "Quality Assurance", "so": "13", "contract_number": "RO34CQBG4761153379461545", "currency": "-41157.99\u20ac"}
+{"id": "358", "date": "2023-12-05", "company": "CDN", "department": "Asset Management", "so": "41", "contract_number": "VG3218220363652292781438", "currency": "-69138.00\u20ac"}
+{"id": "359", "date": "2023-07-16", "company": "CDN", "department": "Asset Management", "so": "37", "contract_number": "PT47224113377937491488122", "currency": "-46445.41\u20ac"}
+{"id": "360", "date": "2023-06-01", "company": "CDN", "department": "Advertising", "so": "17", "contract_number": "LV40CDQD1744732318947", "currency": "9493.90\u20ac"}
+{"id": "361", "date": "2023-09-29", "company": "CDN", "department": "Payroll", "so": "43", "contract_number": "SE7148370134705585523290", "currency": "34451.66\u20ac"}
+{"id": "362", "date": "2023-04-24", "company": "CDN", "department": "Quality Assurance", "so": "31", "contract_number": "TR868615548446464629487758", "currency": "49385.92\u20ac"}
+{"id": "363", "date": "2023-01-25", "company": "CDN", "department": "Asset Management", "so": "17", "contract_number": "CH9632327544729331921", "currency": "-53560.11\u20ac"}
+{"id": "364", "date": "2023-01-22", "company": "CDN", "department": "Legal Department", "so": "19", "contract_number": "AL51858173033646134821665875", "currency": "13610.32\u20ac"}
+{"id": "365", "date": "2023-08-15", "company": "CDN", "department": "Payroll", "so": "31", "contract_number": "TN3178473254226037551518", "currency": "2666.50\u20ac"}
+{"id": "366", "date": "2023-11-17", "company": "CDN", "department": "Research and Development", "so": "43", "contract_number": "CH4436751782735029489", "currency": "2047.39\u20ac"}
+{"id": "367", "date": "2023-06-28", "company": "CDN", "department": "Sales and Marketing", "so": "17", "contract_number": "FR3788927973623466588632332", "currency": "-45144.60\u20ac"}
+{"id": "368", "date": "2023-09-02", "company": "CDN", "department": "Finances", "so": "11", "contract_number": "RS46264602655446591162", "currency": "31955.80\u20ac"}
+{"id": "369", "date": "2023-02-07", "company": "CDN", "department": "Legal Department", "so": "47", "contract_number": "AE834813563724485233234", "currency": "28191.36\u20ac"}
+{"id": "370", "date": "2022-12-24", "company": "CDN", "department": "Public Relations", "so": "17", "contract_number": "PK8156317828576532584332", "currency": "-75447.77\u20ac"}
+{"id": "371", "date": "2023-02-08", "company": "CDN", "department": "Sales and Marketing", "so": "43", "contract_number": "CZ3757550728845255581216", "currency": "30715.90\u20ac"}
+{"id": "372", "date": "2023-06-03", "company": "CDN", "department": "Legal Department", "so": "43", "contract_number": "MU2900110913365155627241718745", "currency": "77437.81\u20ac"}
+{"id": "373", "date": "2023-05-15", "company": "CDN", "department": "Public Relations", "so": "47", "contract_number": "AT582785544737773302", "currency": "58266.82\u20ac"}
+{"id": "374", "date": "2023-03-31", "company": "CDN", "department": "Advertising", "so": "23", "contract_number": "LU255168442889230615", "currency": "-9372.87\u20ac"}
+{"id": "375", "date": "2023-06-30", "company": "CDN", "department": "Tech Support", "so": "29", "contract_number": "IT134RTNZI25275641597977352", "currency": "86999.14\u20ac"}
+{"id": "376", "date": "2022-12-22", "company": "CDN", "department": "Customer Relations", "so": "37", "contract_number": "PK2327201681816366619353", "currency": "-32207.57\u20ac"}
+{"id": "377", "date": "2023-04-04", "company": "CDN", "department": "Public Relations", "so": "17", "contract_number": "NO5056334358661", "currency": "6983.36\u20ac"}
+{"id": "378", "date": "2022-10-21", "company": "CDN", "department": "Research and Development", "so": "41", "contract_number": "SI92544686139020736", "currency": "6408.84\u20ac"}
+{"id": "379", "date": "2023-11-02", "company": "CDN", "department": "Research and Development", "so": "37", "contract_number": "AZ91157864628547438878939213", "currency": "29635.61\u20ac"}
+{"id": "380", "date": "2022-12-28", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "GL1533625857914357", "currency": "68278.84\u20ac"}
+{"id": "381", "date": "2023-10-14", "company": "CDN", "department": "Sales and Marketing", "so": "37", "contract_number": "PL74081130739482374555478528", "currency": "-43596.29\u20ac"}
+{"id": "382", "date": "2023-02-20", "company": "CDN", "department": "Research and Development", "so": "11", "contract_number": "BE02441747211862", "currency": "83424.22\u20ac"}
+{"id": "383", "date": "2023-11-15", "company": "CDN", "department": "Quality Assurance", "so": "47", "contract_number": "IT472FPWWI42684731751922435", "currency": "85070.02\u20ac"}
+{"id": "384", "date": "2024-01-19", "company": "CDN", "department": "Asset Management", "so": "41", "contract_number": "DK7251499281878487", "currency": "39757.79\u20ac"}
+{"id": "385", "date": "2023-06-05", "company": "CDN", "department": "Research and Development", "so": "11", "contract_number": "KW1580893432511583377581531269", "currency": "84425.21\u20ac"}
+{"id": "386", "date": "2023-11-11", "company": "CDN", "department": "Sales and Marketing", "so": "23", "contract_number": "SE7152054556403325223524", "currency": "47801.42\u20ac"}
+{"id": "387", "date": "2023-02-28", "company": "CDN", "department": "Payroll", "so": "43", "contract_number": "SK9114495162738333670274", "currency": "99067.51\u20ac"}
+{"id": "388", "date": "2023-08-01", "company": "CDN", "department": "Finances", "so": "11", "contract_number": "LB54280217835162644113621536", "currency": "-12106.94\u20ac"}
+{"id": "389", "date": "2023-05-12", "company": "CDN", "department": "Quality Assurance", "so": "23", "contract_number": "MC0994179637924875783754658", "currency": "-14014.94\u20ac"}
+{"id": "390", "date": "2023-05-09", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "RO97SIEW6737471311791358", "currency": "-63874.91\u20ac"}
+{"id": "391", "date": "2023-02-18", "company": "CDN", "department": "Customer Relations", "so": "47", "contract_number": "AE212586657678235565547", "currency": "64632.60\u20ac"}
+{"id": "392", "date": "2022-11-21", "company": "CDN", "department": "Tech Support", "so": "41", "contract_number": "BE97826405874723", "currency": "92230.80\u20ac"}
+{"id": "393", "date": "2022-10-29", "company": "CDN", "department": "Payroll", "so": "37", "contract_number": "MK62114333374421486", "currency": "31926.79\u20ac"}
+{"id": "394", "date": "2023-09-28", "company": "CDN", "department": "Customer Relations", "so": "13", "contract_number": "LV05USKT1450136596534", "currency": "-25265.12\u20ac"}
+{"id": "395", "date": "2022-10-18", "company": "CDN", "department": "Legal Department", "so": "43", "contract_number": "GE93945450057628246115", "currency": "-27218.56\u20ac"}
+{"id": "396", "date": "2023-06-04", "company": "CDN", "department": "Sales and Marketing", "so": "17", "contract_number": "PL06456018377268840177188143", "currency": "26939.07\u20ac"}
+{"id": "397", "date": "2023-05-31", "company": "CDN", "department": "Advertising", "so": "13", "contract_number": "MU1451473222720216836348861561", "currency": "33871.61\u20ac"}
+{"id": "398", "date": "2023-04-02", "company": "CDN", "department": "Tech Support", "so": "31", "contract_number": "AT188668069876587911", "currency": "-58845.40\u20ac"}
+{"id": "399", "date": "2023-02-16", "company": "CDN", "department": "Asset Management", "so": "29", "contract_number": "AT273515469771292113", "currency": "-93507.32\u20ac"}
+{"id": "400", "date": "2023-01-01", "company": "CDN", "department": "Public Relations", "so": "23", "contract_number": "AT539667573532482438", "currency": "2335.40\u20ac"}
+{"id": "401", "date": "2023-03-15", "company": "CDN", "department": "Customer Service", "so": "31", "contract_number": "GL1623932551113577", "currency": "-32192.23\u20ac"}
+{"id": "402", "date": "2023-02-23", "company": "CDN", "department": "Research and Development", "so": "13", "contract_number": "LT887740285828156226", "currency": "-24574.50\u20ac"}
+{"id": "403", "date": "2023-01-29", "company": "CDN", "department": "Quality Assurance", "so": "41", "contract_number": "IS151256691643631557879025", "currency": "47862.54\u20ac"}
+{"id": "404", "date": "2023-07-04", "company": "CDN", "department": "Quality Assurance", "so": "13", "contract_number": "AL40715220121324627323935154", "currency": "-58768.66\u20ac"}
+{"id": "405", "date": "2023-05-28", "company": "CDN", "department": "Accounting", "so": "41", "contract_number": "SE1163135836527945763338", "currency": "62487.04\u20ac"}
+{"id": "406", "date": "2023-11-14", "company": "CDN", "department": "Legal Department", "so": "23", "contract_number": "BE04022568243224", "currency": "-93456.82\u20ac"}
+{"id": "407", "date": "2022-12-20", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "CZ7124355536812317611258", "currency": "89712.24\u20ac"}
+{"id": "408", "date": "2023-01-03", "company": "CDN", "department": "Accounting", "so": "11", "contract_number": "PT46101764348376646565962", "currency": "48490.08\u20ac"}
+{"id": "409", "date": "2023-07-10", "company": "CDN", "department": "Customer Service", "so": "19", "contract_number": "SM1963016087686413244426528", "currency": "-62308.92\u20ac"}
+{"id": "410", "date": "2023-08-26", "company": "CDN", "department": "Sales and Marketing", "so": "31", "contract_number": "GB38MYEK16011596277775", "currency": "4800.39\u20ac"}
+{"id": "411", "date": "2023-08-31", "company": "CDN", "department": "Legal Department", "so": "13", "contract_number": "NO5833155512057", "currency": "10166.56\u20ac"}
+{"id": "412", "date": "2023-09-22", "company": "CDN", "department": "Payroll", "so": "43", "contract_number": "HU65576450685741666816235417", "currency": "-32672.06\u20ac"}
+{"id": "413", "date": "2023-04-24", "company": "CDN", "department": "Customer Service", "so": "17", "contract_number": "MR9629778454836448772067614", "currency": "47804.60\u20ac"}
+{"id": "414", "date": "2023-05-14", "company": "CDN", "department": "Research and Development", "so": "43", "contract_number": "IT758OBYHI73320487626161205", "currency": "-5198.66\u20ac"}
+{"id": "415", "date": "2022-10-12", "company": "CDN", "department": "Accounting", "so": "37", "contract_number": "AT067678536344282160", "currency": "65857.39\u20ac"}
+{"id": "416", "date": "2023-08-28", "company": "CDN", "department": "Tech Support", "so": "47", "contract_number": "VG5695884884661414133690", "currency": "86878.00\u20ac"}
+{"id": "417", "date": "2023-12-13", "company": "CDN", "department": "Legal Department", "so": "29", "contract_number": "FI0222287543360225", "currency": "-33038.73\u20ac"}
+{"id": "418", "date": "2023-06-28", "company": "CDN", "department": "Tech Support", "so": "43", "contract_number": "AZ98731541321609040461549982", "currency": "-51909.62\u20ac"}
+{"id": "419", "date": "2024-01-01", "company": "CDN", "department": "Tech Support", "so": "11", "contract_number": "PS688517677023953932610870834", "currency": "-49947.50\u20ac"}
+{"id": "420", "date": "2023-05-07", "company": "CDN", "department": "Advertising", "so": "43", "contract_number": "GR2651122296662228152762718", "currency": "-90190.14\u20ac"}
+{"id": "421", "date": "2023-06-11", "company": "CDN", "department": "Public Relations", "so": "31", "contract_number": "AE385673823583671727838", "currency": "-5622.22\u20ac"}
+{"id": "422", "date": "2023-08-11", "company": "CDN", "department": "Legal Department", "so": "11", "contract_number": "TR832407524078190928273795", "currency": "-78841.32\u20ac"}
+{"id": "423", "date": "2023-03-12", "company": "CDN", "department": "Research and Development", "so": "29", "contract_number": "SI37289492012912457", "currency": "-41348.07\u20ac"}
+{"id": "424", "date": "2023-10-20", "company": "CDN", "department": "Asset Management", "so": "31", "contract_number": "DO54372473641848879118835760", "currency": "-11539.86\u20ac"}
+{"id": "425", "date": "2023-02-03", "company": "CDN", "department": "Finances", "so": "19", "contract_number": "MK29673234285079217", "currency": "67439.94\u20ac"}
+{"id": "426", "date": "2023-08-23", "company": "CDN", "department": "Tech Support", "so": "43", "contract_number": "FO7072078332626612", "currency": "46981.60\u20ac"}
+{"id": "427", "date": "2022-11-17", "company": "CDN", "department": "Advertising", "so": "23", "contract_number": "DE37448416422781198873", "currency": "32096.09\u20ac"}
+{"id": "428", "date": "2023-11-08", "company": "CDN", "department": "Advertising", "so": "41", "contract_number": "PL97451147168817345897166361", "currency": "95590.16\u20ac"}
+{"id": "429", "date": "2023-03-27", "company": "CDN", "department": "Advertising", "so": "37", "contract_number": "KW2263070238122521312325075953", "currency": "87744.73\u20ac"}
+{"id": "430", "date": "2022-11-20", "company": "CDN", "department": "Legal Department", "so": "19", "contract_number": "GI69FMKN465588071378381", "currency": "62767.38\u20ac"}
+{"id": "431", "date": "2023-06-24", "company": "CDN", "department": "Payroll", "so": "17", "contract_number": "AE652447478813727358580", "currency": "-5439.18\u20ac"}
+{"id": "432", "date": "2023-07-07", "company": "CDN", "department": "Media Relations", "so": "31", "contract_number": "NO6458765765550", "currency": "40374.71\u20ac"}
+{"id": "433", "date": "2022-11-17", "company": "CDN", "department": "Finances", "so": "11", "contract_number": "BG38VBGV32183890531356", "currency": "-62997.80\u20ac"}
+{"id": "434", "date": "2023-04-19", "company": "CDN", "department": "Customer Service", "so": "43", "contract_number": "BE77663736138271", "currency": "-59704.95\u20ac"}
+{"id": "435", "date": "2023-08-02", "company": "CDN", "department": "Customer Service", "so": "13", "contract_number": "CH6785691523506628217", "currency": "59603.02\u20ac"}
+{"id": "436", "date": "2023-02-13", "company": "CDN", "department": "Customer Relations", "so": "41", "contract_number": "GT11875784503317226128393363", "currency": "70753.43\u20ac"}
+{"id": "437", "date": "2023-04-22", "company": "CDN", "department": "Public Relations", "so": "29", "contract_number": "MR6292131782842283468928879", "currency": "21232.79\u20ac"}
+{"id": "438", "date": "2024-01-18", "company": "CDN", "department": "Customer Relations", "so": "41", "contract_number": "LT974176715616500259", "currency": "-62668.38\u20ac"}
+{"id": "439", "date": "2022-10-20", "company": "CDN", "department": "Quality Assurance", "so": "47", "contract_number": "SA2075866885846578678706", "currency": "81043.20\u20ac"}
+{"id": "440", "date": "2023-09-10", "company": "CDN", "department": "Advertising", "so": "37", "contract_number": "IE92FJEQ65986917434465", "currency": "-57740.28\u20ac"}
+{"id": "441", "date": "2023-10-30", "company": "CDN", "department": "Customer Service", "so": "43", "contract_number": "SA1386718638958279681340", "currency": "375.18\u20ac"}
+{"id": "442", "date": "2022-12-26", "company": "CDN", "department": "Quality Assurance", "so": "41", "contract_number": "IE23NNTM40163252178111", "currency": "91891.10\u20ac"}
+{"id": "443", "date": "2023-02-26", "company": "CDN", "department": "Payroll", "so": "47", "contract_number": "SI61526244917453201", "currency": "19711.73\u20ac"}
+{"id": "444", "date": "2022-12-11", "company": "CDN", "department": "Customer Service", "so": "47", "contract_number": "AD7346381556125682873048", "currency": "-18984.41\u20ac"}
+{"id": "445", "date": "2023-01-26", "company": "CDN", "department": "Tech Support", "so": "43", "contract_number": "GT08937549788473633635737923", "currency": "94363.81\u20ac"}
+{"id": "446", "date": "2023-06-15", "company": "CDN", "department": "Payroll", "so": "41", "contract_number": "GE77366423947220873424", "currency": "15710.69\u20ac"}
+{"id": "447", "date": "2022-12-29", "company": "CDN", "department": "Sales and Marketing", "so": "31", "contract_number": "VG4868612154925451977483", "currency": "-57314.86\u20ac"}
+{"id": "448", "date": "2023-10-20", "company": "CDN", "department": "Advertising", "so": "23", "contract_number": "PL40125408267833606702862833", "currency": "77038.79\u20ac"}
+{"id": "449", "date": "2024-01-26", "company": "CDN", "department": "Public Relations", "so": "29", "contract_number": "HU64672855937742272931555205", "currency": "-36555.68\u20ac"}
+{"id": "450", "date": "2023-07-13", "company": "CDN", "department": "Customer Relations", "so": "23", "contract_number": "MU8617242464359334447565548439", "currency": "-9409.51\u20ac"}
+{"id": "451", "date": "2023-10-28", "company": "CDN", "department": "Quality Assurance", "so": "47", "contract_number": "IL632031858461662920860", "currency": "85529.30\u20ac"}
+{"id": "452", "date": "2023-05-01", "company": "CDN", "department": "Public Relations", "so": "19", "contract_number": "MU1260639984616492362869772038", "currency": "34043.10\u20ac"}
+{"id": "453", "date": "2022-12-24", "company": "CDN", "department": "Customer Service", "so": "13", "contract_number": "IS655755043724593408915636", "currency": "-83747.45\u20ac"}
+{"id": "454", "date": "2023-02-17", "company": "CDN", "department": "Legal Department", "so": "17", "contract_number": "LT141240672482721824", "currency": "24202.16\u20ac"}
+{"id": "455", "date": "2023-05-06", "company": "CDN", "department": "Human Resources", "so": "31", "contract_number": "PK8954884631404375169448", "currency": "18018.37\u20ac"}
+{"id": "456", "date": "2023-08-27", "company": "CDN", "department": "Advertising", "so": "43", "contract_number": "IT317NYQJI73789467054381215", "currency": "-68179.87\u20ac"}
+{"id": "457", "date": "2024-01-10", "company": "CDN", "department": "Tech Support", "so": "19", "contract_number": "BH49620267243782963710", "currency": "-55022.27\u20ac"}
+{"id": "458", "date": "2023-01-11", "company": "CDN", "department": "Legal Department", "so": "23", "contract_number": "LI9809354095185311221", "currency": "15777.36\u20ac"}
+{"id": "459", "date": "2023-08-01", "company": "CDN", "department": "Human Resources", "so": "17", "contract_number": "NL16OOXU7141683345", "currency": "-18525.51\u20ac"}
+{"id": "460", "date": "2023-06-28", "company": "CDN", "department": "Public Relations", "so": "37", "contract_number": "GI09UFVT366416743560028", "currency": "-3391.18\u20ac"}
+{"id": "461", "date": "2022-11-22", "company": "CDN", "department": "Accounting", "so": "19", "contract_number": "HU52635181127204283797617443", "currency": "94828.44\u20ac"}
+{"id": "462", "date": "2024-01-07", "company": "CDN", "department": "Asset Management", "so": "41", "contract_number": "BA022698263626821272", "currency": "66708.57\u20ac"}
+{"id": "463", "date": "2024-01-19", "company": "CDN", "department": "Sales and Marketing", "so": "19", "contract_number": "DE28768139733895698836", "currency": "10942.86\u20ac"}
+{"id": "464", "date": "2023-01-20", "company": "CDN", "department": "Quality Assurance", "so": "17", "contract_number": "HR8153273425518833256", "currency": "66290.42\u20ac"}
+{"id": "465", "date": "2023-01-20", "company": "CDN", "department": "Customer Relations", "so": "31", "contract_number": "BG77ILUU76975476857753", "currency": "33555.51\u20ac"}
+{"id": "466", "date": "2023-12-20", "company": "CDN", "department": "Customer Relations", "so": "41", "contract_number": "GI45TKNM765482857391812", "currency": "-95644.44\u20ac"}
+{"id": "467", "date": "2023-07-19", "company": "CDN", "department": "Accounting", "so": "13", "contract_number": "SE2202709566667362928628", "currency": "-12165.86\u20ac"}
+{"id": "468", "date": "2023-06-28", "company": "CDN", "department": "Quality Assurance", "so": "11", "contract_number": "NO0614656922256", "currency": "-70888.82\u20ac"}
+{"id": "469", "date": "2023-02-16", "company": "CDN", "department": "Asset Management", "so": "19", "contract_number": "FI8523441457825247", "currency": "67968.86\u20ac"}
+{"id": "470", "date": "2023-04-02", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "PS056988848995161443396731153", "currency": "65775.59\u20ac"}
+{"id": "471", "date": "2023-09-01", "company": "CDN", "department": "Customer Service", "so": "19", "contract_number": "AL56166371726246679363834692", "currency": "-16727.58\u20ac"}
+{"id": "472", "date": "2023-11-11", "company": "CDN", "department": "Tech Support", "so": "23", "contract_number": "AE504435852561206165558", "currency": "31225.52\u20ac"}
+{"id": "473", "date": "2024-01-26", "company": "CDN", "department": "Sales and Marketing", "so": "29", "contract_number": "AE598163076617017472837", "currency": "34208.35\u20ac"}
+{"id": "474", "date": "2022-12-22", "company": "CDN", "department": "Finances", "so": "47", "contract_number": "KZ286323779214576879", "currency": "53792.61\u20ac"}
+{"id": "475", "date": "2023-10-12", "company": "CDN", "department": "Sales and Marketing", "so": "11", "contract_number": "LI7350733523131744837", "currency": "-25165.86\u20ac"}
+{"id": "476", "date": "2023-03-27", "company": "CDN", "department": "Accounting", "so": "47", "contract_number": "EE425166622048708386", "currency": "80077.11\u20ac"}
+{"id": "477", "date": "2023-10-01", "company": "CDN", "department": "Quality Assurance", "so": "47", "contract_number": "MC7788852369762614844281723", "currency": "-80341.16\u20ac"}
+{"id": "478", "date": "2023-02-12", "company": "CDN", "department": "Tech Support", "so": "17", "contract_number": "RO11PMRR0143210186244786", "currency": "-98296.40\u20ac"}
+{"id": "479", "date": "2023-02-10", "company": "CDN", "department": "Sales and Marketing", "so": "47", "contract_number": "BG13TWUP39976745111734", "currency": "-45595.37\u20ac"}
+{"id": "480", "date": "2023-05-29", "company": "CDN", "department": "Research and Development", "so": "19", "contract_number": "GB65EVTD16927638731370", "currency": "74909.37\u20ac"}
+{"id": "481", "date": "2022-10-19", "company": "CDN", "department": "Sales and Marketing", "so": "31", "contract_number": "BH29451842629436484116", "currency": "-37833.24\u20ac"}
+{"id": "482", "date": "2023-03-11", "company": "CDN", "department": "Accounting", "so": "37", "contract_number": "VG1227506125406248678223", "currency": "-45774.39\u20ac"}
+{"id": "483", "date": "2023-11-06", "company": "CDN", "department": "Sales and Marketing", "so": "43", "contract_number": "PK2181547313228814863153", "currency": "-40527.96\u20ac"}
+{"id": "484", "date": "2023-11-12", "company": "CDN", "department": "Human Resources", "so": "11", "contract_number": "GB52IBYJ11445749108233", "currency": "14183.75\u20ac"}
+{"id": "485", "date": "2023-05-31", "company": "CDN", "department": "Customer Service", "so": "47", "contract_number": "AZ42753847525660667862384281", "currency": "98145.20\u20ac"}
+{"id": "486", "date": "2022-12-28", "company": "CDN", "department": "Payroll", "so": "17", "contract_number": "NL79HORL2028675355", "currency": "-56604.31\u20ac"}
+{"id": "487", "date": "2023-07-10", "company": "CDN", "department": "Accounting", "so": "13", "contract_number": "AD1718769119622818372652", "currency": "56782.70\u20ac"}
+{"id": "488", "date": "2023-12-14", "company": "CDN", "department": "Human Resources", "so": "43", "contract_number": "FO6231816615373749", "currency": "56553.32\u20ac"}
+{"id": "489", "date": "2023-07-17", "company": "CDN", "department": "Customer Relations", "so": "41", "contract_number": "MR8309874026866563847773556", "currency": "97192.57\u20ac"}
+{"id": "490", "date": "2023-07-11", "company": "CDN", "department": "Public Relations", "so": "11", "contract_number": "MK89217825228226815", "currency": "86808.18\u20ac"}
+{"id": "491", "date": "2023-03-18", "company": "CDN", "department": "Customer Service", "so": "31", "contract_number": "LV41QKPT3042824849152", "currency": "-99214.84\u20ac"}
+{"id": "492", "date": "2023-11-27", "company": "CDN", "department": "Tech Support", "so": "37", "contract_number": "SE5683225463743256576214", "currency": "-39495.05\u20ac"}
+{"id": "493", "date": "2023-01-12", "company": "CDN", "department": "Customer Relations", "so": "23", "contract_number": "GB26WZSV49667888590367", "currency": "71819.37\u20ac"}
+{"id": "494", "date": "2023-09-13", "company": "CDN", "department": "Research and Development", "so": "37", "contract_number": "RO27XAFB2186473963060358", "currency": "10382.56\u20ac"}
+{"id": "495", "date": "2022-12-27", "company": "CDN", "department": "Tech Support", "so": "19", "contract_number": "LV24SRVU7246743331473", "currency": "-45751.71\u20ac"}
+{"id": "496", "date": "2023-01-20", "company": "CDN", "department": "Quality Assurance", "so": "43", "contract_number": "GB55GKHL19420093814461", "currency": "48907.22\u20ac"}
+{"id": "497", "date": "2022-12-16", "company": "CDN", "department": "Customer Service", "so": "13", "contract_number": "SK9656525127631363478584", "currency": "40043.96\u20ac"}
+{"id": "498", "date": "2023-09-23", "company": "CDN", "department": "Finances", "so": "37", "contract_number": "TR988212295788491389398320", "currency": "73268.15\u20ac"}
+{"id": "499", "date": "2023-01-26", "company": "CDN", "department": "Customer Relations", "so": "41", "contract_number": "RS43201215846413722258", "currency": "-42593.36\u20ac"}
+{"id": "500", "date": "2024-01-18", "company": "CDN", "department": "Customer Relations", "so": "37", "contract_number": "LV67EBMS6578569770767", "currency": "-20848.54\u20ac"}

@@ -1,0 +1,647 @@
+{"id": "508", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "-218801.68\u20ac"}
+{"id": "509", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "-120316.68\u20ac"}
+{"id": "510", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "-119569.56999999999\u20ac"}
+{"id": "511", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "-113446.42000000001\u20ac"}
+{"id": "512", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "-85720.81\u20ac"}
+{"id": "513", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "7684.249999999996\u20ac"}
+{"id": "514", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "-152040.64\u20ac"}
+{"id": "515", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "41241.04000000001\u20ac"}
+{"id": "516", "date": "2023-10-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "-152026.63\u20ac"}
+{"id": "517", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "53616.770000000004\u20ac"}
+{"id": "518", "date": "2024-01-31", "company": "Societe Generale", "department": "Migration", "so": "47", "contract_number": "", "currency": "79048.11\u20ac"}
+{"id": "519", "date": "2022-10-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "55493.979999999996\u20ac"}
+{"id": "520", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "46813.46\u20ac"}
+{"id": "521", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "-177671.76\u20ac"}
+{"id": "522", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "207021.09999999998\u20ac"}
+{"id": "523", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "194347.03000000003\u20ac"}
+{"id": "524", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "142024.40000000002\u20ac"}
+{"id": "525", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "-113969.2\u20ac"}
+{"id": "526", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "-92887.97\u20ac"}
+{"id": "527", "date": "2023-08-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "59112.84999999999\u20ac"}
+{"id": "528", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "-56499.16\u20ac"}
+{"id": "529", "date": "2023-10-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "10681.440000000002\u20ac"}
+{"id": "530", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "-333650.47\u20ac"}
+{"id": "531", "date": "2024-01-31", "company": "Societe Generale", "department": "Migration", "so": "43", "contract_number": "", "currency": "-15870.339999999997\u20ac"}
+{"id": "532", "date": "2022-10-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "-27872.45\u20ac"}
+{"id": "533", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "-48461.020000000004\u20ac"}
+{"id": "534", "date": "2023-01-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "55217.25000000001\u20ac"}
+{"id": "535", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "234062.04000000004\u20ac"}
+{"id": "536", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "-136599.13\u20ac"}
+{"id": "537", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "7982.16\u20ac"}
+{"id": "538", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "-77413.84\u20ac"}
+{"id": "539", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "80330.44\u20ac"}
+{"id": "540", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "-7387.44000000001\u20ac"}
+{"id": "541", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "-255390.51\u20ac"}
+{"id": "542", "date": "2023-10-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "35624.02\u20ac"}
+{"id": "543", "date": "2023-11-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "-152041.41999999998\u20ac"}
+{"id": "544", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "41", "contract_number": "", "currency": "395165.51\u20ac"}
+{"id": "545", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "-84647.90000000001\u20ac"}
+{"id": "546", "date": "2022-12-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "160638.68\u20ac"}
+{"id": "547", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "32066.77\u20ac"}
+{"id": "548", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "-10238.399999999994\u20ac"}
+{"id": "549", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "31973.809999999994\u20ac"}
+{"id": "550", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "132797.68\u20ac"}
+{"id": "551", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "51392.5\u20ac"}
+{"id": "552", "date": "2023-08-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "21197.620000000003\u20ac"}
+{"id": "553", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "-113953.23999999999\u20ac"}
+{"id": "554", "date": "2023-11-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "-47465.26999999999\u20ac"}
+{"id": "555", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "37", "contract_number": "", "currency": "54096.88999999999\u20ac"}
+{"id": "556", "date": "2022-12-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "112202.03999999998\u20ac"}
+{"id": "557", "date": "2023-01-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "22954.1\u20ac"}
+{"id": "558", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "-51089.029999999984\u20ac"}
+{"id": "559", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "-58944.06\u20ac"}
+{"id": "560", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "-147160.81\u20ac"}
+{"id": "561", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "-144207.62\u20ac"}
+{"id": "562", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "-5554.940000000002\u20ac"}
+{"id": "563", "date": "2023-08-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "70919.41\u20ac"}
+{"id": "564", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "72209.39\u20ac"}
+{"id": "565", "date": "2023-11-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "4149.330000000002\u20ac"}
+{"id": "566", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "73658.5\u20ac"}
+{"id": "567", "date": "2024-01-31", "company": "Societe Generale", "department": "Migration", "so": "31", "contract_number": "", "currency": "-68253.75\u20ac"}
+{"id": "568", "date": "2022-10-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "-312405.43999999994\u20ac"}
+{"id": "569", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "126317.98999999999\u20ac"}
+{"id": "570", "date": "2022-12-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "118855.59000000001\u20ac"}
+{"id": "571", "date": "2023-01-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "-101102.87\u20ac"}
+{"id": "572", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "61519.82\u20ac"}
+{"id": "573", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "-84938.35\u20ac"}
+{"id": "574", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "-64229.98\u20ac"}
+{"id": "575", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "-65778.68000000001\u20ac"}
+{"id": "576", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "34714.65\u20ac"}
+{"id": "577", "date": "2023-10-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "-129995.78\u20ac"}
+{"id": "578", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "-21077.189999999995\u20ac"}
+{"id": "579", "date": "2024-01-31", "company": "Societe Generale", "department": "Migration", "so": "29", "contract_number": "", "currency": "-206026.19\u20ac"}
+{"id": "580", "date": "2022-10-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "76029.55\u20ac"}
+{"id": "581", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "-136446.41\u20ac"}
+{"id": "582", "date": "2022-12-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "131780.46000000002\u20ac"}
+{"id": "583", "date": "2023-01-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "-46116.42999999999\u20ac"}
+{"id": "584", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "-134784.88\u20ac"}
+{"id": "585", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "203832.02\u20ac"}
+{"id": "586", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "98786.67\u20ac"}
+{"id": "587", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "44757.65999999999\u20ac"}
+{"id": "588", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "-42673.299999999996\u20ac"}
+{"id": "589", "date": "2023-08-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "80372.37\u20ac"}
+{"id": "590", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "3961.290000000001\u20ac"}
+{"id": "591", "date": "2023-10-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "-93169.2\u20ac"}
+{"id": "592", "date": "2023-11-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "101312.79000000001\u20ac"}
+{"id": "593", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "-31374.519999999993\u20ac"}
+{"id": "594", "date": "2024-01-31", "company": "Societe Generale", "department": "Migration", "so": "23", "contract_number": "", "currency": "-133747.65000000002\u20ac"}
+{"id": "595", "date": "2022-10-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "-10737.710000000006\u20ac"}
+{"id": "596", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "-353701.9\u20ac"}
+{"id": "597", "date": "2022-12-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "162175.86\u20ac"}
+{"id": "598", "date": "2023-01-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "-167.48000000001048\u20ac"}
+{"id": "599", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "-102405.87999999998\u20ac"}
+{"id": "600", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "94154.37\u20ac"}
+{"id": "601", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "-2748.8199999999997\u20ac"}
+{"id": "602", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "41115.20999999999\u20ac"}
+{"id": "603", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "-118442.04000000001\u20ac"}
+{"id": "604", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "75188.3\u20ac"}
+{"id": "605", "date": "2023-08-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "-45032.24\u20ac"}
+{"id": "606", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "87379.28\u20ac"}
+{"id": "607", "date": "2023-11-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "131137.43\u20ac"}
+{"id": "608", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "19", "contract_number": "", "currency": "-67410.81\u20ac"}
+{"id": "609", "date": "2022-10-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "-7881.610000000001\u20ac"}
+{"id": "610", "date": "2022-12-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "-16998.570000000007\u20ac"}
+{"id": "611", "date": "2023-01-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "178646.85\u20ac"}
+{"id": "612", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "-86528.66\u20ac"}
+{"id": "613", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "-43556.189999999995\u20ac"}
+{"id": "614", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "125497.81999999999\u20ac"}
+{"id": "615", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "-95833.01000000001\u20ac"}
+{"id": "616", "date": "2023-08-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "145406.25\u20ac"}
+{"id": "617", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "-8108.840000000004\u20ac"}
+{"id": "618", "date": "2023-10-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "-148115.43\u20ac"}
+{"id": "619", "date": "2023-11-31", "company": "Societe Generale", "department": "Migration", "so": "17", "contract_number": "", "currency": "62652.03999999999\u20ac"}
+{"id": "620", "date": "2022-10-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "-2571.16\u20ac"}
+{"id": "621", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "-26502.470000000016\u20ac"}
+{"id": "622", "date": "2022-12-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "-87475.39000000001\u20ac"}
+{"id": "623", "date": "2023-01-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "-107161.95\u20ac"}
+{"id": "624", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "4232.119999999995\u20ac"}
+{"id": "625", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "171381.7\u20ac"}
+{"id": "626", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "-14451.04\u20ac"}
+{"id": "627", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "-71147.34999999999\u20ac"}
+{"id": "628", "date": "2023-08-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "-46639.399999999994\u20ac"}
+{"id": "629", "date": "2023-11-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "53183.590000000004\u20ac"}
+{"id": "630", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "8162.989999999998\u20ac"}
+{"id": "631", "date": "2024-01-31", "company": "Societe Generale", "department": "Migration", "so": "13", "contract_number": "", "currency": "-136975.9\u20ac"}
+{"id": "632", "date": "2022-10-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "213902.98000000004\u20ac"}
+{"id": "633", "date": "2022-11-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "104764.72\u20ac"}
+{"id": "634", "date": "2022-12-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "83837.66\u20ac"}
+{"id": "635", "date": "2023-01-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-189497.03999999998\u20ac"}
+{"id": "636", "date": "2023-02-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-446346.18000000005\u20ac"}
+{"id": "637", "date": "2023-03-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-72535.14\u20ac"}
+{"id": "638", "date": "2023-04-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-305171.28\u20ac"}
+{"id": "639", "date": "2023-05-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-91995.53\u20ac"}
+{"id": "640", "date": "2023-06-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-156607.66000000003\u20ac"}
+{"id": "641", "date": "2023-07-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-166738.5\u20ac"}
+{"id": "642", "date": "2023-08-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-9269.279999999999\u20ac"}
+{"id": "643", "date": "2023-09-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-315590.48\u20ac"}
+{"id": "644", "date": "2023-10-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-44773.33\u20ac"}
+{"id": "645", "date": "2023-11-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "105855.65999999999\u20ac"}
+{"id": "646", "date": "2023-12-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "42333.26000000002\u20ac"}
+{"id": "647", "date": "2024-01-31", "company": "Societe Generale", "department": "Migration", "so": "11", "contract_number": "", "currency": "-61356.75000000001\u20ac"}
+{"id": "1", "date": "2023-03-04", "company": "Societe Generale", "department": "Finances", "so": "37", "contract_number": "KW6435409381485566453097916638", "currency": "-24069.65\u20ac"}
+{"id": "2", "date": "2023-06-04", "company": "Societe Generale", "department": "Asset Management", "so": "11", "contract_number": "AZ93454415026437734626736853", "currency": "96054.19\u20ac"}
+{"id": "3", "date": "2023-02-12", "company": "Societe Generale", "department": "Tech Support", "so": "43", "contract_number": "IL342601674778341712022", "currency": "-0.22\u20ac"}
+{"id": "4", "date": "2023-02-02", "company": "Societe Generale", "department": "Public Relations", "so": "29", "contract_number": "SA3818459643885755371660", "currency": "97224.29\u20ac"}
+{"id": "5", "date": "2023-11-23", "company": "Societe Generale", "department": "Research and Development", "so": "41", "contract_number": "MK14610286223417581", "currency": "54216.84\u20ac"}
+{"id": "6", "date": "2023-11-27", "company": "Societe Generale", "department": "Customer Service", "so": "31", "contract_number": "MD4275166344405723694720", "currency": "72118.90\u20ac"}
+{"id": "7", "date": "2023-08-13", "company": "Societe Generale", "department": "Accounting", "so": "13", "contract_number": "IE97TUYY13344726734514", "currency": "-28428.67\u20ac"}
+{"id": "8", "date": "2023-01-12", "company": "Societe Generale", "department": "Quality Assurance", "so": "17", "contract_number": "LU086562604366677726", "currency": "-79353.53\u20ac"}
+{"id": "9", "date": "2023-05-26", "company": "Societe Generale", "department": "Sales and Marketing", "so": "13", "contract_number": "ME66815134586668857761", "currency": "-20434.07\u20ac"}
+{"id": "10", "date": "2022-12-26", "company": "Societe Generale", "department": "Finances", "so": "17", "contract_number": "TN1461651314131960264362", "currency": "73602.88\u20ac"}
+{"id": "11", "date": "2022-10-19", "company": "Societe Generale", "department": "Media Relations", "so": "11", "contract_number": "MT56MUQL72838584186788708842263", "currency": "56821.86\u20ac"}
+{"id": "12", "date": "2022-10-19", "company": "Societe Generale", "department": "Media Relations", "so": "11", "contract_number": "MT56MUQL12312312386788708842263", "currency": "131192.67\u20ac"}
+{"id": "13", "date": "2023-07-30", "company": "Societe Generale", "department": "Human Resources", "so": "43", "contract_number": "SK8324575348682816196381", "currency": "21009.63\u20ac"}
+{"id": "14", "date": "2023-11-26", "company": "Societe Generale", "department": "Customer Relations", "so": "13", "contract_number": "MT84UUEG41463645478952413588507", "currency": "50211.42\u20ac"}
+{"id": "15", "date": "2023-02-03", "company": "Societe Generale", "department": "Public Relations", "so": "13", "contract_number": "SK2622124753474763251238", "currency": "-95898.64\u20ac"}
+{"id": "16", "date": "2023-03-10", "company": "Societe Generale", "department": "Research and Development", "so": "23", "contract_number": "AD5815551525177987378757", "currency": "-48925.13\u20ac"}
+{"id": "17", "date": "2023-12-30", "company": "Societe Generale", "department": "Customer Relations", "so": "41", "contract_number": "SM8684214467590433264657822", "currency": "-97578.33\u20ac"}
+{"id": "18", "date": "2023-06-08", "company": "Societe Generale", "department": "Quality Assurance", "so": "37", "contract_number": "FR5937731332720975855765824", "currency": "-33329.60\u20ac"}
+{"id": "19", "date": "2022-10-02", "company": "Societe Generale", "department": "Asset Management", "so": "13", "contract_number": "LB03318291415231039716134216", "currency": "92920.63\u20ac"}
+{"id": "20", "date": "2023-06-26", "company": "Societe Generale", "department": "Accounting", "so": "13", "contract_number": "TR983537375507338527994422", "currency": "-42729.12\u20ac"}
+{"id": "21", "date": "2023-11-02", "company": "Societe Generale", "department": "Media Relations", "so": "19", "contract_number": "GE06210243906853502739", "currency": "47027.02\u20ac"}
+{"id": "22", "date": "2023-11-02", "company": "Societe Generale", "department": "Accounting", "so": "19", "contract_number": "GE06024390681235802739", "currency": "-160701.21\u20ac"}
+{"id": "23", "date": "2023-08-18", "company": "Societe Generale", "department": "Customer Service", "so": "11", "contract_number": "RS86918818626006622151", "currency": "-78233.84\u20ac"}
+{"id": "24", "date": "2022-10-15", "company": "Societe Generale", "department": "Legal Department", "so": "17", "contract_number": "PT88371631666636982635472", "currency": "-44308.12\u20ac"}
+{"id": "25", "date": "2022-10-15", "company": "Societe Generale", "department": "Legal Department", "so": "17", "contract_number": "DW88371631666636982635472", "currency": "102439.33\u20ac"}
+{"id": "26", "date": "2022-10-19", "company": "Societe Generale", "department": "Legal Department", "so": "29", "contract_number": "NL07SXVI3667175674", "currency": "91386.10\u20ac"}
+{"id": "27", "date": "2023-01-19", "company": "Societe Generale", "department": "Quality Assurance", "so": "19", "contract_number": "PL97216611287314106322188547", "currency": "41656.02\u20ac"}
+{"id": "28", "date": "2023-03-02", "company": "Societe Generale", "department": "Customer Relations", "so": "31", "contract_number": "LI0783089654151552623", "currency": "28306.46\u20ac"}
+{"id": "29", "date": "2023-12-15", "company": "Societe Generale", "department": "Customer Service", "so": "17", "contract_number": "IS588146153144636516224055", "currency": "-52625.89\u20ac"}
+{"id": "30", "date": "2023-06-01", "company": "Societe Generale", "department": "Accounting", "so": "47", "contract_number": "MR6565110679860243678528752", "currency": "-3743.91\u20ac"}
+{"id": "31", "date": "2022-11-26", "company": "Societe Generale", "department": "Asset Management", "so": "19", "contract_number": "TR414689723399437747074850", "currency": "72642.60\u20ac"}
+{"id": "32", "date": "2022-10-04", "company": "Societe Generale", "department": "Advertising", "so": "37", "contract_number": "MD3005687417625647150954", "currency": "56574.26\u20ac"}
+{"id": "33", "date": "2023-07-01", "company": "Societe Generale", "department": "Customer Relations", "so": "11", "contract_number": "MD8768169382556091147648", "currency": "98231.10\u20ac"}
+{"id": "34", "date": "2023-05-17", "company": "Societe Generale", "department": "Tech Support", "so": "11", "contract_number": "KZ817811230747318493", "currency": "90841.10\u20ac"}
+{"id": "35", "date": "2023-10-10", "company": "Societe Generale", "department": "Human Resources", "so": "13", "contract_number": "CH2395381667435543886", "currency": "13197.17\u20ac"}
+{"id": "36", "date": "2023-08-10", "company": "Societe Generale", "department": "Tech Support", "so": "31", "contract_number": "IL785885447582604964012", "currency": "-45832.49\u20ac"}
+{"id": "37", "date": "2022-12-13", "company": "Societe Generale", "department": "Accounting", "so": "37", "contract_number": "RO34HQAK7772256248816213", "currency": "-31691.94\u20ac"}
+{"id": "38", "date": "2023-02-14", "company": "Societe Generale", "department": "Research and Development", "so": "23", "contract_number": "FO6444273994214064", "currency": "-98038.62\u20ac"}
+{"id": "39", "date": "2023-02-13", "company": "Societe Generale", "department": "Tech Support", "so": "23", "contract_number": "PK2815651208851594331011", "currency": "50927.63\u20ac"}
+{"id": "40", "date": "2022-10-29", "company": "Societe Generale", "department": "Customer Relations", "so": "19", "contract_number": "LB41244265141252676345838532", "currency": "-42446.34\u20ac"}
+{"id": "41", "date": "2023-12-19", "company": "Societe Generale", "department": "Accounting", "so": "19", "contract_number": "MR6910799273557981738308771", "currency": "-4617.57\u20ac"}
+{"id": "42", "date": "2023-01-26", "company": "Societe Generale", "department": "Finances", "so": "19", "contract_number": "HR4332324601627943591", "currency": "-71673.70\u20ac"}
+{"id": "43", "date": "2024-01-03", "company": "Societe Generale", "department": "Legal Department", "so": "17", "contract_number": "GT14622049849338519653822168", "currency": "-92926.30\u20ac"}
+{"id": "44", "date": "2023-01-03", "company": "Societe Generale", "department": "Customer Service", "so": "37", "contract_number": "RO70DBEJ3824733016946779", "currency": "44038.55\u20ac"}
+{"id": "45", "date": "2022-12-20", "company": "Societe Generale", "department": "Advertising", "so": "47", "contract_number": "LI6265433192551568766", "currency": "-70575.13\u20ac"}
+{"id": "46", "date": "2023-08-23", "company": "Societe Generale", "department": "Media Relations", "so": "13", "contract_number": "IT866QQYLI92131574136218632", "currency": "-48893.05\u20ac"}
+{"id": "47", "date": "2023-11-24", "company": "Societe Generale", "department": "Sales and Marketing", "so": "43", "contract_number": "GT97653553245971616241411321", "currency": "-78454.36\u20ac"}
+{"id": "48", "date": "2022-10-29", "company": "Societe Generale", "department": "Research and Development", "so": "23", "contract_number": "MU8523639233756633523402632654", "currency": "-93964.66\u20ac"}
+{"id": "49", "date": "2023-04-09", "company": "Societe Generale", "department": "Media Relations", "so": "17", "contract_number": "BA624826781041998222", "currency": "13317.34\u20ac"}
+{"id": "50", "date": "2023-12-30", "company": "Societe Generale", "department": "Tech Support", "so": "23", "contract_number": "LT111493072995654861", "currency": "22000.74\u20ac"}
+{"id": "51", "date": "2022-12-17", "company": "Societe Generale", "department": "Customer Service", "so": "17", "contract_number": "MT41VCCD45343175273879757821953", "currency": "-12499.11\u20ac"}
+{"id": "52", "date": "2023-06-12", "company": "Societe Generale", "department": "Finances", "so": "41", "contract_number": "LT883960878553979382", "currency": "-91099.26\u20ac"}
+{"id": "53", "date": "2024-01-12", "company": "Societe Generale", "department": "Asset Management", "so": "11", "contract_number": "HR9575700130758048205", "currency": "98643.96\u20ac"}
+{"id": "54", "date": "2023-08-09", "company": "Societe Generale", "department": "Human Resources", "so": "31", "contract_number": "IL252230280863323414823", "currency": "98696.85\u20ac"}
+{"id": "55", "date": "2023-09-19", "company": "Societe Generale", "department": "Customer Relations", "so": "47", "contract_number": "MU6373531697504386136285867386", "currency": "49243.16\u20ac"}
+{"id": "56", "date": "2022-10-06", "company": "Societe Generale", "department": "Finances", "so": "29", "contract_number": "GL2162316825044961", "currency": "5774.56\u20ac"}
+{"id": "57", "date": "2024-01-02", "company": "Societe Generale", "department": "Sales and Marketing", "so": "31", "contract_number": "AT592347855772884157", "currency": "-46787.70\u20ac"}
+{"id": "58", "date": "2023-12-29", "company": "Societe Generale", "department": "Human Resources", "so": "43", "contract_number": "VG5412605773464264807741", "currency": "-98298.82\u20ac"}
+{"id": "59", "date": "2024-01-27", "company": "Societe Generale", "department": "Finances", "so": "47", "contract_number": "CH6629150339652988658", "currency": "6821.60\u20ac"}
+{"id": "60", "date": "2022-11-27", "company": "Societe Generale", "department": "Finances", "so": "43", "contract_number": "LU272140811000732451", "currency": "-12766.36\u20ac"}
+{"id": "61", "date": "2023-12-13", "company": "Societe Generale", "department": "Payroll", "so": "41", "contract_number": "IS157418636566688972227177", "currency": "-12391.98\u20ac"}
+{"id": "62", "date": "2022-10-18", "company": "Societe Generale", "department": "Advertising", "so": "29", "contract_number": "DO46534253508628687326463345", "currency": "-44398.16\u20ac"}
+{"id": "63", "date": "2023-06-10", "company": "Societe Generale", "department": "Customer Relations", "so": "23", "contract_number": "HR9411312988270438142", "currency": "-79857.65\u20ac"}
+{"id": "64", "date": "2023-12-17", "company": "Societe Generale", "department": "Payroll", "so": "29", "contract_number": "RS86229116328923597775", "currency": "92134.68\u20ac"}
+{"id": "65", "date": "2023-03-15", "company": "Societe Generale", "department": "Public Relations", "so": "13", "contract_number": "BH60448537620128830866", "currency": "16542.14\u20ac"}
+{"id": "66", "date": "2023-10-22", "company": "Societe Generale", "department": "Customer Relations", "so": "17", "contract_number": "BG07QYMS25674029623155", "currency": "-4316.95\u20ac"}
+{"id": "67", "date": "2023-12-23", "company": "Societe Generale", "department": "Sales and Marketing", "so": "19", "contract_number": "MC4917065905218572768536178", "currency": "89546.87\u20ac"}
+{"id": "68", "date": "2023-01-11", "company": "Societe Generale", "department": "Public Relations", "so": "41", "contract_number": "TR169926891529345109373168", "currency": "-63914.81\u20ac"}
+{"id": "69", "date": "2022-10-24", "company": "Societe Generale", "department": "Asset Management", "so": "13", "contract_number": "DO10811973672995428555966795", "currency": "19095.49\u20ac"}
+{"id": "70", "date": "2023-10-29", "company": "Societe Generale", "department": "Public Relations", "so": "17", "contract_number": "ES3566218453572825245351", "currency": "61298.19\u20ac"}
+{"id": "71", "date": "2022-11-02", "company": "Societe Generale", "department": "Sales and Marketing", "so": "23", "contract_number": "PK2153355300091094102954", "currency": "-31382.99\u20ac"}
+{"id": "72", "date": "2022-10-26", "company": "Societe Generale", "department": "Customer Relations", "so": "11", "contract_number": "SM8497234572368357387225232", "currency": "-68740.35\u20ac"}
+{"id": "73", "date": "2023-09-27", "company": "Societe Generale", "department": "Tech Support", "so": "41", "contract_number": "TR272184267945126585442112", "currency": "-93585.15\u20ac"}
+{"id": "74", "date": "2023-06-09", "company": "Societe Generale", "department": "Customer Service", "so": "17", "contract_number": "DE06677831561271702384", "currency": "46723.55\u20ac"}
+{"id": "75", "date": "2022-10-15", "company": "Societe Generale", "department": "Tech Support", "so": "19", "contract_number": "AE146822111682445522841", "currency": "-3472.62\u20ac"}
+{"id": "76", "date": "2023-11-29", "company": "Societe Generale", "department": "Research and Development", "so": "19", "contract_number": "HU22294105213850441816752276", "currency": "-33607.54\u20ac"}
+{"id": "77", "date": "2023-06-13", "company": "Societe Generale", "department": "Finances", "so": "37", "contract_number": "LT769305657496654665", "currency": "50431.35\u20ac"}
+{"id": "78", "date": "2024-01-08", "company": "Societe Generale", "department": "Human Resources", "so": "43", "contract_number": "LV57AIUJ7187386214178", "currency": "19633.63\u20ac"}
+{"id": "79", "date": "2023-05-10", "company": "Societe Generale", "department": "Media Relations", "so": "19", "contract_number": "IS723753346117880211791781", "currency": "44014.90\u20ac"}
+{"id": "80", "date": "2023-12-30", "company": "Societe Generale", "department": "Quality Assurance", "so": "47", "contract_number": "FI6043843668532180", "currency": "61905.81\u20ac"}
+{"id": "81", "date": "2024-01-12", "company": "Societe Generale", "department": "Finances", "so": "13", "contract_number": "AT984526253353681544", "currency": "-78648.15\u20ac"}
+{"id": "82", "date": "2023-06-03", "company": "Societe Generale", "department": "Advertising", "so": "13", "contract_number": "PT33768020337461888940876", "currency": "-32052.31\u20ac"}
+{"id": "83", "date": "2023-08-08", "company": "Societe Generale", "department": "Accounting", "so": "11", "contract_number": "BG02YPDU11977421522151", "currency": "-64477.39\u20ac"}
+{"id": "84", "date": "2023-03-29", "company": "Societe Generale", "department": "Asset Management", "so": "23", "contract_number": "IS167895266154465766788873", "currency": "35999.70\u20ac"}
+{"id": "85", "date": "2022-11-17", "company": "Societe Generale", "department": "Legal Department", "so": "41", "contract_number": "FO6418217433216507", "currency": "-51578.65\u20ac"}
+{"id": "86", "date": "2023-12-06", "company": "Societe Generale", "department": "Customer Relations", "so": "17", "contract_number": "NO3577188573910", "currency": "2338.60\u20ac"}
+{"id": "87", "date": "2022-12-07", "company": "Societe Generale", "department": "Media Relations", "so": "11", "contract_number": "BA475327788818651137", "currency": "-52303.76\u20ac"}
+{"id": "88", "date": "2022-12-07", "company": "Societe Generale", "department": "Asset Management", "so": "31", "contract_number": "GI68MIQX160906716591532", "currency": "-98227.89\u20ac"}
+{"id": "89", "date": "2022-12-31", "company": "Societe Generale", "department": "Sales and Marketing", "so": "37", "contract_number": "PS584557715905305058522618221", "currency": "-16181.72\u20ac"}
+{"id": "90", "date": "2023-10-14", "company": "Societe Generale", "department": "Human Resources", "so": "43", "contract_number": "PK0713686973314715723251", "currency": "-12893.18\u20ac"}
+{"id": "91", "date": "2023-03-28", "company": "Societe Generale", "department": "Media Relations", "so": "43", "contract_number": "IL114380573744573587509", "currency": "-23105.85\u20ac"}
+{"id": "92", "date": "2023-02-19", "company": "Societe Generale", "department": "Customer Service", "so": "23", "contract_number": "GT74011358611131285358551717", "currency": "-26782.36\u20ac"}
+{"id": "93", "date": "2024-01-28", "company": "Societe Generale", "department": "Accounting", "so": "11", "contract_number": "GR8967814157937777591611793", "currency": "-84178.18\u20ac"}
+{"id": "94", "date": "2022-12-28", "company": "Societe Generale", "department": "Legal Department", "so": "13", "contract_number": "AD1862842152737492934282", "currency": "-68909.66\u20ac"}
+{"id": "95", "date": "2023-09-20", "company": "Societe Generale", "department": "Payroll", "so": "43", "contract_number": "IT049IRXGI34138563446376565", "currency": "-77717.35\u20ac"}
+{"id": "96", "date": "2023-09-27", "company": "Societe Generale", "department": "Payroll", "so": "43", "contract_number": "IE39CWTM37735454424576", "currency": "-47218.31\u20ac"}
+{"id": "97", "date": "2022-11-24", "company": "Societe Generale", "department": "Public Relations", "so": "23", "contract_number": "KZ201132883577384408", "currency": "78403.47\u20ac"}
+{"id": "98", "date": "2022-12-27", "company": "Societe Generale", "department": "Public Relations", "so": "23", "contract_number": "ME28044416337726085302", "currency": "-52242.31\u20ac"}
+{"id": "99", "date": "2023-02-21", "company": "Societe Generale", "department": "Advertising", "so": "17", "contract_number": "LT743107051666185797", "currency": "52224.35\u20ac"}
+{"id": "100", "date": "2023-02-15", "company": "Societe Generale", "department": "Human Resources", "so": "31", "contract_number": "AT705635521850046220", "currency": "13457.71\u20ac"}
+{"id": "101", "date": "2023-05-14", "company": "Societe Generale", "department": "Sales and Marketing", "so": "47", "contract_number": "LV30JYLE6017577673672", "currency": "-41096.30\u20ac"}
+{"id": "102", "date": "2023-03-22", "company": "Societe Generale", "department": "Tech Support", "so": "37", "contract_number": "LU368384408105499147", "currency": "43467.17\u20ac"}
+{"id": "103", "date": "2022-12-05", "company": "Societe Generale", "department": "Payroll", "so": "43", "contract_number": "IE54KWFI93967044631697", "currency": "-92822.91\u20ac"}
+{"id": "104", "date": "2023-11-14", "company": "Societe Generale", "department": "Payroll", "so": "41", "contract_number": "FR9231658815534088457331216", "currency": "44229.60\u20ac"}
+{"id": "105", "date": "2023-09-02", "company": "Societe Generale", "department": "Payroll", "so": "41", "contract_number": "PL42176968485526571536867837", "currency": "-59616.08\u20ac"}
+{"id": "106", "date": "2023-03-21", "company": "Societe Generale", "department": "Human Resources", "so": "43", "contract_number": "SE4921767508176302486827", "currency": "46541.55\u20ac"}
+{"id": "107", "date": "2023-03-25", "company": "Societe Generale", "department": "Customer Relations", "so": "11", "contract_number": "LB84455234556307979283383961", "currency": "72535.14\u20ac"}
+{"id": "108", "date": "2023-12-06", "company": "Societe Generale", "department": "Legal Department", "so": "41", "contract_number": "AZ89188501324735052982635662", "currency": "-79009.31\u20ac"}
+{"id": "109", "date": "2023-01-10", "company": "Societe Generale", "department": "Finances", "so": "41", "contract_number": "AE958527577672514941695", "currency": "-94914.73\u20ac"}
+{"id": "110", "date": "2024-01-11", "company": "Societe Generale", "department": "Advertising", "so": "29", "contract_number": "CZ3624123856115253341142", "currency": "52594.09\u20ac"}
+{"id": "111", "date": "2023-12-14", "company": "Societe Generale", "department": "Asset Management", "so": "11", "contract_number": "HR2733814731458711121", "currency": "-68721.94\u20ac"}
+{"id": "112", "date": "2023-11-08", "company": "Societe Generale", "department": "Legal Department", "so": "29", "contract_number": "AZ21421114871587791857216863", "currency": "48172.60\u20ac"}
+{"id": "113", "date": "2023-03-11", "company": "Societe Generale", "department": "Human Resources", "so": "47", "contract_number": "LI7296626858759173776", "currency": "-11527.25\u20ac"}
+{"id": "114", "date": "2023-05-15", "company": "Societe Generale", "department": "Tech Support", "so": "17", "contract_number": "BE59432212695358", "currency": "-35776.62\u20ac"}
+{"id": "115", "date": "2024-01-16", "company": "Societe Generale", "department": "Asset Management", "so": "23", "contract_number": "LV84MDVN7859846414791", "currency": "-4313.70\u20ac"}
+{"id": "116", "date": "2023-12-01", "company": "Societe Generale", "department": "Asset Management", "so": "47", "contract_number": "BA023828477201854719", "currency": "-76409.10\u20ac"}
+{"id": "117", "date": "2023-02-26", "company": "Societe Generale", "department": "Customer Service", "so": "11", "contract_number": "GI71UQJE046348401081353", "currency": "81713.14\u20ac"}
+{"id": "118", "date": "2023-01-01", "company": "Societe Generale", "department": "Advertising", "so": "13", "contract_number": "HU13992557458088771529723981", "currency": "-21011.15\u20ac"}
+{"id": "119", "date": "2023-08-04", "company": "Societe Generale", "department": "Advertising", "so": "19", "contract_number": "CZ3423417575935147306302", "currency": "45032.24\u20ac"}
+{"id": "120", "date": "2024-01-27", "company": "Societe Generale", "department": "Customer Relations", "so": "43", "contract_number": "BG69VFWG99373618573563", "currency": "75842.43\u20ac"}
+{"id": "121", "date": "2023-06-14", "company": "Societe Generale", "department": "Public Relations", "so": "23", "contract_number": "CR2470468670671154553", "currency": "-68520.54\u20ac"}
+{"id": "122", "date": "2023-01-08", "company": "Societe Generale", "department": "Sales and Marketing", "so": "13", "contract_number": "TN9883385538584705398548", "currency": "62919.83\u20ac"}
+{"id": "123", "date": "2022-12-17", "company": "Societe Generale", "department": "Accounting", "so": "37", "contract_number": "ME33255628114415941680", "currency": "-58072.69\u20ac"}
+{"id": "124", "date": "2022-10-02", "company": "Societe Generale", "department": "Asset Management", "so": "37", "contract_number": "LU762279362842265713", "currency": "20132.24\u20ac"}
+{"id": "125", "date": "2024-01-13", "company": "Societe Generale", "department": "Sales and Marketing", "so": "19", "contract_number": "MT70MVDC32316616519151855689465", "currency": "74684.39\u20ac"}
+{"id": "126", "date": "2023-04-17", "company": "Societe Generale", "department": "Customer Relations", "so": "43", "contract_number": "MD6761836125966534587461", "currency": "-29537.48\u20ac"}
+{"id": "127", "date": "2023-10-31", "company": "Societe Generale", "department": "Accounting", "so": "29", "contract_number": "FR2814986848852800637746373", "currency": "91648.06\u20ac"}
+{"id": "128", "date": "2023-02-14", "company": "Societe Generale", "department": "Payroll", "so": "47", "contract_number": "LI0958410272287320580", "currency": "-48690.77\u20ac"}
+{"id": "129", "date": "2023-01-05", "company": "Societe Generale", "department": "Legal Department", "so": "41", "contract_number": "KZ503537224421746912", "currency": "22635.85\u20ac"}
+{"id": "130", "date": "2023-07-15", "company": "Societe Generale", "department": "Customer Relations", "so": "29", "contract_number": "SM9475041633305133672848666", "currency": "9213.65\u20ac"}
+{"id": "131", "date": "2022-12-15", "company": "Societe Generale", "department": "Research and Development", "so": "19", "contract_number": "IE23QBGV40721310570322", "currency": "-57714.39\u20ac"}
+{"id": "132", "date": "2023-12-14", "company": "Societe Generale", "department": "Accounting", "so": "11", "contract_number": "AD3643751076837171185712", "currency": "-20789.72\u20ac"}
+{"id": "133", "date": "2023-11-23", "company": "Societe Generale", "department": "Human Resources", "so": "37", "contract_number": "LI4780537451248223812", "currency": "95990.64\u20ac"}
+{"id": "134", "date": "2023-07-29", "company": "Societe Generale", "department": "Quality Assurance", "so": "19", "contract_number": "GB28IKPX10477884074285", "currency": "-94313.85\u20ac"}
+{"id": "135", "date": "2023-11-28", "company": "Societe Generale", "department": "Customer Relations", "so": "41", "contract_number": "PT31151202036805023531478", "currency": "26273.59\u20ac"}
+{"id": "136", "date": "2022-11-15", "company": "Societe Generale", "department": "Legal Department", "so": "47", "contract_number": "SE8206832285662553354152", "currency": "56747.04\u20ac"}
+{"id": "137", "date": "2022-12-13", "company": "Societe Generale", "department": "Research and Development", "so": "23", "contract_number": "SM6778438062545875314437476", "currency": "70736.95\u20ac"}
+{"id": "138", "date": "2023-01-29", "company": "Societe Generale", "department": "Research and Development", "so": "19", "contract_number": "BH45300991272289423329", "currency": "85072.45\u20ac"}
+{"id": "139", "date": "2023-10-21", "company": "Societe Generale", "department": "Payroll", "so": "17", "contract_number": "MR1421927268928863370287126", "currency": "55092.86\u20ac"}
+{"id": "140", "date": "2023-12-21", "company": "Societe Generale", "department": "Payroll", "so": "13", "contract_number": "ES2013956453229226148157", "currency": "32995.00\u20ac"}
+{"id": "141", "date": "2023-03-09", "company": "Societe Generale", "department": "Customer Service", "so": "29", "contract_number": "NO4777822339781", "currency": "-40214.89\u20ac"}
+{"id": "142", "date": "2023-12-27", "company": "Societe Generale", "department": "Accounting", "so": "43", "contract_number": "MT61SWXQ24643282101288835285495", "currency": "-98620.27\u20ac"}
+{"id": "143", "date": "2022-12-18", "company": "Societe Generale", "department": "Tech Support", "so": "43", "contract_number": "BG41RPUY76139125938436", "currency": "-82581.01\u20ac"}
+{"id": "144", "date": "2023-01-06", "company": "Societe Generale", "department": "Legal Department", "so": "29", "contract_number": "CR1685973834514183113", "currency": "23712.50\u20ac"}
+{"id": "145", "date": "2023-06-06", "company": "Societe Generale", "department": "Sales and Marketing", "so": "11", "contract_number": "NO5716047729066", "currency": "70191.01\u20ac"}
+{"id": "146", "date": "2023-03-01", "company": "Societe Generale", "department": "Customer Relations", "so": "13", "contract_number": "MT78UHIB64267575975429785154958", "currency": "55478.63\u20ac"}
+{"id": "147", "date": "2023-07-20", "company": "Societe Generale", "department": "Asset Management", "so": "29", "contract_number": "FI7619153845786222", "currency": "-27982.01\u20ac"}
+{"id": "148", "date": "2023-03-07", "company": "Societe Generale", "department": "Human Resources", "so": "23", "contract_number": "PK0785824193174419851431", "currency": "-92393.17\u20ac"}
+{"id": "149", "date": "2023-08-16", "company": "Societe Generale", "department": "Tech Support", "so": "43", "contract_number": "IE15XMJU99219198542723", "currency": "10909.41\u20ac"}
+{"id": "150", "date": "2023-03-02", "company": "Societe Generale", "department": "Accounting", "so": "41", "contract_number": "DE60560514694326646583", "currency": "94403.06\u20ac"}
+{"id": "151", "date": "2023-03-02", "company": "Societe Generale", "department": "Accounting", "so": "41", "contract_number": "DE60560514694326646583", "currency": "-15054.77\u20ac"}
+{"id": "152", "date": "2023-12-24", "company": "Societe Generale", "department": "Media Relations", "so": "23", "contract_number": "VG0865641598373456452126", "currency": "95255.34\u20ac"}
+{"id": "153", "date": "2023-07-24", "company": "Societe Generale", "department": "Finances", "so": "29", "contract_number": "GB08DHXO67821537165238", "currency": "84302.97\u20ac"}
+{"id": "154", "date": "2023-07-24", "company": "Societe Generale", "department": "Finances", "so": "29", "contract_number": "GB08DHXO67821537165238", "currency": "150572.90\u20ac"}
+{"id": "155", "date": "2023-09-01", "company": "Societe Generale", "department": "Asset Management", "so": "29", "contract_number": "BE20477760365551", "currency": "-91058.97\u20ac"}
+{"id": "156", "date": "2023-02-02", "company": "Societe Generale", "department": "Public Relations", "so": "19", "contract_number": "VG8781483187079240709078", "currency": "-11821.92\u20ac"}
+{"id": "157", "date": "2023-10-12", "company": "Societe Generale", "department": "Research and Development", "so": "29", "contract_number": "AD9594604724676405809881", "currency": "16327.64\u20ac"}
+{"id": "158", "date": "2023-05-08", "company": "Societe Generale", "department": "Payroll", "so": "23", "contract_number": "AE672051727183226271597", "currency": "-1225.70\u20ac"}
+{"id": "159", "date": "2023-05-08", "company": "Societe Generale", "department": "Payroll", "so": "23", "contract_number": "AE672051727183226271597", "currency": "111899.77\u20ac"}
+{"id": "160", "date": "2023-06-13", "company": "Societe Generale", "department": "Human Resources", "so": "11", "contract_number": "PL27894211089496832235146285", "currency": "36333.23\u20ac"}
+{"id": "161", "date": "2023-02-05", "company": "Societe Generale", "department": "Sales and Marketing", "so": "29", "contract_number": "NL66LZWX0741277116", "currency": "18332.08\u20ac"}
+{"id": "162", "date": "2023-08-08", "company": "Societe Generale", "department": "Accounting", "so": "11", "contract_number": "CZ4473414353533375322165", "currency": "27258.39\u20ac"}
+{"id": "163", "date": "2023-02-06", "company": "Societe Generale", "department": "Payroll", "so": "43", "contract_number": "EE974737563125843427", "currency": "36177.58\u20ac"}
+{"id": "164", "date": "2023-02-06", "company": "Societe Generale", "department": "Payroll", "so": "43", "contract_number": "EE974737563125843427", "currency": "63996.72\u20ac"}
+{"id": "165", "date": "2023-07-25", "company": "Societe Generale", "department": "Legal Department", "so": "37", "contract_number": "GR4531557225617476642627275", "currency": "33894.75\u20ac"}
+{"id": "166", "date": "2023-05-26", "company": "Societe Generale", "department": "Tech Support", "so": "37", "contract_number": "PL45968787818072116849939229", "currency": "-47702.42\u20ac"}
+{"id": "167", "date": "2023-04-11", "company": "Societe Generale", "department": "Tech Support", "so": "13", "contract_number": "DO87318296197885574838306244", "currency": "-98136.00\u20ac"}
+{"id": "168", "date": "2023-05-13", "company": "Societe Generale", "department": "Customer Service", "so": "19", "contract_number": "CY42638598580394851378144882", "currency": "-89952.87\u20ac"}
+{"id": "169", "date": "2024-01-06", "company": "Societe Generale", "department": "Media Relations", "so": "17", "contract_number": "SI26605682106472600", "currency": "-66188.88\u20ac"}
+{"id": "170", "date": "2023-02-11", "company": "Societe Generale", "department": "Advertising", "so": "37", "contract_number": "NL49VCXI8341741933", "currency": "-19318.50\u20ac"}
+{"id": "171", "date": "2023-01-17", "company": "Societe Generale", "department": "Research and Development", "so": "29", "contract_number": "HU61383264574495488158418235", "currency": "89460.77\u20ac"}
+{"id": "172", "date": "2023-10-15", "company": "Societe Generale", "department": "Advertising", "so": "11", "contract_number": "RS68383417473823448468", "currency": "-4286.39\u20ac"}
+{"id": "173", "date": "2023-02-25", "company": "Societe Generale", "department": "Finances", "so": "17", "contract_number": "BE76253866847313", "currency": "-51679.02\u20ac"}
+{"id": "174", "date": "2023-07-04", "company": "Societe Generale", "department": "Asset Management", "so": "23", "contract_number": "LB28383477317835071731461519", "currency": "37375.02\u20ac"}
+{"id": "175", "date": "2023-03-18", "company": "Societe Generale", "department": "Accounting", "so": "41", "contract_number": "FI6913869553550871", "currency": "36540.92\u20ac"}
+{"id": "176", "date": "2022-12-03", "company": "Societe Generale", "department": "Legal Department", "so": "31", "contract_number": "FR6296416386106374324626469", "currency": "96797.13\u20ac"}
+{"id": "177", "date": "2023-01-16", "company": "Societe Generale", "department": "Public Relations", "so": "13", "contract_number": "MC2582771720516373547844346", "currency": "23229.40\u20ac"}
+{"id": "178", "date": "2022-12-01", "company": "Societe Generale", "department": "Tech Support", "so": "19", "contract_number": "AE760596076973268178215", "currency": "26173.54\u20ac"}
+{"id": "179", "date": "2023-02-20", "company": "Societe Generale", "department": "Quality Assurance", "so": "23", "contract_number": "AE497541775137436568549", "currency": "63895.15\u20ac"}
+{"id": "180", "date": "2023-05-11", "company": "Societe Generale", "department": "Quality Assurance", "so": "19", "contract_number": "SI46770201316445671", "currency": "70713.25\u20ac"}
+{"id": "181", "date": "2023-11-03", "company": "Societe Generale", "department": "Finances", "so": "37", "contract_number": "AL68588574024571142424461633", "currency": "-26629.15\u20ac"}
+{"id": "182", "date": "2023-07-27", "company": "Societe Generale", "department": "Asset Management", "so": "29", "contract_number": "KZ174642178746091017", "currency": "-82339.58\u20ac"}
+{"id": "183", "date": "2023-08-20", "company": "Societe Generale", "department": "Legal Department", "so": "23", "contract_number": "GI17VHCL545242324995475", "currency": "-66115.75\u20ac"}
+{"id": "184", "date": "2023-02-08", "company": "Societe Generale", "department": "Accounting", "so": "41", "contract_number": "CZ1371227495433561342188", "currency": "-98771.73\u20ac"}
+{"id": "185", "date": "2023-03-28", "company": "Societe Generale", "department": "Human Resources", "so": "41", "contract_number": "TN7281722528523434829741", "currency": "-20966.93\u20ac"}
+{"id": "186", "date": "2023-02-04", "company": "Societe Generale", "department": "Legal Department", "so": "11", "contract_number": "IL577146248631187668877", "currency": "47038.05\u20ac"}
+{"id": "187", "date": "2023-07-06", "company": "Societe Generale", "department": "Public Relations", "so": "29", "contract_number": "DE87388555824646311934", "currency": "-75295.31\u20ac"}
+{"id": "188", "date": "2023-11-27", "company": "Societe Generale", "department": "Sales and Marketing", "so": "13", "contract_number": "FR0942273131461776276285630", "currency": "46778.16\u20ac"}
+{"id": "189", "date": "2023-05-15", "company": "Societe Generale", "department": "Asset Management", "so": "17", "contract_number": "KZ943865841484097202", "currency": "-49352.34\u20ac"}
+{"id": "190", "date": "2023-07-02", "company": "Societe Generale", "department": "Research and Development", "so": "43", "contract_number": "AE096907368725837273147", "currency": "97879.93\u20ac"}
+{"id": "191", "date": "2023-03-30", "company": "Societe Generale", "department": "Asset Management", "so": "11", "contract_number": "AE390383725922954374938", "currency": "-19253.26\u20ac"}
+{"id": "192", "date": "2023-04-30", "company": "Societe Generale", "department": "Asset Management", "so": "23", "contract_number": "PT64557413488405484317338", "currency": "99622.90\u20ac"}
+{"id": "193", "date": "2023-06-05", "company": "Societe Generale", "department": "Human Resources", "so": "19", "contract_number": "LV72UBPX2708538593764", "currency": "-42331.80\u20ac"}
+{"id": "194", "date": "2023-05-12", "company": "Societe Generale", "department": "Research and Development", "so": "17", "contract_number": "EE716434607889674453", "currency": "39874.20\u20ac"}
+{"id": "195", "date": "2022-11-06", "company": "Societe Generale", "department": "Asset Management", "so": "19", "contract_number": "FO7687882953814548", "currency": "-29447.76\u20ac"}
+{"id": "196", "date": "2023-09-06", "company": "Societe Generale", "department": "Tech Support", "so": "37", "contract_number": "NL32OGSA7017775262", "currency": "59358.70\u20ac"}
+{"id": "197", "date": "2023-07-22", "company": "Societe Generale", "department": "Media Relations", "so": "11", "contract_number": "AD3571231582996811143423", "currency": "-5402.09\u20ac"}
+{"id": "198", "date": "2022-12-16", "company": "Societe Generale", "department": "Research and Development", "so": "13", "contract_number": "IL116823423640533639264", "currency": "62380.83\u20ac"}
+{"id": "199", "date": "2023-11-07", "company": "Societe Generale", "department": "Asset Management", "so": "19", "contract_number": "LU675362678273241377", "currency": "-6403.12\u20ac"}
+{"id": "200", "date": "2023-01-03", "company": "Societe Generale", "department": "Customer Service", "so": "11", "contract_number": "SI24723549215423113", "currency": "76193.03\u20ac"}
+{"id": "201", "date": "2023-10-10", "company": "Societe Generale", "department": "Media Relations", "so": "47", "contract_number": "BA391551986169458895", "currency": "18410.45\u20ac"}
+{"id": "202", "date": "2023-09-20", "company": "Societe Generale", "department": "Customer Relations", "so": "19", "contract_number": "FO6643747733929502", "currency": "52943.94\u20ac"}
+{"id": "203", "date": "2023-09-09", "company": "Societe Generale", "department": "Customer Service", "so": "29", "contract_number": "LU583672174141726785", "currency": "-65849.41\u20ac"}
+{"id": "204", "date": "2022-11-23", "company": "Societe Generale", "department": "Tech Support", "so": "29", "contract_number": "DO62165851134561132276912732", "currency": "-17201.91\u20ac"}
+{"id": "205", "date": "2023-12-10", "company": "Societe Generale", "department": "Human Resources", "so": "19", "contract_number": "FI9024437401707639", "currency": "21261.38\u20ac"}
+{"id": "206", "date": "2023-08-28", "company": "Societe Generale", "department": "Finances", "so": "19", "contract_number": "GT20698798933421861695527131", "currency": "-98434.81\u20ac"}
+{"id": "207", "date": "2023-08-20", "company": "Societe Generale", "department": "Research and Development", "so": "41", "contract_number": "CH1825587184448666193", "currency": "-40846.61\u20ac"}
+{"id": "208", "date": "2023-04-16", "company": "Societe Generale", "department": "Sales and Marketing", "so": "43", "contract_number": "ME96514849154131841117", "currency": "-75751.58\u20ac"}
+{"id": "209", "date": "2023-10-16", "company": "Societe Generale", "department": "Public Relations", "so": "43", "contract_number": "BG49HLKM17687121981126", "currency": "56416.10\u20ac"}
+{"id": "210", "date": "2023-05-30", "company": "Societe Generale", "department": "Payroll", "so": "23", "contract_number": "DE30940135787122741917", "currency": "-91385.65\u20ac"}
+{"id": "211", "date": "2022-11-08", "company": "Societe Generale", "department": "Advertising", "so": "13", "contract_number": "EE763879442677157824", "currency": "-51448.85\u20ac"}
+{"id": "212", "date": "2023-12-17", "company": "Societe Generale", "department": "Quality Assurance", "so": "19", "contract_number": "IS560825673300562668395120", "currency": "42987.14\u20ac"}
+{"id": "213", "date": "2023-03-23", "company": "Societe Generale", "department": "Finances", "so": "19", "contract_number": "IT356IRSQI72228118365921823", "currency": "-94154.37\u20ac"}
+{"id": "214", "date": "2023-01-25", "company": "Societe Generale", "department": "Public Relations", "so": "31", "contract_number": "NL94BRUS2252061731", "currency": "81000.05\u20ac"}
+{"id": "215", "date": "2023-01-04", "company": "Societe Generale", "department": "Human Resources", "so": "19", "contract_number": "SI46206737821618649", "currency": "-359.09\u20ac"}
+{"id": "216", "date": "2023-04-02", "company": "Societe Generale", "department": "Legal Department", "so": "19", "contract_number": "IL305326118624059902786", "currency": "38704.95\u20ac"}
+{"id": "217", "date": "2024-01-26", "company": "Societe Generale", "department": "Finances", "so": "23", "contract_number": "AT868810695975725283", "currency": "-52304.13\u20ac"}
+{"id": "218", "date": "2023-12-15", "company": "Societe Generale", "department": "Asset Management", "so": "19", "contract_number": "NO0684043776765", "currency": "72028.38\u20ac"}
+{"id": "219", "date": "2023-01-22", "company": "Societe Generale", "department": "Payroll", "so": "19", "contract_number": "DK9322525950112354", "currency": "25382.38\u20ac"}
+{"id": "220", "date": "2023-05-05", "company": "Societe Generale", "department": "Finances", "so": "41", "contract_number": "BE52559784796584", "currency": "-58047.50\u20ac"}
+{"id": "221", "date": "2022-11-04", "company": "Societe Generale", "department": "Finances", "so": "37", "contract_number": "LI1915732317799843684", "currency": "16829.13\u20ac"}
+{"id": "222", "date": "2023-05-12", "company": "Societe Generale", "department": "Tech Support", "so": "13", "contract_number": "KZ586073316412412122", "currency": "42956.16\u20ac"}
+{"id": "223", "date": "2024-01-01", "company": "Societe Generale", "department": "Tech Support", "so": "23", "contract_number": "DO85631076764979583714764717", "currency": "52805.42\u20ac"}
+{"id": "224", "date": "2023-06-15", "company": "Societe Generale", "department": "Sales and Marketing", "so": "19", "contract_number": "AL64822170958304272271654541", "currency": "24367.04\u20ac"}
+{"id": "225", "date": "2023-04-26", "company": "Societe Generale", "department": "Accounting", "so": "43", "contract_number": "CZ3781688858309582968518", "currency": "-29353.02\u20ac"}
+{"id": "226", "date": "2023-06-05", "company": "Societe Generale", "department": "Advertising", "so": "43", "contract_number": "BH94133776632728818296", "currency": "22073.11\u20ac"}
+{"id": "227", "date": "2023-02-04", "company": "Societe Generale", "department": "Accounting", "so": "17", "contract_number": "FO1469369520395714", "currency": "39959.87\u20ac"}
+{"id": "228", "date": "2023-05-18", "company": "Societe Generale", "department": "Media Relations", "so": "11", "contract_number": "HU39288392924011327303773621", "currency": "32857.07\u20ac"}
+{"id": "229", "date": "2023-10-20", "company": "Societe Generale", "department": "Tech Support", "so": "29", "contract_number": "VG0371854455367638303499", "currency": "-85022.23\u20ac"}
+{"id": "230", "date": "2023-09-09", "company": "Societe Generale", "department": "Quality Assurance", "so": "19", "contract_number": "BH22710387830462071574", "currency": "-88476.07\u20ac"}
+{"id": "231", "date": "2024-01-31", "company": "Societe Generale", "department": "Human Resources", "so": "37", "contract_number": "IL423978739711788677321", "currency": "-68574.16\u20ac"}
+{"id": "232", "date": "2023-01-29", "company": "Societe Generale", "department": "Asset Management", "so": "19", "contract_number": "MD8131374705872138452385", "currency": "-62512.64\u20ac"}
+{"id": "233", "date": "2023-08-02", "company": "Societe Generale", "department": "Sales and Marketing", "so": "47", "contract_number": "AZ13781395426354488750163311", "currency": "27992.12\u20ac"}
+{"id": "234", "date": "2023-05-17", "company": "Societe Generale", "department": "Legal Department", "so": "19", "contract_number": "HU58772712515744879665227613", "currency": "14492.66\u20ac"}
+{"id": "235", "date": "2023-09-04", "company": "Societe Generale", "department": "Customer Service", "so": "29", "contract_number": "HR5844332163724074185", "currency": "97957.13\u20ac"}
+{"id": "236", "date": "2023-09-05", "company": "Societe Generale", "department": "Media Relations", "so": "37", "contract_number": "PT75661765713353361137182", "currency": "-82762.04\u20ac"}
+{"id": "237", "date": "2023-07-21", "company": "Societe Generale", "department": "Advertising", "so": "19", "contract_number": "SA7945798566147273150004", "currency": "16730.08\u20ac"}
+{"id": "238", "date": "2023-04-07", "company": "Societe Generale", "department": "Media Relations", "so": "13", "contract_number": "PT80022091767771361775898", "currency": "-73245.70\u20ac"}
+{"id": "239", "date": "2023-12-23", "company": "Societe Generale", "department": "Sales and Marketing", "so": "43", "contract_number": "IL164850197428887718188", "currency": "73020.09\u20ac"}
+{"id": "240", "date": "2023-07-07", "company": "Societe Generale", "department": "Research and Development", "so": "43", "contract_number": "MT11VFUU10621147298596633420968", "currency": "66958.84\u20ac"}
+{"id": "241", "date": "2023-12-12", "company": "Societe Generale", "department": "Payroll", "so": "37", "contract_number": "FR7946887623465426432755546", "currency": "40420.76\u20ac"}
+{"id": "242", "date": "2022-11-23", "company": "Societe Generale", "department": "Legal Department", "so": "19", "contract_number": "LU907632599114567838", "currency": "65198.94\u20ac"}
+{"id": "243", "date": "2023-02-24", "company": "Societe Generale", "department": "Research and Development", "so": "19", "contract_number": "EE810261341836226710", "currency": "23627.33\u20ac"}
+{"id": "244", "date": "2023-05-25", "company": "Societe Generale", "department": "Customer Service", "so": "31", "contract_number": "NL08BJOE1864228522", "currency": "28380.87\u20ac"}
+{"id": "245", "date": "2023-11-04", "company": "Societe Generale", "department": "Finances", "so": "17", "contract_number": "FR9305760234665586255063746", "currency": "77292.99\u20ac"}
+{"id": "246", "date": "2023-02-21", "company": "Societe Generale", "department": "Public Relations", "so": "47", "contract_number": "IL919972311584431652168", "currency": "-94351.12\u20ac"}
+{"id": "247", "date": "2023-07-13", "company": "Societe Generale", "department": "Customer Relations", "so": "47", "contract_number": "HR5227536491732118771", "currency": "69509.75\u20ac"}
+{"id": "248", "date": "2023-09-28", "company": "Societe Generale", "department": "Tech Support", "so": "31", "contract_number": "SK1203763798420574522734", "currency": "57285.24\u20ac"}
+{"id": "249", "date": "2023-01-11", "company": "Societe Generale", "department": "Human Resources", "so": "17", "contract_number": "GR1503353733141192543357446", "currency": "27311.60\u20ac"}
+{"id": "250", "date": "2023-08-03", "company": "Societe Generale", "department": "Finances", "so": "23", "contract_number": "MK65265955229946542", "currency": "-65146.87\u20ac"}
+{"id": "251", "date": "2023-07-09", "company": "Societe Generale", "department": "Advertising", "so": "13", "contract_number": "MC0699758293521263605238527", "currency": "-52239.69\u20ac"}
+{"id": "252", "date": "2023-07-06", "company": "Societe Generale", "department": "Sales and Marketing", "so": "13", "contract_number": "SI65119064668511251", "currency": "52214.45\u20ac"}
+{"id": "253", "date": "2023-05-09", "company": "Societe Generale", "department": "Legal Department", "so": "11", "contract_number": "PL41792774442128623831328815", "currency": "16505.92\u20ac"}
+{"id": "254", "date": "2023-10-13", "company": "Societe Generale", "department": "Payroll", "so": "23", "contract_number": "IL200321542963641241477", "currency": "44145.77\u20ac"}
+{"id": "255", "date": "2023-10-06", "company": "Societe Generale", "department": "Customer Service", "so": "29", "contract_number": "MU6376694564440434553265517251", "currency": "50910.90\u20ac"}
+{"id": "256", "date": "2023-10-03", "company": "Societe Generale", "department": "Advertising", "so": "41", "contract_number": "DK5385547683391865", "currency": "-35624.02\u20ac"}
+{"id": "257", "date": "2023-04-09", "company": "Societe Generale", "department": "Customer Relations", "so": "17", "contract_number": "ES0367635202933830010128", "currency": "61391.93\u20ac"}
+{"id": "258", "date": "2023-10-19", "company": "Societe Generale", "department": "Customer Relations", "so": "19", "contract_number": "LU124336227015535284", "currency": "10221.39\u20ac"}
+{"id": "259", "date": "2024-01-07", "company": "Societe Generale", "department": "Accounting", "so": "47", "contract_number": "LI8841737501395290155", "currency": "-97340.39\u20ac"}
+{"id": "260", "date": "2024-01-12", "company": "Societe Generale", "department": "Asset Management", "so": "29", "contract_number": "MK04234201289688317", "currency": "5117.39\u20ac"}
+{"id": "261", "date": "2022-12-04", "company": "Societe Generale", "department": "Public Relations", "so": "13", "contract_number": "GB73VFYW79649642751224", "currency": "97971.43\u20ac"}
+{"id": "262", "date": "2023-06-21", "company": "Societe Generale", "department": "Sales and Marketing", "so": "41", "contract_number": "AD0981677114883546738649", "currency": "-34700.44\u20ac"}
+{"id": "263", "date": "2023-10-26", "company": "Societe Generale", "department": "Quality Assurance", "so": "23", "contract_number": "SE9774823411354542112144", "currency": "86706.43\u20ac"}
+{"id": "264", "date": "2022-10-10", "company": "Societe Generale", "department": "Payroll", "so": "41", "contract_number": "TN2942379233386499640579", "currency": "21463.61\u20ac"}
+{"id": "265", "date": "2023-02-14", "company": "Societe Generale", "department": "Finances", "so": "31", "contract_number": "SA3833928554516066624603", "currency": "-35587.21\u20ac"}
+{"id": "266", "date": "2023-01-10", "company": "Societe Generale", "department": "Public Relations", "so": "47", "contract_number": "MR1377392585668644677238712", "currency": "-42458.64\u20ac"}
+{"id": "267", "date": "2023-04-19", "company": "Societe Generale", "department": "Customer Relations", "so": "47", "contract_number": "DE36715818205154212617", "currency": "-40497.15\u20ac"}
+{"id": "268", "date": "2022-10-12", "company": "Societe Generale", "department": "Public Relations", "so": "43", "contract_number": "MU8250731706358752772454365600", "currency": "-30168.57\u20ac"}
+{"id": "269", "date": "2023-10-26", "company": "Societe Generale", "department": "Finances", "so": "13", "contract_number": "TN5680967928985642248731", "currency": "75696.71\u20ac"}
+{"id": "270", "date": "2022-11-07", "company": "Societe Generale", "department": "Legal Department", "so": "37", "contract_number": "AZ39913665867718360007606941", "currency": "29911.95\u20ac"}
+{"id": "271", "date": "2022-10-17", "company": "Societe Generale", "department": "Accounting", "so": "47", "contract_number": "BG76IIMX24633124806835", "currency": "56982.44\u20ac"}
+{"id": "272", "date": "2023-03-09", "company": "Societe Generale", "department": "Legal Department", "so": "23", "contract_number": "FO7257015178029122", "currency": "88829.94\u20ac"}
+{"id": "273", "date": "2023-06-29", "company": "Societe Generale", "department": "Media Relations", "so": "37", "contract_number": "RO26CCLK1140393440571318", "currency": "-35732.02\u20ac"}
+{"id": "274", "date": "2023-02-24", "company": "Societe Generale", "department": "Legal Department", "so": "31", "contract_number": "MD7068289235978228278230", "currency": "98327.14\u20ac"}
+{"id": "275", "date": "2023-07-30", "company": "Societe Generale", "department": "Human Resources", "so": "11", "contract_number": "CR5953647011343763171", "currency": "-42702.25\u20ac"}
+{"id": "276", "date": "2023-09-16", "company": "Societe Generale", "department": "Public Relations", "so": "29", "contract_number": "NO9723534035862", "currency": "64806.78\u20ac"}
+{"id": "277", "date": "2023-11-09", "company": "Societe Generale", "department": "Legal Department", "so": "17", "contract_number": "AT523945341887554138", "currency": "86064.95\u20ac"}
+{"id": "278", "date": "2024-01-04", "company": "Societe Generale", "department": "Human Resources", "so": "41", "contract_number": "TR457252936228245169022485", "currency": "92286.99\u20ac"}
+{"id": "279", "date": "2023-07-29", "company": "Societe Generale", "department": "Media Relations", "so": "23", "contract_number": "AD2313254623454874702636", "currency": "-63109.44\u20ac"}
+{"id": "280", "date": "2023-11-22", "company": "Societe Generale", "department": "Customer Relations", "so": "11", "contract_number": "BH25557294563414050264", "currency": "-43885.57\u20ac"}
+{"id": "281", "date": "2023-11-24", "company": "Societe Generale", "department": "Finances", "so": "41", "contract_number": "CH8983555642498035883", "currency": "8170.01\u20ac"}
+{"id": "282", "date": "2023-10-29", "company": "Societe Generale", "department": "Human Resources", "so": "47", "contract_number": "PS866956601603131222114321784", "currency": "80588.75\u20ac"}
+{"id": "283", "date": "2023-10-06", "company": "Societe Generale", "department": "Asset Management", "so": "29", "contract_number": "GI60NGVQ187151473431866", "currency": "4573.53\u20ac"}
+{"id": "284", "date": "2023-07-10", "company": "Societe Generale", "department": "Advertising", "so": "37", "contract_number": "SI89158112710511535", "currency": "-46766.64\u20ac"}
+{"id": "285", "date": "2023-09-12", "company": "Societe Generale", "department": "Tech Support", "so": "43", "contract_number": "DK3533473237442133", "currency": "-25987.90\u20ac"}
+{"id": "286", "date": "2023-07-30", "company": "Societe Generale", "department": "Research and Development", "so": "41", "contract_number": "SM3099621528474625658630623", "currency": "24424.92\u20ac"}
+{"id": "287", "date": "2023-12-30", "company": "Societe Generale", "department": "Human Resources", "so": "11", "contract_number": "LI1715120817819316393", "currency": "-32541.17\u20ac"}
+{"id": "288", "date": "2023-05-07", "company": "Societe Generale", "department": "Human Resources", "so": "47", "contract_number": "LI8868831345927765612", "currency": "81972.39\u20ac"}
+{"id": "289", "date": "2022-11-29", "company": "Societe Generale", "department": "Media Relations", "so": "43", "contract_number": "GE42442559873242198299", "currency": "63393.96\u20ac"}
+{"id": "290", "date": "2022-11-16", "company": "Societe Generale", "department": "Accounting", "so": "29", "contract_number": "AT347786547418345567", "currency": "-12087.82\u20ac"}
+{"id": "291", "date": "2022-11-22", "company": "Societe Generale", "department": "Asset Management", "so": "13", "contract_number": "KW9748477181574408916849274898", "currency": "80714.69\u20ac"}
+{"id": "292", "date": "2023-02-02", "company": "Societe Generale", "department": "Payroll", "so": "31", "contract_number": "AT665546489579678395", "currency": "69645.70\u20ac"}
+{"id": "293", "date": "2024-01-01", "company": "Societe Generale", "department": "Advertising", "so": "29", "contract_number": "CH2883631842601004491", "currency": "11464.83\u20ac"}
+{"id": "294", "date": "2022-12-27", "company": "Societe Generale", "department": "Public Relations", "so": "19", "contract_number": "IE38REPE95320495815146", "currency": "-84883.30\u20ac"}
+{"id": "295", "date": "2023-01-19", "company": "Societe Generale", "department": "Advertising", "so": "19", "contract_number": "PS062268482346025178442248825", "currency": "36200.86\u20ac"}
+{"id": "296", "date": "2023-10-07", "company": "Societe Generale", "department": "Research and Development", "so": "29", "contract_number": "MT76AAKU63729017637933354598742", "currency": "90371.16\u20ac"}
+{"id": "297", "date": "2023-07-03", "company": "Societe Generale", "department": "Sales and Marketing", "so": "29", "contract_number": "EE182770506982783288", "currency": "56977.62\u20ac"}
+{"id": "298", "date": "2022-11-10", "company": "Societe Generale", "department": "Advertising", "so": "47", "contract_number": "GI90BMJC887645804988624", "currency": "22190.23\u20ac"}
+{"id": "299", "date": "2023-12-05", "company": "Societe Generale", "department": "Media Relations", "so": "11", "contract_number": "LB15432568588641641406166843", "currency": "-73587.60\u20ac"}
+{"id": "300", "date": "2023-02-12", "company": "Societe Generale", "department": "Finances", "so": "29", "contract_number": "FO4962128341913637", "currency": "54764.43\u20ac"}
+{"id": "301", "date": "2024-01-04", "company": "Societe Generale", "department": "Asset Management", "so": "47", "contract_number": "GT33983716767556011373817352", "currency": "-88923.10\u20ac"}
+{"id": "302", "date": "2023-02-25", "company": "Societe Generale", "department": "Public Relations", "so": "19", "contract_number": "IT107JHFPI22245467444317960", "currency": "82831.72\u20ac"}
+{"id": "303", "date": "2023-06-09", "company": "Societe Generale", "department": "Legal Department", "so": "47", "contract_number": "FO4511118213163843", "currency": "-36318.21\u20ac"}
+{"id": "304", "date": "2023-03-28", "company": "Societe Generale", "department": "Media Relations", "so": "37", "contract_number": "DE38104981987725113388", "currency": "72578.18\u20ac"}
+{"id": "305", "date": "2023-07-16", "company": "Societe Generale", "department": "Sales and Marketing", "so": "43", "contract_number": "FR2167556602714711147723463", "currency": "55589.28\u20ac"}
+{"id": "306", "date": "2023-12-24", "company": "Societe Generale", "department": "Human Resources", "so": "19", "contract_number": "MU6554505854103883967745893815", "currency": "17337.00\u20ac"}
+{"id": "307", "date": "2023-03-01", "company": "Societe Generale", "department": "Asset Management", "so": "31", "contract_number": "BG11UNBI55417529146912", "currency": "29500.46\u20ac"}
+{"id": "308", "date": "2023-03-20", "company": "Societe Generale", "department": "Customer Relations", "so": "31", "contract_number": "PT28081873869268431177115", "currency": "14359.16\u20ac"}
+{"id": "309", "date": "2023-11-09", "company": "Societe Generale", "department": "Public Relations", "so": "41", "contract_number": "GT84470193247234501568144687", "currency": "-22221.94\u20ac"}
+{"id": "310", "date": "2023-11-01", "company": "Societe Generale", "department": "Customer Relations", "so": "23", "contract_number": "FI1190443671365169", "currency": "-62349.02\u20ac"}
+{"id": "311", "date": "2023-03-03", "company": "Societe Generale", "department": "Media Relations", "so": "43", "contract_number": "EE923631804271964087", "currency": "-97821.06\u20ac"}
+{"id": "312", "date": "2022-10-04", "company": "Societe Generale", "department": "Customer Service", "so": "17", "contract_number": "GR3733362523332585826731316", "currency": "-64764.64\u20ac"}
+{"id": "313", "date": "2024-01-16", "company": "Societe Generale", "department": "Human Resources", "so": "13", "contract_number": "MK16888561325153697", "currency": "1630.92\u20ac"}
+{"id": "314", "date": "2023-01-02", "company": "Societe Generale", "department": "Human Resources", "so": "41", "contract_number": "MC3126986998740691363622835", "currency": "-52653.68\u20ac"}
+{"id": "315", "date": "2023-05-07", "company": "Societe Generale", "department": "Advertising", "so": "37", "contract_number": "AD7946728239162402233166", "currency": "-22913.24\u20ac"}
+{"id": "316", "date": "2024-01-13", "company": "Societe Generale", "department": "Tech Support", "so": "37", "contract_number": "FO6004294734496467", "currency": "-26241.64\u20ac"}
+{"id": "317", "date": "2022-11-11", "company": "Societe Generale", "department": "Finances", "so": "47", "contract_number": "VG3009503587505881553532", "currency": "63529.54\u20ac"}
+{"id": "318", "date": "2023-04-04", "company": "Societe Generale", "department": "Finances", "so": "37", "contract_number": "PS427136433649797501774416701", "currency": "42117.55\u20ac"}
+{"id": "319", "date": "2023-08-27", "company": "Societe Generale", "department": "Tech Support", "so": "11", "contract_number": "CZ7444546752356168547767", "currency": "-51886.98\u20ac"}
+{"id": "320", "date": "2023-05-27", "company": "Societe Generale", "department": "Accounting", "so": "29", "contract_number": "AE955261282486777621518", "currency": "-36308.94\u20ac"}
+{"id": "321", "date": "2023-07-09", "company": "Societe Generale", "department": "Accounting", "so": "47", "contract_number": "MC5824979614433840751388156", "currency": "82530.89\u20ac"}
+{"id": "322", "date": "2023-12-16", "company": "Societe Generale", "department": "Public Relations", "so": "37", "contract_number": "VG8793450231766548171512", "currency": "60003.29\u20ac"}
+{"id": "323", "date": "2023-03-24", "company": "Societe Generale", "department": "Tech Support", "so": "43", "contract_number": "GL3164820469160541", "currency": "-3765.76\u20ac"}
+{"id": "324", "date": "2023-03-19", "company": "Societe Generale", "department": "Research and Development", "so": "31", "contract_number": "LI8736154692542151363", "currency": "-5724.10\u20ac"}
+{"id": "325", "date": "2023-04-01", "company": "Societe Generale", "department": "Media Relations", "so": "31", "contract_number": "FR6797872821013555624824188", "currency": "-80666.21\u20ac"}
+{"id": "326", "date": "2023-05-16", "company": "Societe Generale", "department": "Research and Development", "so": "29", "contract_number": "AZ97113956738922462425149532", "currency": "84938.35\u20ac"}
+{"id": "327", "date": "2023-06-12", "company": "Societe Generale", "department": "Customer Service", "so": "41", "contract_number": "CH3975270163437166617", "currency": "-63812.71\u20ac"}
+{"id": "328", "date": "2023-02-03", "company": "Societe Generale", "department": "Tech Support", "so": "43", "contract_number": "SK4979333344641136647511", "currency": "-95714.30\u20ac"}
+{"id": "329", "date": "2023-05-11", "company": "Societe Generale", "department": "Quality Assurance", "so": "37", "contract_number": "PK5788363681874476244217", "currency": "-47549.61\u20ac"}
+{"id": "330", "date": "2023-11-19", "company": "Societe Generale", "department": "Human Resources", "so": "17", "contract_number": "SE8673734699111579307955", "currency": "-18686.27\u20ac"}
+{"id": "331", "date": "2022-11-23", "company": "Societe Generale", "department": "Customer Relations", "so": "29", "contract_number": "EE786061893515949237", "currency": "-42232.08\u20ac"}
+{"id": "332", "date": "2023-09-02", "company": "Societe Generale", "department": "Finances", "so": "23", "contract_number": "BG47JFKO92866847833666", "currency": "-746.53\u20ac"}
+{"id": "333", "date": "2023-07-31", "company": "Societe Generale", "department": "Asset Management", "so": "37", "contract_number": "CR5352450373925866887", "currency": "25957.88\u20ac"}
+{"id": "334", "date": "2024-01-03", "company": "Societe Generale", "department": "Human Resources", "so": "13", "contract_number": "RS60118684538687669712", "currency": "7546.08\u20ac"}
+{"id": "335", "date": "2023-06-28", "company": "Societe Generale", "department": "Legal Department", "so": "37", "contract_number": "LU628407161741418333", "currency": "28649.25\u20ac"}
+{"id": "336", "date": "2023-11-08", "company": "Societe Generale", "department": "Legal Department", "so": "31", "contract_number": "BH59015937425763635651", "currency": "43743.15\u20ac"}
+{"id": "337", "date": "2023-10-26", "company": "Societe Generale", "department": "Public Relations", "so": "43", "contract_number": "RO42LKCS4619218168162132", "currency": "68242.47\u20ac"}
+{"id": "338", "date": "2022-10-13", "company": "Societe Generale", "department": "Advertising", "so": "23", "contract_number": "CH5491154427487547258", "currency": "-35117.76\u20ac"}
+{"id": "339", "date": "2023-05-08", "company": "Societe Generale", "department": "Tech Support", "so": "43", "contract_number": "PL04558747359745919625086773", "currency": "52274.00\u20ac"}
+{"id": "340", "date": "2023-07-30", "company": "Societe Generale", "department": "Legal Department", "so": "31", "contract_number": "FI9552107737751365", "currency": "-61785.78\u20ac"}
+{"id": "341", "date": "2023-11-04", "company": "Societe Generale", "department": "Asset Management", "so": "31", "contract_number": "FO8704666245972709", "currency": "-47892.48\u20ac"}
+{"id": "342", "date": "2023-09-23", "company": "Societe Generale", "department": "Research and Development", "so": "47", "contract_number": "SI53169333387642141", "currency": "-75718.58\u20ac"}
+{"id": "343", "date": "2022-11-02", "company": "Societe Generale", "department": "Legal Department", "so": "23", "contract_number": "IS876880804320478628618620", "currency": "37556.74\u20ac"}
+{"id": "344", "date": "2023-09-17", "company": "Societe Generale", "department": "Media Relations", "so": "43", "contract_number": "CR8541249936842353615", "currency": "80707.46\u20ac"}
+{"id": "345", "date": "2023-12-10", "company": "Societe Generale", "department": "Tech Support", "so": "17", "contract_number": "GL8269228433268161", "currency": "-5910.85\u20ac"}
+{"id": "346", "date": "2023-12-24", "company": "Societe Generale", "department": "Human Resources", "so": "47", "contract_number": "SA2676129537748355484481", "currency": "-40539.65\u20ac"}
+{"id": "347", "date": "2023-02-12", "company": "Societe Generale", "department": "Sales and Marketing", "so": "19", "contract_number": "BH24714877933177742370", "currency": "45970.93\u20ac"}
+{"id": "348", "date": "2023-06-13", "company": "Societe Generale", "department": "Tech Support", "so": "37", "contract_number": "CR5414176997832044118", "currency": "-191.06\u20ac"}
+{"id": "349", "date": "2023-10-30", "company": "Societe Generale", "department": "Customer Service", "so": "17", "contract_number": "GL6923197272649158", "currency": "42957.82\u20ac"}
+{"id": "350", "date": "2023-02-03", "company": "Societe Generale", "department": "Media Relations", "so": "31", "contract_number": "HU82329814756755666264074128", "currency": "-35727.08\u20ac"}
+{"id": "351", "date": "2023-06-10", "company": "Societe Generale", "department": "Human Resources", "so": "11", "contract_number": "SK4346328376663317327326", "currency": "-70740.04\u20ac"}
+{"id": "352", "date": "2023-08-02", "company": "Societe Generale", "department": "Payroll", "so": "17", "contract_number": "IL411041328916414524431", "currency": "-28027.17\u20ac"}
+{"id": "353", "date": "2023-03-28", "company": "Societe Generale", "department": "Advertising", "so": "31", "contract_number": "ES9376758875822795841682", "currency": "93101.92\u20ac"}
+{"id": "354", "date": "2023-11-02", "company": "Societe Generale", "department": "Payroll", "so": "13", "contract_number": "SE9015115523622015718676", "currency": "-51848.90\u20ac"}
+{"id": "355", "date": "2022-11-14", "company": "Societe Generale", "department": "Human Resources", "so": "19", "contract_number": "IE56HSUG95382521561887", "currency": "17301.40\u20ac"}
+{"id": "356", "date": "2022-10-13", "company": "Societe Generale", "department": "Customer Relations", "so": "13", "contract_number": "IL317328152231517266058", "currency": "91410.00\u20ac"}
+{"id": "357", "date": "2023-03-14", "company": "Societe Generale", "department": "Asset Management", "so": "31", "contract_number": "LB50882124799345162185171634", "currency": "97216.00\u20ac"}
+{"id": "358", "date": "2023-03-15", "company": "Societe Generale", "department": "Advertising", "so": "13", "contract_number": "RS64645677633461324876", "currency": "-92147.73\u20ac"}
+{"id": "359", "date": "2023-10-11", "company": "Societe Generale", "department": "Advertising", "so": "13", "contract_number": "GI31ESSL883383875454518", "currency": "57090.79\u20ac"}
+{"id": "360", "date": "2023-08-01", "company": "Societe Generale", "department": "Customer Service", "so": "37", "contract_number": "ME79059544335502812477", "currency": "-80653.60\u20ac"}
+{"id": "361", "date": "2023-03-30", "company": "Societe Generale", "department": "Asset Management", "so": "23", "contract_number": "LV51BJTI4425883309330", "currency": "-313.84\u20ac"}
+{"id": "362", "date": "2023-05-27", "company": "Societe Generale", "department": "Asset Management", "so": "19", "contract_number": "MC7721236368411622271884336", "currency": "-21617.36\u20ac"}
+{"id": "363", "date": "2022-11-01", "company": "Societe Generale", "department": "Quality Assurance", "so": "29", "contract_number": "BH14454310477005742220", "currency": "47558.13\u20ac"}
+{"id": "364", "date": "2023-10-05", "company": "Societe Generale", "department": "Advertising", "so": "37", "contract_number": "PL28386313236480516802449052", "currency": "71239.09\u20ac"}
+{"id": "365", "date": "2022-11-15", "company": "Societe Generale", "department": "Research and Development", "so": "47", "contract_number": "CR0834780910076442385", "currency": "40194.60\u20ac"}
+{"id": "366", "date": "2023-12-29", "company": "Societe Generale", "department": "Finances", "so": "41", "contract_number": "IL351689142783573125153", "currency": "-45827.27\u20ac"}
+{"id": "367", "date": "2023-06-23", "company": "Societe Generale", "department": "Tech Support", "so": "17", "contract_number": "RS95421819112523618915", "currency": "64839.22\u20ac"}
+{"id": "368", "date": "2023-12-27", "company": "Societe Generale", "department": "Advertising", "so": "47", "contract_number": "FO2275587392553886", "currency": "93158.28\u20ac"}
+{"id": "369", "date": "2022-12-29", "company": "Societe Generale", "department": "Sales and Marketing", "so": "13", "contract_number": "AD2679028156503319813775", "currency": "53638.55\u20ac"}
+{"id": "370", "date": "2023-07-30", "company": "Societe Generale", "department": "Customer Service", "so": "31", "contract_number": "HU84914717118793332218788370", "currency": "-25780.50\u20ac"}
+{"id": "371", "date": "2023-12-25", "company": "Societe Generale", "department": "Customer Service", "so": "29", "contract_number": "IS426159987945102375386309", "currency": "54115.92\u20ac"}
+{"id": "372", "date": "2023-03-11", "company": "Societe Generale", "department": "Customer Service", "so": "11", "contract_number": "HR5867223476473238665", "currency": "37514.38\u20ac"}
+{"id": "373", "date": "2023-01-04", "company": "Societe Generale", "department": "Media Relations", "so": "23", "contract_number": "HU64096160224792776561533754", "currency": "-67648.24\u20ac"}
+{"id": "374", "date": "2023-04-30", "company": "Societe Generale", "department": "Tech Support", "so": "37", "contract_number": "NO4260423482463", "currency": "-66290.96\u20ac"}
+{"id": "375", "date": "2022-10-02", "company": "Societe Generale", "department": "Media Relations", "so": "47", "contract_number": "NO2912403612521", "currency": "91918.97\u20ac"}
+{"id": "376", "date": "2023-02-28", "company": "Societe Generale", "department": "Tech Support", "so": "29", "contract_number": "MU8218643630635620520828754910", "currency": "-61519.82\u20ac"}
+{"id": "377", "date": "2022-12-18", "company": "Societe Generale", "department": "Legal Department", "so": "29", "contract_number": "LI1527675139182840162", "currency": "14019.74\u20ac"}
+{"id": "378", "date": "2023-06-02", "company": "Societe Generale", "department": "Payroll", "so": "43", "contract_number": "GL4140958064959421", "currency": "45798.59\u20ac"}
+{"id": "379", "date": "2023-10-11", "company": "Societe Generale", "department": "Customer Relations", "so": "43", "contract_number": "LB50733717770853754315012569", "currency": "-56647.66\u20ac"}
+{"id": "380", "date": "2024-01-14", "company": "Societe Generale", "department": "Accounting", "so": "13", "contract_number": "BH87547266524439723568", "currency": "56405.43\u20ac"}
+{"id": "381", "date": "2023-09-03", "company": "Societe Generale", "department": "Legal Department", "so": "41", "contract_number": "TR154852114835081867268116", "currency": "79682.81\u20ac"}
+{"id": "382", "date": "2023-01-18", "company": "Societe Generale", "department": "Tech Support", "so": "19", "contract_number": "TR596332414021293028255267", "currency": "91513.44\u20ac"}
+{"id": "383", "date": "2022-10-30", "company": "Societe Generale", "department": "Human Resources", "so": "17", "contract_number": "PK7377512488472639551612", "currency": "7399.60\u20ac"}
+{"id": "384", "date": "2022-10-17", "company": "Societe Generale", "department": "Tech Support", "so": "43", "contract_number": "AD1313261767017182127637", "currency": "-59745.35\u20ac"}
+{"id": "385", "date": "2023-05-29", "company": "Societe Generale", "department": "Customer Service", "so": "43", "contract_number": "DO37604884428058784103757731", "currency": "-98909.60\u20ac"}
+{"id": "386", "date": "2023-06-07", "company": "Societe Generale", "department": "Public Relations", "so": "13", "contract_number": "CR1113766688213644832", "currency": "-35971.66\u20ac"}
+{"id": "387", "date": "2023-07-08", "company": "Societe Generale", "department": "Finances", "so": "19", "contract_number": "MT19TGHO85540287851646454021392", "currency": "-93951.60\u20ac"}
+{"id": "388", "date": "2023-02-16", "company": "Societe Generale", "department": "Accounting", "so": "41", "contract_number": "EE076968572829984522", "currency": "67341.96\u20ac"}
+{"id": "389", "date": "2023-04-23", "company": "Societe Generale", "department": "Finances", "so": "31", "contract_number": "MC2021794363880092261511926", "currency": "47568.74\u20ac"}
+{"id": "390", "date": "2023-10-05", "company": "Societe Generale", "department": "Finances", "so": "23", "contract_number": "SK1088371097887964652552", "currency": "-36708.35\u20ac"}
+{"id": "391", "date": "2024-01-06", "company": "Societe Generale", "department": "Asset Management", "so": "13", "contract_number": "DK8283646771837818", "currency": "71393.47\u20ac"}
+{"id": "392", "date": "2023-05-06", "company": "Societe Generale", "department": "Legal Department", "so": "47", "contract_number": "IS344327254597493466271116", "currency": "-21644.15\u20ac"}
+{"id": "393", "date": "2023-02-16", "company": "Societe Generale", "department": "Legal Department", "so": "19", "contract_number": "DK4685623591721206", "currency": "-78973.85\u20ac"}
+{"id": "394", "date": "2023-07-31", "company": "Societe Generale", "department": "Public Relations", "so": "37", "contract_number": "NO2814276743164", "currency": "-28807.59\u20ac"}
+{"id": "395", "date": "2023-09-30", "company": "Societe Generale", "department": "Finances", "so": "31", "contract_number": "LI1092168322682878651", "currency": "-34774.04\u20ac"}
+{"id": "396", "date": "2022-12-02", "company": "Societe Generale", "department": "Quality Assurance", "so": "31", "contract_number": "LU189994692847881750", "currency": "-68627.64\u20ac"}
+{"id": "397", "date": "2023-05-04", "company": "Societe Generale", "department": "Public Relations", "so": "17", "contract_number": "KZ716854404124749811", "currency": "-12741.71\u20ac"}
+{"id": "398", "date": "2024-01-02", "company": "Societe Generale", "department": "Finances", "so": "29", "contract_number": "IE92PPFK65722887188327", "currency": "-12027.35\u20ac"}
+{"id": "399", "date": "2022-10-09", "company": "Societe Generale", "department": "Public Relations", "so": "11", "contract_number": "FR9079647913816638126368537", "currency": "-50331.73\u20ac"}
+{"id": "400", "date": "2023-09-16", "company": "Societe Generale", "department": "Legal Department", "so": "11", "contract_number": "GB68NUBN44776967558860", "currency": "97141.12\u20ac"}
+{"id": "401", "date": "2022-11-06", "company": "Societe Generale", "department": "Payroll", "so": "41", "contract_number": "DE83383044845194421342", "currency": "-8719.43\u20ac"}
+{"id": "402", "date": "2023-07-17", "company": "Societe Generale", "department": "Finances", "so": "19", "contract_number": "MC6883496590628963818788877", "currency": "37597.26\u20ac"}
+{"id": "403", "date": "2024-01-04", "company": "Societe Generale", "department": "Customer Service", "so": "31", "contract_number": "KZ128467579861615177", "currency": "29156.36\u20ac"}
+{"id": "404", "date": "2022-12-28", "company": "Societe Generale", "department": "Research and Development", "so": "13", "contract_number": "SA1687688325783105041776", "currency": "-82811.93\u20ac"}
+{"id": "405", "date": "2023-08-09", "company": "Societe Generale", "department": "Sales and Marketing", "so": "37", "contract_number": "PT29411011315041075455132", "currency": "59455.98\u20ac"}
+{"id": "406", "date": "2023-09-05", "company": "Societe Generale", "department": "Public Relations", "so": "17", "contract_number": "FI3794982248634531", "currency": "34649.48\u20ac"}
+{"id": "407", "date": "2023-04-02", "company": "Societe Generale", "department": "Asset Management", "so": "23", "contract_number": "KW4452321754421552192543662871", "currency": "-68106.84\u20ac"}
+{"id": "408", "date": "2022-10-15", "company": "Societe Generale", "department": "Human Resources", "so": "13", "contract_number": "MU7464827971056457724983671614", "currency": "-99890.77\u20ac"}
+{"id": "409", "date": "2022-10-02", "company": "Societe Generale", "department": "Finances", "so": "37", "contract_number": "AZ24350726143993084765133358", "currency": "37350.26\u20ac"}
+{"id": "410", "date": "2022-11-16", "company": "Societe Generale", "department": "Public Relations", "so": "29", "contract_number": "SM3611975129084174019118505", "currency": "-84100.90\u20ac"}
+{"id": "411", "date": "2023-01-10", "company": "Societe Generale", "department": "Tech Support", "so": "31", "contract_number": "HU11470301754259554223949844", "currency": "25670.32\u20ac"}
+{"id": "412", "date": "2023-04-18", "company": "Societe Generale", "department": "Finances", "so": "19", "contract_number": "EE246247085141167268", "currency": "62131.37\u20ac"}
+{"id": "413", "date": "2023-09-09", "company": "Societe Generale", "department": "Advertising", "so": "19", "contract_number": "AL45703619671443878247579452", "currency": "-95855.61\u20ac"}
+{"id": "414", "date": "2022-12-11", "company": "Societe Generale", "department": "Public Relations", "so": "29", "contract_number": "IS220254679147758022213285", "currency": "-58185.60\u20ac"}
+{"id": "415", "date": "2024-01-31", "company": "Societe Generale", "department": "Advertising", "so": "47", "contract_number": "MU3834817276262952258999727775", "currency": "18292.28\u20ac"}
+{"id": "416", "date": "2023-03-29", "company": "Societe Generale", "department": "Sales and Marketing", "so": "43", "contract_number": "SE3840126855366421171809", "currency": "-47569.68\u20ac"}
+{"id": "417", "date": "2023-12-24", "company": "Societe Generale", "department": "Tech Support", "so": "11", "contract_number": "DE64670840289256673610", "currency": "26925.79\u20ac"}
+{"id": "418", "date": "2023-06-02", "company": "Societe Generale", "department": "Accounting", "so": "43", "contract_number": "IE79PMMT22556580183436", "currency": "98471.53\u20ac"}
+{"id": "419", "date": "2022-10-12", "company": "Societe Generale", "department": "Quality Assurance", "so": "29", "contract_number": "AT693576746999521635", "currency": "73154.22\u20ac"}
+{"id": "420", "date": "2023-11-21", "company": "Societe Generale", "department": "Public Relations", "so": "13", "contract_number": "PL21872265620739687082816647", "currency": "-11293.33\u20ac"}
+{"id": "421", "date": "2023-09-07", "company": "Societe Generale", "department": "Public Relations", "so": "17", "contract_number": "EE787847014643533578", "currency": "-57512.56\u20ac"}
+{"id": "422", "date": "2023-06-22", "company": "Societe Generale", "department": "Customer Relations", "so": "13", "contract_number": "IS711345261366126623102817", "currency": "32392.79\u20ac"}
+{"id": "423", "date": "2024-01-13", "company": "Societe Generale", "department": "Tech Support", "so": "23", "contract_number": "DK9125867070947223", "currency": "81414.07\u20ac"}
+{"id": "424", "date": "2023-09-27", "company": "Societe Generale", "department": "Finances", "so": "47", "contract_number": "GE32854424128521431175", "currency": "28915.59\u20ac"}
+{"id": "425", "date": "2022-11-23", "company": "Societe Generale", "department": "Asset Management", "so": "13", "contract_number": "SE3617818714334731762932", "currency": "-94563.21\u20ac"}
+{"id": "426", "date": "2023-05-05", "company": "Societe Generale", "department": "Advertising", "so": "41", "contract_number": "CY45076256657636696827153768", "currency": "14926.80\u20ac"}
+{"id": "427", "date": "2023-02-15", "company": "Societe Generale", "department": "Customer Service", "so": "47", "contract_number": "AL26644631636241931625162362", "currency": "48746.76\u20ac"}
+{"id": "428", "date": "2022-11-09", "company": "Societe Generale", "department": "Payroll", "so": "11", "contract_number": "FI8677786344117487", "currency": "10615.44\u20ac"}
+{"id": "429", "date": "2023-08-28", "company": "Societe Generale", "department": "Finances", "so": "23", "contract_number": "AE791708829544664653182", "currency": "-15225.50\u20ac"}
+{"id": "430", "date": "2023-10-19", "company": "Societe Generale", "department": "Finances", "so": "29", "contract_number": "IS412741057196298567756332", "currency": "71816.16\u20ac"}
+{"id": "431", "date": "2023-09-19", "company": "Societe Generale", "department": "Public Relations", "so": "19", "contract_number": "GR2532587352418126174796857", "currency": "-2869.30\u20ac"}
+{"id": "432", "date": "2023-07-11", "company": "Societe Generale", "department": "Customer Relations", "so": "19", "contract_number": "DO90476953786745363713735685", "currency": "35179.97\u20ac"}
+{"id": "433", "date": "2023-04-30", "company": "Societe Generale", "department": "Customer Service", "so": "17", "contract_number": "LU988792538119176401", "currency": "-91172.87\u20ac"}
+{"id": "434", "date": "2023-10-01", "company": "Societe Generale", "department": "Customer Service", "so": "23", "contract_number": "AD1552850465064646524720", "currency": "89612.49\u20ac"}
+{"id": "435", "date": "2023-05-06", "company": "Societe Generale", "department": "Sales and Marketing", "so": "19", "contract_number": "AD7332115125531629484355", "currency": "-980.29\u20ac"}
+{"id": "436", "date": "2022-11-12", "company": "Societe Generale", "department": "Accounting", "so": "19", "contract_number": "PK0275845789458262298754", "currency": "84527.22\u20ac"}
+{"id": "437", "date": "2023-06-13", "company": "Societe Generale", "department": "Payroll", "so": "11", "contract_number": "BH26828365731213522611", "currency": "-30737.72\u20ac"}
+{"id": "438", "date": "2022-10-13", "company": "Societe Generale", "department": "Finances", "so": "29", "contract_number": "LB59668782555624615254444544", "currency": "77374.90\u20ac"}
+{"id": "439", "date": "2023-04-04", "company": "Societe Generale", "department": "Advertising", "so": "41", "contract_number": "EE066832865544572167", "currency": "-7982.16\u20ac"}
+{"id": "440", "date": "2023-10-14", "company": "Societe Generale", "department": "Customer Service", "so": "37", "contract_number": "TR584763315571126055633492", "currency": "-38525.30\u20ac"}
+{"id": "441", "date": "2023-10-15", "company": "Societe Generale", "department": "Public Relations", "so": "43", "contract_number": "GB33LVDI65522634232012", "currency": "35480.70\u20ac"}
+{"id": "442", "date": "2023-12-10", "company": "Societe Generale", "department": "Asset Management", "so": "41", "contract_number": "BA703957645848824543", "currency": "28952.13\u20ac"}
+{"id": "443", "date": "2023-04-01", "company": "Societe Generale", "department": "Media Relations", "so": "31", "contract_number": "MT72BTJF04556436181132528969241", "currency": "35694.33\u20ac"}
+{"id": "444", "date": "2022-12-05", "company": "Societe Generale", "department": "Sales and Marketing", "so": "23", "contract_number": "DE08164759622636774625", "currency": "-88864.61\u20ac"}
+{"id": "445", "date": "2023-02-21", "company": "Societe Generale", "department": "Research and Development", "so": "37", "contract_number": "LU543723215768878159", "currency": "-12748.27\u20ac"}
+{"id": "446", "date": "2023-06-25", "company": "Societe Generale", "department": "Human Resources", "so": "19", "contract_number": "EE092537945728124522", "currency": "94075.00\u20ac"}
+{"id": "447", "date": "2023-12-17", "company": "Societe Generale", "department": "Sales and Marketing", "so": "31", "contract_number": "SK3243263434914161938377", "currency": "15702.96\u20ac"}
+{"id": "448", "date": "2023-09-18", "company": "Societe Generale", "department": "Asset Management", "so": "41", "contract_number": "HU33510133528566977435071737", "currency": "37191.98\u20ac"}
+{"id": "449", "date": "2022-11-28", "company": "Societe Generale", "department": "Media Relations", "so": "13", "contract_number": "FO9212937101884734", "currency": "25661.29\u20ac"}
+{"id": "450", "date": "2023-03-14", "company": "Societe Generale", "department": "Sales and Marketing", "so": "13", "contract_number": "SE4164848614953338710843", "currency": "-17503.04\u20ac"}
+{"id": "451", "date": "2023-12-28", "company": "Societe Generale", "department": "Accounting", "so": "43", "contract_number": "BH33127202852768156439", "currency": "45259.10\u20ac"}
+{"id": "452", "date": "2023-10-05", "company": "Societe Generale", "department": "Media Relations", "so": "47", "contract_number": "DE17871678605668582191", "currency": "72681.02\u20ac"}
+{"id": "453", "date": "2023-08-29", "company": "Societe Generale", "department": "Accounting", "so": "13", "contract_number": "KZ739978192588523071", "currency": "85613.67\u20ac"}
+{"id": "454", "date": "2024-01-26", "company": "Societe Generale", "department": "Finances", "so": "11", "contract_number": "MC8823276286608754226939816", "currency": "57636.71\u20ac"}
+{"id": "455", "date": "2024-01-20", "company": "Societe Generale", "department": "Advertising", "so": "11", "contract_number": "BG80KKRN32534717982473", "currency": "83563.73\u20ac"}
+{"id": "456", "date": "2023-09-24", "company": "Societe Generale", "department": "Human Resources", "so": "13", "contract_number": "GR8314880943533855629626548", "currency": "68013.46\u20ac"}
+{"id": "457", "date": "2023-01-02", "company": "Societe Generale", "department": "Customer Relations", "so": "29", "contract_number": "TR896694424378826484524721", "currency": "-52076.11\u20ac"}
+{"id": "458", "date": "2023-09-15", "company": "Societe Generale", "department": "Accounting", "so": "23", "contract_number": "AZ60624295427274135201832213", "currency": "36759.62\u20ac"}
+{"id": "459", "date": "2023-09-21", "company": "Societe Generale", "department": "Asset Management", "so": "41", "contract_number": "LB36966155211657709726105444", "currency": "35627.51\u20ac"}
+{"id": "460", "date": "2023-06-17", "company": "Societe Generale", "department": "Media Relations", "so": "13", "contract_number": "EE344244415713799876", "currency": "50950.90\u20ac"}
+{"id": "461", "date": "2023-09-04", "company": "Societe Generale", "department": "Research and Development", "so": "29", "contract_number": "HU82416172147102954657767396", "currency": "-34714.65\u20ac"}
+{"id": "462", "date": "2023-03-13", "company": "Societe Generale", "department": "Tech Support", "so": "17", "contract_number": "AT108903421885771577", "currency": "48779.16\u20ac"}
+{"id": "463", "date": "2023-02-18", "company": "Societe Generale", "department": "Public Relations", "so": "41", "contract_number": "CR3611757775986699372", "currency": "35204.54\u20ac"}
+{"id": "464", "date": "2023-02-10", "company": "Societe Generale", "department": "Finances", "so": "31", "contract_number": "PL85742846041714446873311683", "currency": "42581.17\u20ac"}
+{"id": "465", "date": "2022-10-19", "company": "Societe Generale", "department": "Legal Department", "so": "41", "contract_number": "HU79913305516927777218790483", "currency": "51770.06\u20ac"}
+{"id": "466", "date": "2023-06-14", "company": "Societe Generale", "department": "Tech Support", "so": "29", "contract_number": "MK35991029858975141", "currency": "2858.35\u20ac"}
+{"id": "467", "date": "2023-05-31", "company": "Societe Generale", "department": "Payroll", "so": "37", "contract_number": "LU351418938621416164", "currency": "86191.46\u20ac"}
+{"id": "468", "date": "2023-04-29", "company": "Societe Generale", "department": "Public Relations", "so": "11", "contract_number": "DE13444632156783512537", "currency": "15638.64\u20ac"}
+{"id": "469", "date": "2023-02-25", "company": "Societe Generale", "department": "Research and Development", "so": "23", "contract_number": "IE13TGPI76874238764634", "currency": "46744.46\u20ac"}
+{"id": "470", "date": "2023-10-15", "company": "Societe Generale", "department": "Media Relations", "so": "11", "contract_number": "SM7745449296252974310375133", "currency": "-16828.17\u20ac"}
+{"id": "471", "date": "2023-10-01", "company": "Societe Generale", "department": "Research and Development", "so": "43", "contract_number": "TR264754875167037896101520", "currency": "-97782.00\u20ac"}
+{"id": "472", "date": "2023-08-20", "company": "Societe Generale", "department": "Research and Development", "so": "31", "contract_number": "AT744512537150747274", "currency": "-32553.81\u20ac"}
+{"id": "473", "date": "2023-03-20", "company": "Societe Generale", "department": "Customer Service", "so": "41", "contract_number": "AT647666962821883398", "currency": "17584.99\u20ac"}
+{"id": "474", "date": "2022-12-20", "company": "Societe Generale", "department": "Media Relations", "so": "37", "contract_number": "BA340047174246944125", "currency": "4856.66\u20ac"}
+{"id": "475", "date": "2023-02-04", "company": "Societe Generale", "department": "Accounting", "so": "47", "contract_number": "RS02527012603037612245", "currency": "4629.60\u20ac"}
+{"id": "476", "date": "2023-09-29", "company": "Societe Generale", "department": "Customer Service", "so": "23", "contract_number": "SK8077252394763015372012", "currency": "14169.23\u20ac"}
+{"id": "477", "date": "2023-03-11", "company": "Societe Generale", "department": "Human Resources", "so": "37", "contract_number": "CR1018736439373633975", "currency": "36615.27\u20ac"}
+{"id": "478", "date": "2023-07-02", "company": "Societe Generale", "department": "Legal Department", "so": "31", "contract_number": "HU34447177065373119247855586", "currency": "-60880.28\u20ac"}
+{"id": "479", "date": "2023-03-02", "company": "Societe Generale", "department": "Asset Management", "so": "41", "contract_number": "IT208SUNNI48512422076482522", "currency": "82473.22\u20ac"}
+{"id": "480", "date": "2023-09-22", "company": "Societe Generale", "department": "Payroll", "so": "19", "contract_number": "GR4735526844536180184212386", "currency": "-87518.72\u20ac"}
+{"id": "481", "date": "2023-07-15", "company": "Societe Generale", "department": "Public Relations", "so": "11", "contract_number": "BH11035477245538718728", "currency": "-98285.82\u20ac"}
+{"id": "482", "date": "2023-01-09", "company": "Societe Generale", "department": "Accounting", "so": "13", "contract_number": "IL463955136667514266666", "currency": "-24726.64\u20ac"}
+{"id": "483", "date": "2023-10-14", "company": "Societe Generale", "department": "Customer Relations", "so": "23", "contract_number": "DK5270214715850261", "currency": "-36964.13\u20ac"}
+{"id": "484", "date": "2023-07-11", "company": "Societe Generale", "department": "Research and Development", "so": "11", "contract_number": "AZ81728750758485462159238835", "currency": "85387.13\u20ac"}
+{"id": "485", "date": "2023-12-16", "company": "Societe Generale", "department": "Finances", "so": "23", "contract_number": "CY10814386813862726526334537", "currency": "-69430.77\u20ac"}
+{"id": "486", "date": "2023-02-24", "company": "Societe Generale", "department": "Tech Support", "so": "41", "contract_number": "FI3264416613950478", "currency": "-61223.13\u20ac"}
+{"id": "487", "date": "2023-11-16", "company": "Societe Generale", "department": "Research and Development", "so": "11", "contract_number": "AE611362172628253356893", "currency": "-3489.17\u20ac"}
+{"id": "488", "date": "2022-10-19", "company": "Societe Generale", "department": "Accounting", "so": "13", "contract_number": "MR8054677350569425193329378", "currency": "48878.00\u20ac"}
+{"id": "489", "date": "2023-07-16", "company": "Societe Generale", "department": "Advertising", "so": "41", "contract_number": "IE66WKIK81569223447165", "currency": "-62728.43\u20ac"}
+{"id": "490", "date": "2023-12-10", "company": "Societe Generale", "department": "Legal Department", "so": "23", "contract_number": "FR1842567236316411485382375", "currency": "87718.81\u20ac"}
+{"id": "491", "date": "2022-10-01", "company": "Societe Generale", "department": "Legal Department", "so": "19", "contract_number": "SK0296715246082708143319", "currency": "67181.49\u20ac"}
+{"id": "492", "date": "2023-05-12", "company": "Societe Generale", "department": "Sales and Marketing", "so": "19", "contract_number": "AD5061260957630366332068", "currency": "-96024.72\u20ac"}
+{"id": "493", "date": "2023-09-01", "company": "Societe Generale", "department": "Public Relations", "so": "31", "contract_number": "NO7819541857838", "currency": "-7014.81\u20ac"}
+{"id": "494", "date": "2022-10-18", "company": "Societe Generale", "department": "Advertising", "so": "19", "contract_number": "BE83728856497530", "currency": "18537.97\u20ac"}
+{"id": "495", "date": "2023-09-10", "company": "Societe Generale", "department": "Sales and Marketing", "so": "17", "contract_number": "FO6597769520726959", "currency": "-42208.42\u20ac"}
+{"id": "496", "date": "2023-09-24", "company": "Societe Generale", "department": "Legal Department", "so": "37", "contract_number": "GE34991634007366518415", "currency": "-68414.45\u20ac"}
+{"id": "497", "date": "2022-12-19", "company": "Societe Generale", "department": "Tech Support", "so": "11", "contract_number": "AE806834384411012531666", "currency": "-48255.82\u20ac"}
+{"id": "498", "date": "2022-10-27", "company": "Societe Generale", "department": "Sales and Marketing", "so": "17", "contract_number": "IS961291417874450156272965", "currency": "10086.18\u20ac"}
+{"id": "499", "date": "2023-02-05", "company": "Societe Generale", "department": "Legal Department", "so": "31", "contract_number": "LV64YNOW6211553714109", "currency": "10176.45\u20ac"}
+{"id": "500", "date": "2023-10-30", "company": "Societe Generale", "department": "Advertising", "so": "47", "contract_number": "SE2446573683576309971278", "currency": "-24841.73\u20ac"}
+{"id": "501", "date": "2022-10-02", "company": "Societe Generale", "department": "Customer Service", "so": "29", "contract_number": "AD7649773146264212823605", "currency": "-75387.41\u20ac"}
+{"id": "502", "date": "2023-12-14", "company": "Societe Generale", "department": "Asset Management", "so": "43", "contract_number": "BE88735392836523", "currency": "82988.78\u20ac"}
+{"id": "503", "date": "2023-03-31", "company": "Societe Generale", "department": "Media Relations", "so": "47", "contract_number": "CY34148356334981821308213044", "currency": "48665.84\u20ac"}
+{"id": "504", "date": "2023-01-25", "company": "Societe Generale", "department": "Sales and Marketing", "so": "31", "contract_number": "HR3216318255697622846", "currency": "-48624.42\u20ac"}
+{"id": "505", "date": "2023-04-05", "company": "Societe Generale", "department": "Customer Service", "so": "11", "contract_number": "BA097513363461398412", "currency": "60990.74\u20ac"}
+{"id": "506", "date": "2023-09-22", "company": "Societe Generale", "department": "Customer Relations", "so": "19", "contract_number": "LT589121474108015176", "currency": "-24870.73\u20ac"}
+{"id": "507", "date": "2024-01-21", "company": "Societe Generale", "department": "Asset Management", "so": "23", "contract_number": "MR5763314170404944830956282", "currency": "52333.58\u20ac"}

@@ -1,0 +1,8 @@
+config-version: 2
+version: 2
+sources:
+  - name: staging     # the name we want to reference this source by
+    schema: staging   # the schema the raw data was loaded into
+    tables:
+      - name: stg_sg
+      - name: stg_cdn

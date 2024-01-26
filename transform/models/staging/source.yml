@@ -1,0 +1,8 @@
+config-version: 2
+version: 2
+sources:
+  - name: raw     # the name we want to reference this source by
+    schema: raw   # the schema the raw data was loaded into
+    tables:
+      - name: sg
+      - name: cdn

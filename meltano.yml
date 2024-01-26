@@ -1,0 +1,62 @@
+version: 1
+default_environment: dev
+project_id: 97719ecc-7669-4133-ab6e-12b74d166fb5
+environments:
+- name: dev
+  config:
+    plugins:
+      extractors:
+      - name: tap-csv
+        config:
+          add_metadata_columns: false
+          files:
+          - entity: cdn
+            file: accounting-data-cdn.csv
+            path: ./data/cdn/
+            keys:
+            - id
+          - entity: sg
+            file: accounting-data-sg.csv
+            path: ./data/sg/
+            keys:
+            - id
+      loaders:
+      - name: target-postgres
+        config:
+          add_metadata_columns: false
+          user: meltano
+          password: password
+          database: postgres
+          host: localhost
+          port: 5432
+      utilities:
+      - name: dbt-postgres
+        config:
+          add_metadata_columns: false
+          host: localhost
+          port: 5432
+          user: meltano
+          password: password
+          dbname: postgres
+          schema: analytics
+- name: staging
+- name: prod
+send_anonymous_usage_stats: false
+plugins:
+  extractors:
+  - name: tap-csv
+    variant: meltanolabs
+    pip_url: git+https://github.com/MeltanoLabs/tap-csv.git
+  loaders:
+  # - name: target-jsonl
+  #   variant: andyh1203
+  #   pip_url: target-jsonl
+  - name: target-postgres
+    variant: meltanolabs
+    pip_url: meltanolabs-target-postgres
+    config:
+      default_target_schema: raw
+  utilities:
+  - name: dbt-postgres
+    variant: dbt-labs
+    pip_url: dbt-core~=1.7.0 dbt-postgres~=1.7.0 git+https://github.com/meltano/dbt-ext.git@main
