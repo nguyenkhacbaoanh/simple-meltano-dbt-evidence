@@ -35,7 +35,7 @@ group by 1
 
 ## Key facteurs
 - There were <Value data={sg_count_nonmatched_filtered.filter(d => d.company.toLowerCase() === $page.params.company.toLowerCase())} column=nonmatched_so/>
- system operation which <Value data={sg_count_nonmatched_filtered.filter(d => d.company === $page.params.company)} column=nonmatched_contract/> contracts problemes during migration, our auditeur can more details to make manuals entries for next phase.
+ system operation which <Value data={sg_count_nonmatched_filtered.filter(d => d.company.toLowerCase() === $page.params.company.toLowerCase())} column=nonmatched_contract/> contracts problemes during migration, our auditeur can more details to make manuals entries for next phase.
 
 
 <DataTable data={nonmatched.filter(d => d.company.toLowerCase() === $page.params.company.toLowerCase())} search="true"/>
