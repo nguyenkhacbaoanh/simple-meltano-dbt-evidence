@@ -40,4 +40,5 @@ from ${nonmatched}
 group by 1
 ```
 
+Click a row to see the report for that company:
 <DataTable data="{sg_count_nonmatched}" link=company_link rows=10 search="true" rowShading="true" sortable="true" />

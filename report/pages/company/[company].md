@@ -38,4 +38,10 @@ group by 1
  system operation which <Value data={sg_count_nonmatched_filtered.filter(d => d.company.toLowerCase() === $page.params.company.toLowerCase())} column=nonmatched_contract/> contracts problemes during migration, our auditeur can more details to make manuals entries for next phase.
 
 
-<DataTable data={nonmatched.filter(d => d.company.toLowerCase() === $page.params.company.toLowerCase())} search="true"/>
+<DataTable data={nonmatched.filter(d => d.company.toLowerCase() === $page.params.company.toLowerCase())} search="true">
+	<Column id="date"/>
+	<Column id="department"/>
+	<Column id="so"/>
+	<Column id="contract_number"/>
+	<Column id="currency"/>
+</DataTable>

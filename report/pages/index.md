@@ -87,4 +87,5 @@ group by 1
 ```
 See [Gaps Investigation](/company) for more information.
 
+Click a row to see the report for that company:
 <DataTable data="{sg_count_nonmatched}" link=link_company/>
