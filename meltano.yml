@@ -20,6 +20,16 @@ environments:
             path: ./data/sg/
             keys:
             - id
+      - name: tap-postgres
+        config:
+          database: postgres
+          user: meltano
+          host: localhost
+          port: 5432
+          filter_schemas:
+          - raw
+          - analytics
+          default_replication_method: FULL_TABLE
       loaders:
       - name: target-postgres
         config:
@@ -29,6 +39,15 @@ environments:
           database: postgres
           host: localhost
           port: 5432
+      - name: target-duckdb
+        config:
+          filepath: ${MIGRATION_DB_PATH}
+          default_target_schema: ${DEFAULT_TARGET_SCHEMA}
+          schema_mapping:
+            raw:
+              target_schema: raw
+            analytics:
+              target_schema: analytics
       utilities:
       - name: dbt-postgres
         config:
@@ -47,6 +66,9 @@ plugins:
   - name: tap-csv
     variant: meltanolabs
     pip_url: git+https://github.com/MeltanoLabs/tap-csv.git
+  - name: tap-postgres
+    variant: meltanolabs
+    pip_url: git+https://github.com/MeltanoLabs/tap-postgres.git
   loaders:
   # - name: target-jsonl
   #   variant: andyh1203
@@ -56,6 +78,11 @@ plugins:
     pip_url: meltanolabs-target-postgres
     config:
       default_target_schema: raw
+  - name: target-duckdb
+    variant: jwills
+    pip_url: target-duckdb~=0.6
+    config:
+      primary_key_required: false
   utilities:
   - name: dbt-postgres
     variant: dbt-labs
