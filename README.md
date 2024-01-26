@@ -25,6 +25,11 @@ meltano run dbt-postgres:run
 meltano run dbt-postgres:test
 ```
 
+Using Data replication:
+```bash
+meltano run tap-postgres target-duckdb
+```
+
 To run evidence:
 
 ```bash
